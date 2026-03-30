@@ -1,0 +1,306 @@
+[
+  {
+    "id": "em_001",
+    "group_key": "Anxiety and Sorrow",
+    "title": "For Anxiety and Sorrow (1)",
+    "category": "Emotions",
+    "subcategory": "For Anxiety and Sorrow",
+    "arabic": "اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ...",
+    "transliteration": "Allāhumma innī ‘abduka, ibnu ‘abdika, ibnu amatika, nāṣiyatī biyadika, māḍin fiyya ḥukmuka, ‘adlun fiyya qaḍā'uka...",
+    "translations": {
+      "english": "O Allah, I am Your slave, son of Your slave, son of Your female slave, my forelock is in Your hand, Your command over me is forever executed and Your decree over me is just...",
+      "urdu": "اے اللہ! میں تیرا بندہ ہوں، تیرے بندے کا بیٹا اور تیری لونڈی کا بیٹا ہوں، میری پیشانی تیرے ہاتھ میں ہے، تیرا حکم مجھ پر جاری ہے، میرے بارے میں تیرا فیصلہ سراسر عدل ہے...",
+      "hindi": "ऐ अल्लाह! मैं तेरा बन्दा हूँ, तेरे बन्दे का बेटा और तेरी लौंडी का बेटा हूँ, मेरी पेशानी तेरे हाथ में है, तेरा हुक्म मुझ पर जारी है, मेरे बारे में तेरा फ़ैसला सरासर अदल है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "1/391" },
+    "tags": ["anxiety", "sorrow", "relief", "submission"]
+  },
+  {
+    "id": "em_002",
+    "group_key": "Anxiety and Sorrow",
+    "title": "For Anxiety and Sorrow (2)",
+    "category": "Emotions",
+    "subcategory": "For Anxiety and Sorrow",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "transliteration": "Allāhumma innī a‘ūdhu bika minal-hammi wal-ḥazani, wal-‘ajzi wal-kasali, wal-bukhli wal-jubni, wa ḍala‘id-dayni wa ghalabatir-rijāl",
+    "translations": {
+      "english": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being overpowered by men.",
+      "urdu": "اے اللہ! میں فکر اور غم، عاجزی اور سستی، بخل اور بزدلی، قرض کے بوجھ اور لوگوں کے غلبے سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं फ़िक्र और ग़म, आज़ज़ी और सुस्ती, बुख़्ल और बुज़दिली, क़र्ज़ के बोझ और लोगों के ग़लबे से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "7/158" },
+    "tags": ["anxiety", "debt", "laziness", "protection"]
+  },
+  {
+    "id": "em_003",
+    "group_key": "Distress",
+    "title": "For one in Distress (1)",
+    "category": "Emotions",
+    "subcategory": "For one in Distress",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْعَظِيمُ الْحَلِيمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ...",
+    "transliteration": "Lā ilāha illallāhul-‘Aẓīmul-Ḥalīmu, lā ilāha illallāhu Rabbul-‘Arshil-‘Aẓīmi...",
+    "translations": {
+      "english": "There is no god but Allah, the Magnificent, the Forbearing. There is no god but Allah, Lord of the Magnificent Throne...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں جو عظمت والا اور بردبار ہے، اللہ کے سوا کوئی معبود نہیں جو عرشِ عظیم کا رب ہے...",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं जो अज़मत वाला और बुर्दबार है, अल्लाह के सिवा कोई माबूद नहीं जो अर्शे-अज़ीम का रब है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "8/154" },
+    "tags": ["distress", "praise", "calm", "hardship"]
+  },
+  {
+    "id": "em_004",
+    "group_key": "Distress",
+    "title": "For one in Distress (2)",
+    "category": "Emotions",
+    "subcategory": "For one in Distress",
+    "arabic": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ لَا إِلَهَ إِلَّا أَنْتَ",
+    "transliteration": "Allāhumma raḥmataka arjū falā takilnī ilā nafsī ṭarfata ‘aynin, wa aṣliḥ lī sha’nī kullahu lā ilāha illā Anta",
+    "translations": {
+      "english": "O Allah, I hope for Your mercy. Do not leave me to myself even for the blinking of an eye, and correct all of my affairs for me. There is no god but You.",
+      "urdu": "اے اللہ! میں تیری رحمت کا امیدوار ہوں، پس مجھے ایک لمحے کے لیے بھی میرے نفس کے سپرد نہ کر، اور میرے تمام حالات درست فرما دے، تیرے سوا کوئی معبود نہیں۔",
+      "hindi": "ऐ अल्लाह! मैं तेरी रहमत का उम्मीदवार हूँ, पस मुझे एक लम्हे के लिए भी मेरे नफ़्स के सुपुर्द न कर, और मेरे तमाम हालात दुरुस्त फ़रमा दे, तेरे सिवा कोई माबूद नहीं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4/324" },
+    "tags": ["mercy", "distress", "guidance"]
+  },
+  {
+    "id": "em_005",
+    "group_key": "Distress",
+    "title": "For one in Distress (3)",
+    "category": "Emotions",
+    "subcategory": "For one in Distress",
+    "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+    "transliteration": "Lā ilāha illā Anta subḥānaka innī kuntu minaẓ-ẓālimīn",
+    "translations": {
+      "english": "There is no god but You, glory be to You, surely I am of the wrongdoers.",
+      "urdu": "تیرے سوا کوئی معبود نہیں، تو پاک ہے، بے شک میں ہی ظالموں میں سے تھا۔",
+      "hindi": "तेरे सिवा कोई माबूद नहीं, तू पाक है, बेशक मैं ही ज़ालिमों में से था।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "5/529" },
+    "tags": ["distress", "repentance", "yunus", "relief"]
+  },
+  {
+    "id": "em_006",
+    "group_key": "Distress",
+    "title": "For one in Distress (4)",
+    "category": "Emotions",
+    "subcategory": "For one in Distress",
+    "arabic": "اللَّهُ اللَّهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئاً",
+    "transliteration": "Allāhu Allāhu Rabbī lā ushriku bihi shay’ā",
+    "translations": {
+      "english": "Allah, Allah is my Lord, I do not associate anything with Him.",
+      "urdu": "اللہ، اللہ ہی میرا رب ہے، میں اس کے ساتھ کسی چیز کو شریک نہیں ٹھہراتا۔",
+      "hindi": "अल्लाह, अल्लाह ही मेरा रब है, मैं उसके साथ किसी चीज़ को शरीक नहीं ठहराता।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "2/87" },
+    "tags": ["distress", "tawhid", "faith"]
+  },
+  {
+    "id": "em_007",
+    "group_key": "Difficulty",
+    "title": "For one whose affairs have become difficult",
+    "category": "Emotions",
+    "subcategory": "Affairs become difficult",
+    "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلاً، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلاً",
+    "transliteration": "Allāhumma lā sahla illā mā ja‘altahu sahlan, wa Anta taj‘alul-ḥazna idhā shi’ta sahlan",
+    "translations": {
+      "english": "O Allah, there is no ease except in that which You have made easy, and You make the difficulty easy, if You will.",
+      "urdu": "اے اللہ! کوئی چیز آسان نہیں مگر جسے تو آسان کر دے، اور تو جب چاہے مشکل کو آسان کر دیتا ہے۔",
+      "hindi": "ऐ अल्लाह! कोई चीज़ आसान नहीं मगर जिसे तू आसान कर दे, और तू जब चाहे मुश्किल को आसान कर देता है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Hibban", "hadith_no": "3/255" },
+    "tags": ["difficulty", "ease", "affairs", "hardship"]
+  },
+  {
+    "id": "em_008",
+    "group_key": "Guilt",
+    "title": "Upon committing a sin",
+    "category": "Emotions",
+    "subcategory": "Upon committing a sin",
+    "arabic": "مَا مِنْ عَبْدٍ يُذْنِبُ ذَنْباً فَيُحْسِنُ الطُّهُورَ، ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُ اللَّهَ إِلَّا غَفَرَ اللَّهُ لَهُ",
+    "transliteration": "Mā min ‘abdin yudhnibu dhanban fayuḥsinuṭ-ṭuhūra, thumma yaqūmu fayuṣallī rak‘atayn, thumma yastaghfirullāha illā ghafarallāhu lahu",
+    "translations": {
+      "english": "Any servant who commits a sin and then performs ablution well, then stands and prays two rak'ahs, then asks Allah for forgiveness, Allah will forgive him.",
+      "urdu": "جو بھی بندہ کوئی گناہ کر بیٹھے، پھر اچھی طرح وضو کرے، پھر کھڑا ہو کر دو رکعت نماز پڑھے، پھر اللہ سے معافی مانگے تو اللہ اسے ضرور معاف فرما دیتا ہے۔",
+      "hindi": "जो भी बन्दा कोई गुनाह कर बैठे, फिर अच्छी तरह वज़ू करे, फिर खड़ा होकर दो रक्अत नमाज़ पढ़े, फिर अल्लाह से माफ़ी मांगे तो अल्लाह उसे ज़रूर माफ़ फ़रमा देता है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1521" },
+    "tags": ["sin", "forgiveness", "repentance", "guilt"]
+  },
+  {
+    "id": "em_009",
+    "group_key": "Dislike",
+    "title": "When something happens that is disliked",
+    "category": "Emotions",
+    "subcategory": "When something happens that is disliked",
+    "arabic": "قَدَرُ اللَّهِ وَمَا شَاءَ فَعَلَ",
+    "transliteration": "Qadarullāhi wa mā shā'a fa‘ala",
+    "translations": {
+      "english": "It is the decree of Allah and He does what He wills.",
+      "urdu": "یہ اللہ کی تقدیر ہے اور اس نے جو چاہا وہ کیا۔",
+      "hindi": "ये अल्लाह की तक़दीर है और उसने जो चाहा वो किया।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2664" },
+    "tags": ["decree", "patience", "dislike", "qadr"]
+  },
+  {
+    "id": "em_010",
+    "group_key": "Calamity",
+    "title": "For one afflicted by a calamity",
+    "category": "Emotions",
+    "subcategory": "Afflicted by a calamity",
+    "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْراً مِنْهَا",
+    "transliteration": "Innā lillāhi wa innā ilayhi rāji‘ūna, Allāhumma’jurnī fī muṣībatī wa’khlif lī khayran minhā",
+    "translations": {
+      "english": "We belong to Allah and to Him we shall return. O Allah, reward me for my affliction and give me something better than it in exchange.",
+      "urdu": "بے شک ہم اللہ ہی کے لیے ہیں اور ہمیں اسی کی طرف لوٹ کر جانا ہے۔ اے اللہ! مجھے میری اس مصیبت پر اجر عطا فرما اور مجھے اس کا بہتر بدل عطا فرما۔",
+      "hindi": "बेशक हम अल्लाह ही के लिए हैं और हमें उसी की तरफ़ लौट कर जाना है। ऐ अल्लाह! मुझे मेरी इस मुसीबत पर अज्र अता फ़रमा और मुझे इसका बेहतर बदल अता फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "918" },
+    "tags": ["calamity", "patience", "loss", "reward"]
+  },
+  {
+    "id": "em_011",
+    "group_key": "Anger",
+    "title": "When angry",
+    "category": "Emotions",
+    "subcategory": "When angry",
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "A‘ūdhu billāhi minash-shayṭānir-rajīm",
+    "translations": {
+      "english": "I seek refuge in Allah from Satan the outcast.",
+      "urdu": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+      "hindi": "मैं शैतान मरदूद से अल्लाह की पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6115" },
+    "tags": ["anger", "protection", "shaitan"]
+  },
+  {
+    "id": "em_012",
+    "group_key": "Compassion",
+    "title": "When seeing someone in affliction",
+    "category": "Emotions",
+    "subcategory": "Seeing someone in affliction",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلاً",
+    "transliteration": "Alḥamdu lillāhilladhī ‘āfānī mimmab-talāka bihi wa faḍḍalanī ‘alā kathīrin mimman khalaqa tafḍīlā",
+    "translations": {
+      "english": "Praise is to Allah Who has spared me from what He has afflicted you with, and for favoring me over many of His creation.",
+      "urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے مجھے اس آزمائش سے بچایا جس میں تمہیں مبتلا کیا، اور مجھے اپنی بہت سی مخلوقات پر فضیلت عطا فرمائی۔",
+      "hindi": "तमाम तारीफ़ें उस अल्लाह के लिए हैं जिसने मुझे इस आज़माइश से बचाया जिसमें तुम्हें मुब्तला किया, और मुझे अपनी बहुत सी मख़्लूक़ात पर फ़ज़ीलत अता फ़रमाई।"
+    },
+    "source": { "authenticity": "Hasan", "collection": "Tirmidhi", "hadith_no": "3431" },
+    "tags": ["gratitude", "affliction", "health", "compassion"]
+  },
+  {
+    "id": "em_013",
+    "group_key": "Joy",
+    "title": "When something happens to please you",
+    "category": "Emotions",
+    "subcategory": "When something happens to please you",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+    "transliteration": "Alḥamdu lillāhilladhī bini‘matihi tatimmus-ṣāliḥāt",
+    "translations": {
+      "english": "Praise is to Allah by Whose favor good things are accomplished.",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس کی نعمت سے تمام اچھے کام پایہ تکمیل کو پہنچتے ہیں۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसकी नेमत से तमाम अच्छे काम पाया-ए-तक्मील को पहुँचते हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Majah", "hadith_no": "3803" },
+    "tags": ["joy", "gratitude", "success", "good news"]
+  },
+  {
+    "id": "em_014",
+    "group_key": "Amazement",
+    "title": "When amazed or delighted",
+    "category": "Emotions",
+    "subcategory": "When amazed or delighted",
+    "arabic": "سُبْحَانَ اللَّهِ! / اللَّهُ أَكْبَرُ!",
+    "transliteration": "Subḥānallāh! / Allāhu Akbar!",
+    "translations": {
+      "english": "Glory is to Allah! / Allah is the Most Great!",
+      "urdu": "اللہ پاک ہے! / اللہ سب سے بڑا ہے!",
+      "hindi": "अल्लाह पाक है! / अल्लाह सबसे बड़ा है!"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6218" },
+    "tags": ["amazement", "delight", "praise"]
+  },
+  {
+    "id": "em_015",
+    "group_key": "Good Happenings",
+    "title": "When something good happens (1)",
+    "category": "Emotions",
+    "subcategory": "When something good happens",
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "transliteration": "Alḥamdu lillāh",
+    "translations": {
+      "english": "Praise is to Allah.",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह के लिए हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2733" },
+    "tags": ["gratitude", "praise", "goodness"]
+  },
+  {
+    "id": "em_016",
+    "group_key": "Good Happenings",
+    "title": "When something good happens (2 - Sujud al-Shukr)",
+    "category": "Emotions",
+    "subcategory": "When something good happens",
+    "arabic": "كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَاهُ أَمْرٌ يَسُرُّهُ خَرَّ سَاجِداً لِلَّهِ",
+    "transliteration": "Kānan-Nabiyyu (s) idhā atāhu amrun yasurruhu kharra sājidan lillāh",
+    "translations": {
+      "english": "When anything came to the Prophet (s) which caused pleasure, he would fall down in prostration before Allah.",
+      "urdu": "نبی کریم ﷺ کے پاس جب کوئی خوشی کی بات آتی تو آپ اللہ کے لیے سجدے میں گر جاتے۔",
+      "hindi": "नबी करीम ﷺ के पास जब कोई खुशी की बात आती तो आप अल्लाह के लिए सज्दे में गिर जाते।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "2774" },
+    "tags": ["prostration", "gratitude", "joy", "sunnah"]
+  },
+  {
+    "id": "em_017",
+    "group_key": "Good Happenings",
+    "title": "When something good happens (3)",
+    "category": "Emotions",
+    "subcategory": "When something good happens",
+    "arabic": "مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Mā shā'allāhu lā quwwata illā billāh",
+    "translations": {
+      "english": "What Allah wills (has happened); there is no power except with Allah.",
+      "urdu": "جو اللہ نے چاہا (وہی ہوا)، اللہ کے سوا کوئی طاقت نہیں۔",
+      "hindi": "जो अल्लाह ने चाहा (वही हुआ), अल्लाह के सिवा कोई ताक़त नहीं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Quran (18:39)", "hadith_no": "N/A" },
+    "tags": ["will of Allah", "goodness", "protection"]
+  },
+  {
+    "id": "em_018",
+    "group_key": "Good Happenings",
+    "title": "When something good happens (4)",
+    "category": "Emotions",
+    "subcategory": "When something good happens",
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ كَمَا يَنْبَغِي لِجَلَالِ وَجْهِكَ وَلِعَظِيمِ سُلْطَانِكَ",
+    "transliteration": "Allāhumma lakal-ḥamdu kamā yanbaghī li-jalāli wajhika wa li-‘aẓīmi sulṭānika",
+    "translations": {
+      "english": "O Allah, for You is all praise as is fitting for the Majesty of Your Face and the Greatness of Your Power.",
+      "urdu": "اے اللہ! تیرے ہی لیے تمام تعریفیں ہیں جیسا کہ تیری ذات کے جلال اور تیری عظیم سلطنت کے شایانِ شان ہے۔",
+      "hindi": "ऐ अल्लाह! तेरे ही लिए तमाम तारीफ़ें हैं जैसा कि तेरी ज़ात के जलाल और तेरी अज़ीम सल्तनत के शायाने-शान है।"
+    },
+    "source": { "authenticity": "Hasan", "collection": "Ibn Majah", "hadith_no": "3801" },
+    "tags": ["praise", "majesty", "gratitude"]
+  },
+  {
+    "id": "em_019",
+    "group_key": "Good Happenings",
+    "title": "When something good happens (5)",
+    "category": "Emotions",
+    "subcategory": "When something good happens",
+    "arabic": "رَضِيتُ بِاللَّهِ رَبّاً، وَبِالْإِسْلَامِ دِيناً، وَبِمُحَمَّدٍ صلى الله عليه وسلم نَبِيّاً",
+    "transliteration": "Raḍītu billāhi Rabban, wa bil-Islāmi dīnan, wa bi-Muḥammadin (s) Nabiyyan",
+    "translations": {
+      "english": "I am pleased with Allah as my Lord, with Islam as my religion, and with Muhammad (s) as my Prophet.",
+      "urdu": "میں اللہ کے رب ہونے، اسلام کے دین ہونے اور محمد ﷺ کے نبی ہونے پر راضی ہوں۔",
+      "hindi": "मैं अल्लाह के रब होने, इस्लाम के दीन होने और मुहम्मद ﷺ के नबी होने पर राज़ी हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5072" },
+    "tags": ["contentment", "faith", "pleasure"]
+  }
+]

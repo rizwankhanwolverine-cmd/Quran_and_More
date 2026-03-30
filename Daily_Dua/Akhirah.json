@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ak_001",
+    "group_key": "Death",
+    "title": "When closing the eyes of the deceased",
+    "category": "Akhirah",
+    "subcategory": "Closing the eyes of the deceased",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِفُلَانٍ وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ، وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِينَ...",
+    "transliteration": "Allāhummagh-fir li-fulānin (mention name) warfa‘ darajatahu fil-mahdiyyīn, wakhlufhu fī ‘aqibihi fil-ghābirīn...",
+    "translations": {
+      "english": "O Allah, forgive [name] and elevate his station among those who are guided. Send him along the path of those who came before...",
+      "urdu": "اے اللہ! فلاں (نام لیں) کی مغفرت فرما، ہدایت یافتہ لوگوں میں اس کا درجہ بلند فرما، اور پیچھے رہ جانے والوں میں اس کا جانشین بن...",
+      "hindi": "ऐ अल्लाह! फ़लां (नाम लें) की मग़फ़िरत फ़रमा, हिदायत याफ़्ता लोगों में उसका दर्जा बुलन्द फ़रमा, और पीछे रह जाने वालों में उसका जानशीन बन..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "920" },
+    "tags": ["death", "deceased", "forgiveness", "mercy"]
+  },
+  {
+    "id": "ak_002",
+    "group_key": "Funeral",
+    "title": "Funeral prayer supplication (1)",
+    "category": "Akhirah",
+    "subcategory": "Funeral prayer",
+    "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعَافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ...",
+    "transliteration": "Allāhummagh-fir lahu warḥamhu, wa ‘āfihi, wa‘fu ‘anhu, wa akrim nuzulahu, wa wassi‘ mudkhalahu...",
+    "translations": {
+      "english": "O Allah, forgive him and have mercy on him and give him strength and pardon him. Be generous to him and cause his entrance to be wide...",
+      "urdu": "اے اللہ! اسے بخش دے، اس پر رحم فرما، اسے عافیت دے، اسے معاف کر دے، اس کی مہمانی باعزت بنا اور اس کی قبر کشادہ کر دے...",
+      "hindi": "ऐ अल्लाह! इसे बख़्श दे, इस पर रहम फ़रमा, इसे आफ़ियत दे, इसे माफ़ कर दे, इसकी मेहमानी बा-इज़्ज़त बना और इसकी क़ब्र कुशादा कर दे..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "963" },
+    "tags": ["funeral", "janazah", "forgiveness", "grave"]
+  },
+  {
+    "id": "ak_003",
+    "group_key": "Funeral",
+    "title": "Funeral prayer supplication (2)",
+    "category": "Akhirah",
+    "subcategory": "Funeral prayer",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا، وَشَاهِدِنَا وَغَائِبِنَا، وَصَغِيرِنَا وَكَبِيرِنَا، وَذَكَرِنَا وَأُنْثَانَا...",
+    "transliteration": "Allāhummagh-fir li-ḥayyinā wa mayyitinā, wa shāhidinā wa ghā’ibinā, wa ṣaghīrinā wa kabīrinā...",
+    "translations": {
+      "english": "O Allah, forgive our living and our dead, those present and those absent, our young and our old, our males and our females...",
+      "urdu": "اے اللہ! ہمارے زندوں اور ہمارے فوت شدگان کو بخش دے، جو حاضر ہیں اور جو غائب ہیں، ہمارے چھوٹوں اور بڑوں کو، ہمارے مردوں اور عورتوں کو...",
+      "hindi": "ऐ अल्लाह! हमारे ज़िन्दों और हमारे फ़ौत शुदगान को बख़्श दे, जो हाज़िर हैं और जो ग़ायब हैं, हमारे छोटों और बड़ों को, हमारे मर्दों और औरतों को..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Majah", "hadith_no": "1498" },
+    "tags": ["funeral", "community", "forgiveness"]
+  },
+  {
+    "id": "ak_004",
+    "group_key": "Funeral",
+    "title": "Funeral prayer supplication (3)",
+    "category": "Akhirah",
+    "subcategory": "Funeral prayer",
+    "arabic": "اللَّهُمَّ إِنَّ فُلَانَ بْنَ فُلَانٍ فِي ذِمَّتِكَ، وَحَبْلِ جِوَارِكَ، فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ، وَعَذَابِ النَّارِ...",
+    "transliteration": "Allāhumma inna fulānab-na fulānin fī dhimmatika, wa ḥabli jiwārika, faqihi min fitnatil-qabri...",
+    "translations": {
+      "english": "O Allah, surely [name] is under Your protection and in the rope of Your security, so save him from the trial of the grave and from the punishment of the Fire...",
+      "urdu": "اے اللہ! بے شک فلاں ابن فلاں تیرے ذمہ میں اور تیری پناہ میں ہے، اسے قبر کی آزمائش اور آگ کے عذاب سے بچا...",
+      "hindi": "ऐ अल्लाह! बेशक फ़लां इब्ने फ़लां तेरे ज़िम्मे में और तेरी पनाह में है, इसे क़ब्र की आज़माइश और आग के अज़ाब से बचा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3202" },
+    "tags": ["funeral", "grave", "protection", "hell"]
+  },
+  {
+    "id": "ak_005",
+    "group_key": "Funeral",
+    "title": "Funeral prayer supplication (4)",
+    "category": "Akhirah",
+    "subcategory": "Funeral prayer",
+    "arabic": "اللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ احْتَاجَ إِلَى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ...",
+    "transliteration": "Allāhumma ‘abduka wabnu amatikaḥ-tāja ilā raḥmatika, wa Anta ghaniyyun ‘an ‘adhābihi...",
+    "translations": {
+      "english": "O Allah, Your servant and the son of Your maidservant is in need of Your mercy and You are independent of his punishment...",
+      "urdu": "اے اللہ! تیرا بندہ اور تیری لونڈی کا بیٹا تیری رحمت کا محتاج ہے اور تو اسے عذاب دینے سے بے نیاز ہے...",
+      "hindi": "ऐ अल्लाह! तेरा बन्दा और तेरी लौंडी का बेटा तेरी रहमत का मोहताज है और तू इसे अज़ाब देने से बे-नियाज़ है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Hakim", "hadith_no": "1/359" },
+    "tags": ["funeral", "mercy", "humility"]
+  },
+  {
+    "id": "ak_006",
+    "group_key": "Grave",
+    "title": "When placing the deceased in the grave",
+    "category": "Akhirah",
+    "subcategory": "Placing deceased in the grave",
+    "arabic": "بِسْمِ اللَّهِ وَعَلَى سُنَّةِ رَسُولِ اللَّهِ",
+    "transliteration": "Bismillāhi wa ‘alā sunnati Rasūlillāh",
+    "translations": {
+      "english": "In the name of Allah and on the sunnah (way) of the Messenger of Allah.",
+      "urdu": "اللہ کے نام سے اور رسول اللہ ﷺ کی سنت (طریقے) پر۔",
+      "hindi": "अल्लाह के नाम से और रसूल अल्लाह ﷺ की सुन्नत (तरीक़े) पर।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3213" },
+    "tags": ["grave", "burial", "sunnah"]
+  },
+  {
+    "id": "ak_007",
+    "group_key": "Grave",
+    "title": "After burying the deceased",
+    "category": "Akhirah",
+    "subcategory": "After burying the deceased",
+    "arabic": "اللَّهُمَّ اغْفِرْ لَهُ اللَّهُمَّ ثَبِّتْهُ",
+    "transliteration": "Allāhummagh-fir lahu Allāhumma thabbithu",
+    "translations": {
+      "english": "O Allah, forgive him. O Allah, strengthen him (to answer the questions).",
+      "urdu": "اے اللہ! اسے بخش دے، اے اللہ! اسے ثابت قدم رکھ۔",
+      "hindi": "ऐ अल्लाह! इसे बख़्श दे, ऐ अल्लाह! इसे साबित क़दम रख।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3221" },
+    "tags": ["burial", "forgiveness", "steadfastness", "grave"]
+  },
+  {
+    "id": "ak_008",
+    "group_key": "Grave",
+    "title": "When visiting the graves",
+    "category": "Akhirah",
+    "subcategory": "Visiting the graves",
+    "arabic": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ، مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ...",
+    "transliteration": "As-salāmu ‘alaykum ahlad-diyāri, minal-mu’minīna wal-muslimīna, wa innā in shā’allāhu bikum lāḥiqūn...",
+    "translations": {
+      "english": "Peace be upon you, O inhabitants of these abodes from among the believers and Muslims. We shall, if Allah wills, join you...",
+      "urdu": "تم پر سلامتی ہو اے بستی کے رہنے والے مومنوں اور مسلمانوں! اور ہم بھی ان شاء اللہ تمہارے ساتھ ملنے والے ہیں...",
+      "hindi": "तुम पर सलामती हो ऐ बस्ती के रहने वाले मोमिनों और मुसलमानों! और हम भी इन शा अल्लाह तुम्हारे साथ मिलने वाले हैं..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "975" },
+    "tags": ["graveyard", "peace", "death", "reminder"]
+  },
+  {
+    "id": "ak_009",
+    "group_key": "Repentance",
+    "title": "The Master Supplication for Forgiveness (Sayyidul Istighfar)",
+    "category": "Akhirah",
+    "subcategory": "Seeking forgiveness",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ...",
+    "transliteration": "Allāhumma Anta Rabbī lā ilāha illā Anta, khalaqtanī wa ana ‘abduka, wa ana ‘alā ‘ahdika wa wa‘dika mas-taṭa‘tu...",
+    "translations": {
+      "english": "O Allah, You are my Lord, none has the right to be worshipped but You. You created me and I am Your slave...",
+      "urdu": "اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے ہی مجھے پیدا کیا اور میں تیرا بندہ ہوں، اور میں اپنی استطاعت کے مطابق تیرے عہد اور وعدے پر قائم ہوں...",
+      "hindi": "ऐ अल्लाह! तू मेरा रब है, तेरे सिवा कोई माबूद नहीं, तूने ही मुझे पैदा किया और मैं तेरा बन्दा हूँ, और मैं अपनी इस्तिताअत के मुताबिक़ तेरे अहद और वादे पर क़ायम हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6306" },
+    "tags": ["istighfar", "repentance", "master", "paradise"]
+  },
+  {
+    "id": "ak_010",
+    "group_key": "Repentance",
+    "title": "Seeking forgiveness and repentance (1)",
+    "category": "Akhirah",
+    "subcategory": "Seeking forgiveness",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "transliteration": "Astaghfirullāha wa atūbu ilayh",
+    "translations": {
+      "english": "I seek Allah's forgiveness and turn to Him in repentance. (100 times daily)",
+      "urdu": "میں اللہ سے معافی مانگتا ہوں اور اس کی طرف رجوع کرتا ہوں۔",
+      "hindi": "मैं अल्लाह से माफ़ी माँगता हूँ और उसकी तरफ़ रुजू करता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6307" },
+    "tags": ["istighfar", "daily", "sunnah"]
+  },
+  {
+    "id": "ak_011",
+    "group_key": "Repentance",
+    "title": "Seeking forgiveness and repentance (2)",
+    "category": "Akhirah",
+    "subcategory": "Seeking forgiveness",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+    "transliteration": "Astaghfirullāhalladhī lā ilāha illā Huwal-Ḥayyul-Qayyūmu wa atūbu ilayh",
+    "translations": {
+      "english": "I seek Allah's forgiveness, besides whom there is no other god, the Ever-Living, the Self-Sustaining, and I turn to Him in repentance.",
+      "urdu": "میں اس اللہ سے معافی مانگتا ہوں جس کے سوا کوئی معبود نہیں، وہ ہمیشہ زندہ رہنے والا اور سب کو تھامنے والا ہے، اور میں اسی کی طرف توبہ کرتا ہوں۔",
+      "hindi": "मैं उस अल्लाह से माफ़ी माँगता हूँ जिसके सिवा कोई माबूद नहीं, वो हमेशा ज़िन्दा रहने वाला और सबको थामने वाला है, और मैं उसी की तरफ़ तौबा करता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1517" },
+    "tags": ["repentance", "forgiveness", "mercy"]
+  },
+  {
+    "id": "ak_012",
+    "group_key": "Repentance",
+    "title": "Seeking forgiveness and repentance (3)",
+    "category": "Akhirah",
+    "subcategory": "Seeking forgiveness",
+    "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الْغَفُورُ",
+    "transliteration": "Rabbigh-fir lī wa tub ‘alayya innaka Antat-Tawwābul-Ghafūr",
+    "translations": {
+      "english": "My Lord, forgive me and accept my repentance, You are the Ever-Relenting, the All-Forgiving.",
+      "urdu": "اے میرے رب! مجھے بخش دے اور میری توبہ قبول فرما، بے شک تو ہی توبہ قبول کرنے والا اور بے حد بخشنے والا ہے۔",
+      "hindi": "ऐ मेरे रब! मुझे बख़्श दे और मेरी तौबा क़बूल फ़रमा, बेशक तू ही तौबा क़बूल करने वाला और बेहद बख़्शने वाला है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3434" },
+    "tags": ["repentance", "istighfar", "forgiveness"]
+  },
+  {
+    "id": "ak_013",
+    "group_key": "Repentance",
+    "title": "Seeking forgiveness and repentance (4)",
+    "category": "Akhirah",
+    "subcategory": "Seeking forgiveness",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَأَلْحِقْنِي بِالرَّفِيقِ الْأَعْلَى",
+    "transliteration": "Allāhummagh-fir lī, warḥamnī, wa alḥiqnī bir-rafīqil-a‘lā",
+    "translations": {
+      "english": "O Allah, forgive me, have mercy on me and join me with the highest companions.",
+      "urdu": "اے اللہ! مجھے بخش دے، مجھ پر رحم فرما اور مجھے رفیقِ اعلیٰ (جنت میں بلند مرتبہ لوگوں) کے ساتھ ملا دے۔",
+      "hindi": "ऐ अल्लाह! मुझे बख़्श दे, मुझ पर रहम फ़रमा और मुझे रफ़ीक़-ए-आला (जन्नत में बुलन्द मर्तबा लोगों) के साथ मिला दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "4440" },
+    "tags": ["mercy", "death", "companions", "paradise"]
+  },
+  {
+    "id": "ak_014",
+    "group_key": "Repentance",
+    "title": "Seeking forgiveness and repentance (5)",
+    "category": "Akhirah",
+    "subcategory": "Seeking forgiveness",
+    "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ...",
+    "transliteration": "Allāhumma innī ẓalamtu nafsī ẓulman kathīran, wa lā yaghfirudh-dhunūba illā Anta...",
+    "translations": {
+      "english": "O Allah, I have greatly wronged myself, and no one forgives sins except You. So grant me forgiveness and have mercy on me...",
+      "urdu": "اے اللہ! میں نے اپنی جان پر بہت زیادہ ظلم کیا، اور تیرے سوا کوئی گناہوں کو معاف نہیں کر سکتا۔ پس مجھے اپنی خاص مغفرت سے نواز دے...",
+      "hindi": "ऐ अल्लाह! मैंने अपनी जान पर बहुत ज़्यादा ज़ुल्म किया, और तेरे सिवा कोई गुनाहों को माफ़ नहीं कर सकता। पस मुझे अपनी ख़ास मग़फ़िरत से नवाज़ दे..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "834" },
+    "tags": ["repentance", "mercy", "humility"]
+  },
+  {
+    "id": "ak_015",
+    "group_key": "Dhikr",
+    "title": "Excellence of Remembrance (1)",
+    "category": "Akhirah",
+    "subcategory": "Excellence of Remembrance",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "transliteration": "Subḥānallāhi wa bi-ḥamdihi",
+    "translations": {
+      "english": "Glory is to Allah and praise is to Him. (Sins are forgiven even if they are like the foam of the sea).",
+      "urdu": "اللہ پاک ہے اور تمام تعریفیں اسی کے لیے ہیں۔",
+      "hindi": "अल्लाह पाक है और तमाम तारीफ़ें उसी के लिए हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6405" },
+    "tags": ["dhikr", "praise", "forgiveness"]
+  },
+  {
+    "id": "ak_016",
+    "group_key": "Dhikr",
+    "title": "Excellence of Remembrance (2)",
+    "category": "Akhirah",
+    "subcategory": "Excellence of Remembrance",
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Lā ḥawla wa lā quwwata illā billāh",
+    "translations": {
+      "english": "There is no might nor power except with Allah. (A treasure from the treasures of Paradise).",
+      "urdu": "نیکی کرنے کی طاقت اور برائی سے بچنے کی ہمت اللہ ہی کی طرف سے ہے۔",
+      "hindi": "नेकी करने की ताक़त और बुराई से बचने की हिम्मत अल्लाह ही की तरफ़ से है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "4202" },
+    "tags": ["dhikr", "treasure", "paradise", "submission"]
+  },
+  {
+    "id": "ak_017",
+    "group_key": "Dhikr",
+    "title": "Excellence of Remembrance (3)",
+    "category": "Akhirah",
+    "subcategory": "Excellence of Remembrance",
+    "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ",
+    "transliteration": "Subḥānallāhi, wal-ḥamdu lillāhi, wa lā ilāha illallāhu, wallāhu Akbar",
+    "translations": {
+      "english": "Glory is to Allah, praise is to Allah, there is no god but Allah, and Allah is the Most Great.",
+      "urdu": "اللہ پاک ہے، تمام تعریفیں اللہ کے لیے ہیں، اللہ کے سوا کوئی معبود نہیں اور اللہ سب سے بڑا ہے۔",
+      "hindi": "अल्लाह पाक है, तमाम तारीफ़ें अल्लाह के लिए हैं, अल्लाह के सिवा कोई माबूद नहीं और अल्लाह सबसे बड़ा है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2695" },
+    "tags": ["dhikr", "praise", "tawhid"]
+  },
+  {
+    "id": "ak_018",
+    "group_key": "The Hereafter",
+    "title": "Asking for Paradise and refuge from Hell",
+    "category": "Akhirah",
+    "subcategory": "Paradise and Hell",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "transliteration": "Allāhumma innī as’alukal-jannata wa a‘ūdhu bika minan-nār",
+    "translations": {
+      "english": "O Allah, I ask You for Paradise and I seek refuge in You from the Fire.",
+      "urdu": "اے اللہ! میں تجھ سے جنت کا سوال کرتا ہوں اور آگ سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे जन्नत का सवाल करता हूँ और आग से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "792" },
+    "tags": ["paradise", "hell", "ultimate goal", "protection"]
+  }
+]

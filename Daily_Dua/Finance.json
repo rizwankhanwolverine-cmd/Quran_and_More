@@ -1,0 +1,66 @@
+[
+  {
+    "id": "fn_001",
+    "group_key": "Settling a debt",
+    "title": "Supplication for settling a debt (1)",
+    "category": "Finance",
+    "subcategory": "Settling a debt",
+    "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "transliteration": "Allāhummak-finī bi-ḥalālika ‘an ḥarāmika, wa aghninī bi-faḍlika ‘amman siwāka",
+    "translations": {
+      "english": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You by Your grace.",
+      "urdu": "اے اللہ! مجھے اپنے حلال کے ساتھ اپنے حرام سے کفایت فرما، اور اپنے فضل سے مجھے اپنے سوا ہر کسی سے بے نیاز کر دے۔",
+      "hindi": "ऐ अल्लाह! मुझे अपने हलाल के साथ अपने हराम से किफ़ायत फ़रमा, और अपने फ़ज़ल से मुझे अपने सिवा हर किसी से बे-नियाज़ कर दे।"
+    },
+    "source": { "authenticity": "Hasan", "collection": "Tirmidhi", "hadith_no": "3563" },
+    "tags": ["debt", "provision", "halal", "wealth"]
+  },
+  {
+    "id": "fn_002",
+    "group_key": "Settling a debt",
+    "title": "Supplication for settling a debt (2)",
+    "category": "Finance",
+    "subcategory": "Settling a debt",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ... وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "transliteration": "Allāhumma innī a‘ūdhu bika minal-hammi wal-ḥazan... wa ḍala‘id-dayni wa ghalabatir-rijāl",
+    "translations": {
+      "english": "O Allah, I seek refuge in You from anxiety and sorrow... and from the burden of debt and from being overpowered by men.",
+      "urdu": "اے اللہ! میں فکر اور غم... اور قرض کے بوجھ اور لوگوں کے غلبے سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं फ़िक्र और ग़म... और क़र्ज़ के बोझ और लोगों के ग़लवे से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "2893" },
+    "tags": ["debt", "anxiety", "relief"]
+  },
+  {
+    "id": "fn_003",
+    "group_key": "Offering wealth",
+    "title": "For one who offers you his wealth",
+    "category": "Finance",
+    "subcategory": "Offering wealth",
+    "arabic": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ",
+    "transliteration": "Bārakallāhu laka fī ahlika wa mālika",
+    "translations": {
+      "english": "May Allah bless you in your family and your wealth.",
+      "urdu": "اللہ تعالیٰ تیرے اہل اور تیرے مال میں برکت عطا فرمائے۔",
+      "hindi": "अल्लाह तआला तेरे अहल और तेरे माल में बरकत अता फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "2049" },
+    "tags": ["wealth", "blessing", "gratitude"]
+  },
+  {
+    "id": "fn_004",
+    "group_key": "Lending and Repayment",
+    "title": "For one who lends to you upon repayment",
+    "category": "Finance",
+    "subcategory": "Lending and Repayment",
+    "arabic": "بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالأَدَاءُ",
+    "transliteration": "Bārakallāhu laka fī ahlika wa mālika, innamā jazā’us-salafil-ḥamdu wal-adā’",
+    "translations": {
+      "english": "May Allah bless you in your family and your wealth. Surely, the reward for a loan is praise and repayment.",
+      "urdu": "اللہ تعالیٰ تیرے اہل اور تیرے مال میں برکت دے، قرض کا بدلہ تو صرف تعریف اور ادائیگی ہے۔",
+      "hindi": "अल्लाह तआला तेरे अहल और तेरे माल में बरकत दे, क़र्ज़ का बदला तो सिर्फ़ तारीफ़ और अदायगी है।"
+    },
+    "source": { "authenticity": "Hasan", "collection": "An-Nasa'i", "hadith_no": "4683" },
+    "tags": ["debt", "repayment", "honesty", "finance"]
+  }
+]

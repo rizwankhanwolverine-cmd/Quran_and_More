@@ -1,0 +1,98 @@
+[
+  {
+    "id": "kn_001",
+    "group_key": "Doubt in faith",
+    "title": "When afflicted by doubt in faith (1)",
+    "category": "Knowledge",
+    "subcategory": "For one afflicted by doubt in faith",
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "A‘ūdhu billāhi minash-shayṭānir-rajīm",
+    "translations": {
+      "english": "I seek refuge in Allah from Satan the outcast.",
+      "urdu": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+      "hindi": "मैं शैतान मरदूद से अल्लाह की पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "134" },
+    "tags": ["faith", "protection", "doubt"]
+  },
+  {
+    "id": "kn_002",
+    "group_key": "Doubt in faith",
+    "title": "When afflicted by doubt in faith (2)",
+    "category": "Knowledge",
+    "subcategory": "For one afflicted by doubt in faith",
+    "arabic": "آمَنْتُ بِاللَّهِ وَرُسُلِهِ",
+    "transliteration": "Āmantu billāhi wa rusulih",
+    "translations": {
+      "english": "I believe in Allah and His Messengers.",
+      "urdu": "میں اللہ اور اس کے رسولوں پر ایمان لایا۔",
+      "hindi": "मैं अल्लाह और उसके रसूलों पर ईमान लाया।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "134" },
+    "tags": ["belief", "certainty", "faith"]
+  },
+  {
+    "id": "kn_003",
+    "group_key": "Doubt in faith",
+    "title": "When afflicted by doubt in faith (3)",
+    "category": "Knowledge",
+    "subcategory": "For one afflicted by doubt in faith",
+    "arabic": "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+    "transliteration": "Huwal-Awwalu wal-Ākhiru waẓ-Ẓāhiru wal-Bāṭinu wa Huwa bikulli shay’in ‘Alīm",
+    "translations": {
+      "english": "He is the First and the Last, the Manifest and the Hidden, and He is the Knower of all things.",
+      "urdu": "وہی اول ہے اور وہی آخر، وہی ظاہر ہے اور وہی پوشیدہ، اور وہ ہر چیز کا جاننے والا ہے۔",
+      "hindi": "वही अव्वल है और वही आख़िर, वही ज़ाहिर है और वही पोशीदा, और वो हर चीज़ का जानने वाला है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud (Quran 57:3)", "hadith_no": "5110" },
+    "tags": ["Allah's names", "truth", "knowledge"]
+  },
+  {
+    "id": "kn_004",
+    "group_key": "Protection from Dajjal",
+    "title": "Protection from the Dajjal",
+    "category": "Knowledge",
+    "subcategory": "Protection from the Dajjal",
+    "arabic": "قِرَاءَةُ عَشْرِ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الْكَهْفِ",
+    "transliteration": "Qirā'atu ‘ashri āyātin min awwali sūratil-kahf",
+    "translations": {
+      "english": "Reciting the first ten verses of Surah Al-Kahf.",
+      "urdu": "سورہ کہف کی پہلی دس آیات کی تلاوت۔",
+      "hindi": "सूरह अल-कहफ़ की पहली दस आयतों की तिलावत।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "809" },
+    "tags": ["Dajjal", "protection", "end times"]
+  },
+  {
+    "id": "kn_005",
+    "group_key": "Shirk",
+    "title": "Supplication for fear of Shirk",
+    "category": "Knowledge",
+    "subcategory": "Fear of Shirk (Polytheism)",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+    "transliteration": "Allāhumma innī a‘ūdhu bika an ushrika bika wa ana a‘lamu, wa astaghfiruka limā lā a‘lamu",
+    "translations": {
+      "english": "O Allah, I seek refuge in You lest I should associate anything with You while I know, and I seek Your forgiveness for what I do not know.",
+      "urdu": "اے اللہ! میں تیری پناہ مانگتا ہوں اس سے کہ میں جانتے بوجھتے تیرے ساتھ کسی کو شریک کروں، اور میں تجھ سے ان گناہوں کی معافی مانگتا ہوں جنہیں میں نہیں جانتا۔",
+      "hindi": "ऐ अल्लाह! मैं तेरी पनाह माँगता हूँ इससे कि मैं जानते बूझते तेरे साथ किसी को शरीक करूँ, और मैं तुझसे उन गुनाहों की माफ़ी माँगता हूँ जिन्हें मैं नहीं जानता।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "4/403" },
+    "tags": ["shirk", "forgiveness", "sincerity"]
+  },
+  {
+    "id": "kn_006",
+    "group_key": "General Knowledge",
+    "title": "For various other situations",
+    "category": "Knowledge",
+    "subcategory": "For various other situations",
+    "arabic": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا",
+    "transliteration": "Allāhumman-fa‘nī bimā ‘allamtanī, wa ‘allimnī mā yanfa‘unī, wa zidnī ‘ilmā",
+    "translations": {
+      "english": "O Allah, benefit me with what You have taught me, and teach me that which will benefit me, and increase me in knowledge.",
+      "urdu": "اے اللہ! مجھے اس علم سے فائدہ دے جو تو نے مجھے سکھایا، اور مجھے وہ علم سکھا جو میرے لیے فائدہ مند ہو، اور میرے علم میں اضافہ فرما۔",
+      "hindi": "ऐ अल्लाह! मुझे उस इल्म से फ़ायदा दे जो तूने मुझे सिखाया, और मुझे वो इल्म सिखा जो मेरे लिए फ़ायदेमन्द हो, और मेरे इल्म में इज़ाफ़ा फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Majah", "hadith_no": "251" },
+    "tags": ["learning", "wisdom", "supplication"]
+  }
+]

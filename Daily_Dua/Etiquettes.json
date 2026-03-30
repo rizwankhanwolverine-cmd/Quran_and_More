@@ -1,0 +1,325 @@
+[
+  {
+    "id": "et_001",
+    "group_key": "Sneezing",
+    "title": "Upon sneezing (The sneezer)",
+    "category": "Etiquettes",
+    "subcategory": "Upon sneezing",
+    "chapter_no": 76,
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "transliteration": "Alḥamdu lillāh",
+    "translations": {
+      "english": "Praise is to Allah.",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह के लिए हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6224" },
+    "tags": ["sneezing", "gratitude"]
+  },
+  {
+    "id": "et_002",
+    "group_key": "Sneezing",
+    "title": "Upon sneezing (The companion's response)",
+    "category": "Etiquettes",
+    "subcategory": "Upon sneezing",
+    "chapter_no": 76,
+    "arabic": "يَرْحَمُكَ اللَّهُ",
+    "transliteration": "Yarḥamukallāh",
+    "translations": {
+      "english": "May Allah have mercy on you.",
+      "urdu": "اللہ تم پر رحم فرمائے۔",
+      "hindi": "अल्लाह तुम पर रहम फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6224" },
+    "tags": ["sneezing", "mercy"]
+  },
+  {
+    "id": "et_003",
+    "group_key": "Sneezing",
+    "title": "Upon sneezing (The sneezer's final response)",
+    "category": "Etiquettes",
+    "subcategory": "Upon sneezing",
+    "chapter_no": 76,
+    "arabic": "يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ",
+    "transliteration": "Yahdīkumullāhu wa yuṣliḥu bālakum",
+    "translations": {
+      "english": "May Allah guide you and rectify your condition.",
+      "urdu": "اللہ تمہیں ہدایت دے اور تمہارے حالات درست فرمائے۔",
+      "hindi": "अल्लाह तुम्हें हिदायत दे और तुम्हारे हालात दुरुस्त फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6224" },
+    "tags": ["sneezing", "guidance"]
+  },
+  {
+    "id": "et_004",
+    "group_key": "Gatherings",
+    "title": "At a gathering (Majlis)",
+    "category": "Etiquettes",
+    "subcategory": "At a gathering",
+    "chapter_no": 81,
+    "arabic": "إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ فِي الْمَجْلِسِ: رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الْغَفُورُ",
+    "transliteration": "Rabbigh-fir lī wa tub ‘alayya innaka Antat-Tawwābul-Ghafūr",
+    "translations": {
+      "english": "My Lord, forgive me and accept my repentance, You are the Ever-Relenting, the All-Forgiving. (Recited 100 times)",
+      "urdu": "اے میرے رب! مجھے بخش دے اور میری توبہ قبول فرما، بے شک تو ہی توبہ قبول کرنے والا اور بے حد بخشنے والا ہے۔",
+      "hindi": "ऐ मेरे रब! मुझे बख़्श दे और मेरी तौबा क़बूल फ़रमा, बेशक तू ही तौबा क़बूल करने वाला और बेहद बख़्शने वाला है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3434" },
+    "tags": ["gathering", "majlis", "forgiveness"]
+  },
+  {
+    "id": "et_005",
+    "group_key": "Gatherings",
+    "title": "For atonement of a gathering (Kaffaratul Majlis)",
+    "category": "Etiquettes",
+    "subcategory": "Atonement of a gathering",
+    "chapter_no": 82,
+    "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+    "transliteration": "Subḥānaka Allāhumma wa bi-ḥamdika, ash-hadu an lā ilāha illā Anta, astaghfiruka wa atūbu ilayk",
+    "translations": {
+      "english": "Glory is to You, O Allah, and praise. I bear witness that there is no god but You. I seek Your forgiveness and turn to You in repentance.",
+      "urdu": "پاک ہے تو اے اللہ! اپنی حمد کے ساتھ، میں گواہی دیتا ہوں کہ تیرے سوا کوئی معبود نہیں، میں تجھ سے بخشش مانگتا ہوں اور تیری طرف توبہ کرتا ہوں۔",
+      "hindi": "पाक है तू ऐ अल्लाह! अपनी हम्द के साथ, मैं गवाही देता हूँ कि तेरे सिवा कोई माबूद नहीं, मैं तुझसे बख़्शिश माँगता हूँ और तेरी तरफ़ तौबा करता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3433" },
+    "tags": ["gathering", "atonement", "praise"]
+  },
+  {
+    "id": "et_006",
+    "group_key": "Interpersonal",
+    "title": "For one who says: 'May Allah forgive you'",
+    "category": "Etiquettes",
+    "subcategory": "Response to forgiveness prayer",
+    "chapter_no": 83,
+    "arabic": "وَ لَكَ",
+    "transliteration": "Wa laka",
+    "translations": {
+      "english": "And for you too.",
+      "urdu": "اور تمہارے لیے بھی (یہی دعا ہے)۔",
+      "hindi": "और तुम्हारे लिए भी (यही दुआ है)।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "5/82" },
+    "tags": ["manners", "forgiveness", "response"]
+  },
+  {
+    "id": "et_007",
+    "group_key": "Interpersonal",
+    "title": "For one who does you a favor",
+    "category": "Etiquettes",
+    "subcategory": "Gratitude",
+    "chapter_no": 84,
+    "arabic": "جَزَاكَ اللَّهُ خَيْراً",
+    "transliteration": "Jazākallāhu khayran",
+    "translations": {
+      "english": "May Allah reward you with goodness.",
+      "urdu": "اللہ تمہیں بہتر جزا عطا فرمائے۔",
+      "hindi": "अल्लाह तुम्हें बेहतर जज़ा अता फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "2035" },
+    "tags": ["favor", "gratitude", "reward"]
+  },
+  {
+    "id": "et_008",
+    "group_key": "Interpersonal",
+    "title": "For one who says: 'May Allah bless you'",
+    "category": "Etiquettes",
+    "subcategory": "Response to blessing",
+    "chapter_no": 90,
+    "arabic": "وَفِيكَ بَارَكَ اللَّهُ",
+    "transliteration": "Wa fīka bārakallāh",
+    "translations": {
+      "english": "And may Allah bless you too.",
+      "urdu": "اور اللہ تمہیں بھی برکت عطا فرمائے۔",
+      "hindi": "और अल्लाह तुम्हें भी बरकत अता फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn as-Sunni", "hadith_no": "278" },
+    "tags": ["blessing", "manners", "response"]
+  },
+  {
+    "id": "et_009",
+    "group_key": "Salawat",
+    "title": "Excellence of sending Salawat",
+    "category": "Etiquettes",
+    "subcategory": "Sending Salawat",
+    "chapter_no": 104,
+    "arabic": "قَالَ صلى الله عليه وسلم: مَنْ صَلَّى عَلَيَّ صَلَاةً وَاحِدَةً، صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْرًا",
+    "transliteration": "Man ṣallā ‘alayya ṣalātan wāḥidatan, ṣallallāhu ‘alayhi bihā ‘ashrā",
+    "translations": {
+      "english": "The Prophet (s) said: Whoever sends a single prayer upon me, Allah will send ten prayers upon him.",
+      "urdu": "نبی کریم ﷺ نے فرمایا: جس نے مجھ پر ایک مرتبہ درود بھیجا، اللہ اس پر دس رحمتیں نازل فرمائے گا۔",
+      "hindi": "नबी करीम ﷺ ने फ़रमाया: जिसने मुझ पर एक मर्तबा दुरूद भेजा, अल्लाह उस पर दस रहमतें नाज़िल फ़रमाएगा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "408" },
+    "tags": ["salawat", "blessings", "prophet"]
+  },
+  {
+    "id": "et_010",
+    "group_key": "Salam",
+    "title": "Spreading the Salam",
+    "category": "Etiquettes",
+    "subcategory": "Spreading the Salam",
+    "chapter_no": 105,
+    "arabic": "قَالَ صلى الله عليه وسلم: لَا تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلَا تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ؟ أَفْشُوا السَّلَامَ بَيْنَكُمْ",
+    "transliteration": "Afshus-salāma baynakum",
+    "translations": {
+      "english": "Spread the Salam (peace) among yourselves.",
+      "urdu": "اپنے درمیان سلام کو عام کرو۔",
+      "hindi": "अपने दर्मियान सलाम को आम करो।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "54" },
+    "tags": ["salam", "peace", "love", "community"]
+  },
+  {
+    "id": "et_011",
+    "group_key": "Salam",
+    "title": "When a non-Muslim greets you",
+    "category": "Etiquettes",
+    "subcategory": "Responding to non-Muslims",
+    "chapter_no": 106,
+    "arabic": "وَعَلَيْكُمْ",
+    "transliteration": "Wa ‘alaykum",
+    "translations": {
+      "english": "And upon you.",
+      "urdu": "اور تم پر بھی۔",
+      "hindi": "और तुम पर भी।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6258" },
+    "tags": ["salam", "manners", "interfaith"]
+  },
+  {
+    "id": "et_012",
+    "group_key": "Animals",
+    "title": "Upon hearing a cock crow",
+    "category": "Etiquettes",
+    "subcategory": "Hearing animal sounds",
+    "chapter_no": 107,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "transliteration": "Allāhumma innī as’aluka min faḍlika",
+    "translations": {
+      "english": "O Allah, I ask You from Your bounty.",
+      "urdu": "اے اللہ! میں تجھ سے تیرے فضل کا سوال کرتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे तेरे फ़ज़ल का सवाल करता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3303" },
+    "tags": ["animals", "bounty", "blessings"]
+  },
+  {
+    "id": "et_013",
+    "group_key": "Animals",
+    "title": "Upon hearing a donkey bray",
+    "category": "Etiquettes",
+    "subcategory": "Hearing animal sounds",
+    "chapter_no": 107,
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "A‘ūdhu billāhi minash-shayṭānir-rajīm",
+    "translations": {
+      "english": "I seek refuge in Allah from Satan the outcast.",
+      "urdu": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+      "hindi": "मैं शैतान मरदूद से अल्लाह की पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3303" },
+    "tags": ["animals", "protection", "shaitan"]
+  },
+  {
+    "id": "et_014",
+    "group_key": "Animals",
+    "title": "Upon hearing a dog bark at night",
+    "category": "Etiquettes",
+    "subcategory": "Hearing animal sounds",
+    "chapter_no": 108,
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "A‘ūdhu billāhi minash-shayṭānir-rajīm",
+    "translations": {
+      "english": "I seek refuge in Allah from Satan the outcast.",
+      "urdu": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+      "hindi": "मैं शैतान मरदूद से अल्लाह की पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5103" },
+    "tags": ["animals", "protection", "night"]
+  },
+  {
+    "id": "et_015",
+    "group_key": "Speech",
+    "title": "For one you have insulted",
+    "category": "Etiquettes",
+    "subcategory": "Seeking forgiveness for others",
+    "chapter_no": 109,
+    "arabic": "اللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
+    "transliteration": "Allāhumma fa’ayyumā mu’minin sababtuhu faj‘al dhālika lahu qurbatan ilayka yawmal-qiyāmah",
+    "translations": {
+      "english": "O Allah, whichever believer I have insulted, let that be a cause of nearness to You on the Day of Resurrection.",
+      "urdu": "اے اللہ! جس کسی مومن کو میں نے برا بھلا کہا ہو، تو اسے قیامت کے دن اپنی قربت کا ذریعہ بنا دے۔",
+      "hindi": "ऐ अल्लाह! जिस किसी मोमिन को मैंने बुरा भला कहा हो, तो उसे क़ियामत के दिन अपनी क़ुर्बत का ज़रिया बना दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6361" },
+    "tags": ["forgiveness", "insult", "repentance"]
+  },
+  {
+    "id": "et_016",
+    "group_key": "Speech",
+    "title": "If a Muslim praises another",
+    "category": "Etiquettes",
+    "subcategory": "Praising others",
+    "chapter_no": 110,
+    "arabic": "أَحْسِبُ فُلَانًا، وَاللَّهُ حَسِيبُهُ، وَلَا أُزَكِّي عَلَى اللَّهِ أَحَدًا، أَحْسِبُهُ كَذَا وَكَذَا",
+    "transliteration": "Aḥsibu fulānan, wallāhu ḥasībuhu, walā uzakkī ‘alallāhi aḥadan, aḥsibuhu kadhā wa kadhā",
+    "translations": {
+      "english": "I consider him as such (mention quality), and Allah is his Taker of account, and I do not vouch for anyone before Allah.",
+      "urdu": "میں فلاں کے بارے میں یہ خیال رکھتا ہوں اور اللہ ہی اس کا حساب لینے والا ہے، اور میں اللہ کے سامنے کسی کی پاکی بیان نہیں کرتا۔",
+      "hindi": "मैं फ़लां के बारे में ये ख़याल रखता हूँ और अल्लाह ही उसका हिसाब लेने वाला है, और मैं अल्लाह के सामने किसी की पाकी बयान नहीं करता।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "3000" },
+    "tags": ["praise", "speech", "honesty"]
+  },
+  {
+    "id": "et_017",
+    "group_key": "Speech",
+    "title": "What a Muslim says when praised",
+    "category": "Etiquettes",
+    "subcategory": "Response to praise",
+    "chapter_no": 111,
+    "arabic": "اللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَاغْفِرْ لِي مَا لَا يَعْلَمُونَ، [وَاجْعَلْنِي خَيْرًا مِمَّا يَظُنُّونَ]",
+    "transliteration": "Allāhumma lā tu’ākhidhnī bimā yaqūlūn, waghfir lī mā lā ya‘lamūn, [waj‘alnī khayran mimmā yaẓunnūn]",
+    "translations": {
+      "english": "O Allah, do not call me to account for what they say, and forgive me for what they do not know, and make me better than what they think of me.",
+      "urdu": "اے اللہ! جو کچھ یہ کہتے ہیں اس پر میرا مواخذہ نہ فرما، اور وہ (گناہ) مجھے معاف فرما دے جو یہ نہیں جانتے، اور مجھے ان کے گمان سے بھی بہتر بنا دے۔",
+      "hindi": "ऐ अल्लाह! जो कुछ ये कहते हैं उस पर मेरा मुआख़ज़ा न फ़रमा, और वो (गुनाह) मुझे माफ़ फ़रमा दे जो ये नहीं जानते, और मुझे इनके गुमान से भी बेहतर बना दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Adab Al-Mufrad", "hadith_no": "761" },
+    "tags": ["praise", "humility", "forgiveness"]
+  },
+  {
+    "id": "et_018",
+    "group_key": "Sunnah",
+    "title": "How the Prophet glorified Allah",
+    "category": "Etiquettes",
+    "subcategory": "Tasbih method",
+    "chapter_no": 128,
+    "arabic": "كَانَ يَعْقِدُ التَّسْبِيحَ بِيَمِينِهِ",
+    "transliteration": "Kāna ya‘qidut-tasbīḥa bi-yamīnihi",
+    "translations": {
+      "english": "He (the Prophet) used to count the glorification on his right hand.",
+      "urdu": "آپ ﷺ اپنے دائیں ہاتھ (کی انگلیوں) پر تسبیح شمار کیا کرتے تھے۔",
+      "hindi": "आप ﷺ अपने दाएं हाथ (की उंगलियों) पर तस्बीह शुमार किया करते थे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1502" },
+    "tags": ["sunnah", "tasbih", "manners"]
+  },
+  {
+    "id": "et_019",
+    "group_key": "General",
+    "title": "General types of goodness and any occasion",
+    "category": "Etiquettes",
+    "subcategory": "General Dua",
+    "chapter_no": 129,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى، وَالتُّقَى، وَالْعَفَافَ، وَالْغِنَى",
+    "transliteration": "Allāhumma innī as’alukal-hudā, wat-tuqā, wal-‘afāfa, wal-ghinā",
+    "translations": {
+      "english": "O Allah, I ask You for guidance, piety, chastity, and self-sufficiency.",
+      "urdu": "اے اللہ! میں تجھ سے ہدایت، تقویٰ، پاکدامنی اور غنا (بے نیازی) کا سوال کرتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे हिदायत, तक़वा, पाकदामनी और ग़िना (बे-नियाज़ी) का सवाल करता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2721" },
+    "tags": ["guidance", "piety", "goodness"]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "rl_001",
+    "group_key": "New baby",
+    "title": "Congratulations on a new baby",
+    "category": "Relationship",
+    "subcategory": "Congratulations on a new baby",
+    "arabic": "بَارَكَ اللَّهُ لَكَ فِي الْمَوْهُوبِ لَكَ، وَشَكَرْتَ الْوَاهِبَ، وَبَلَغَ أَشُدَّهُ، وَرُزِقْتَ بِرَّهُ",
+    "transliteration": "Bārakallāhu laka fil-mawhūbi laka, wa shakartal-wāhiba, wa balagha ashuddahu, wa ruziqta birrahu",
+    "translations": {
+      "english": "May Allah bless you with His gift to you, and may you (give thanks) to the Giver, and may the child reach the maturity of years, and may you be granted its righteousness.",
+      "urdu": "اللہ تمہیں اس ہدیہ (بچے) میں برکت دے جو اس نے تمہیں عطا کیا، اور تم عطا کرنے والے کا شکر ادا کرو، اور بچہ اپنی جوانی کو پہنچے اور تمہیں اس کی نیکی نصیب ہو۔",
+      "hindi": "अल्लाह तुम्हें इस हदीये (बच्चे) में बरकत दे जो उसने तुम्हें अता किया, और तुम अता करने वाले का शुक्र अदा करो, और बच्चा अपनी जवानी को पहुंचे और तुम्हें उसकी नेकी नसीब हो।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "An-Nawawi, Al-Adhkar", "hadith_no": "349" },
+    "tags": ["children", "baby", "blessing", "family"]
+  },
+  {
+    "id": "rl_002",
+    "group_key": "Marriage",
+    "title": "Supplication for the newlywed",
+    "category": "Relationship",
+    "subcategory": "For the newlywed",
+    "arabic": "بَارَكَ اللَّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+    "transliteration": "Bārakallāhu laka, wa bāraka ‘alayka, wa jama‘a baynakumā fī khayrin",
+    "translations": {
+      "english": "May Allah bless you and send blessings upon you and bring you together in goodness.",
+      "urdu": "اللہ تمہیں برکت دے اور تم پر برکت نازل فرمائے اور تم دونوں کو خیر پر جمع کر دے۔",
+      "hindi": "अल्लाह तुम्हें बरकत दे और तुम पर बरकत नाज़िल फ़रमाए और तुम दोनों को खैर पर जमा कर दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "2130" },
+    "tags": ["marriage", "wedding", "blessing", "couple"]
+  },
+  {
+    "id": "rl_003",
+    "group_key": "Marriage",
+    "title": "Before sexual intercourse",
+    "category": "Relationship",
+    "subcategory": "Before sexual intercourse",
+    "arabic": "بِسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
+    "transliteration": "Bismillāhi, Allāhumma jannibnash-shayṭāna, wa jannibish-shayṭāna mā razaqtanā",
+    "translations": {
+      "english": "In the name of Allah. O Allah, keep the Devil away from us and keep the Devil away from that which You provide for us.",
+      "urdu": "اللہ کے نام سے، اے اللہ! ہمیں شیطان سے بچا اور شیطان کو اس (اولاد) سے دور رکھ جو تو ہمیں عطا فرمائے۔",
+      "hindi": "अल्लाह के नाम से, ऐ अल्लाह! हमें शैतान से बचा और शैतान को उस (औलाद) से दूर रख जो तू हमें अता फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6388" },
+    "tags": ["marriage", "protection", "shaitan", "family"]
+  },
+  {
+    "id": "rl_004",
+    "group_key": "Brotherhood",
+    "title": "For one who says: 'I love you for Allah's sake'",
+    "category": "Relationship",
+    "subcategory": "For one who says: 'I love you for Allah's sake'",
+    "arabic": "أَحَبَّكَ الَّذِي أَحْبَبْتَنِي لَهُ",
+    "transliteration": "Aḥabbakal-ladhī aḥbabtanī lahu",
+    "translations": {
+      "english": "May He, for Whose sake you love me, love you.",
+      "urdu": "جس (اللہ) کی خاطر تم نے مجھ سے محبت کی، وہ تم سے محبت کرے۔",
+      "hindi": "जिस (अल्लाह) की ख़ातिर तुमने मुझसे मोहब्बत की, वो तुमसे मोहब्बत करे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5125" },
+    "tags": ["love", "friendship", "brotherhood", "for Allah"]
+  }
+]

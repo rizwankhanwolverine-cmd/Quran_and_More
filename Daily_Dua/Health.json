@@ -1,0 +1,226 @@
+[
+  {
+    "id": "he_001",
+    "group_key": "Visiting the Sick",
+    "title": "When visiting the sick (1)",
+    "category": "Health",
+    "subcategory": "When visiting the sick",
+    "arabic": "لَا بَأْسَ، طَهُورٌ إِنْ شَاءَ اللَّهُ",
+    "transliteration": "Lā ba’sa, ṭahūrun in shā’allāh",
+    "translations": {
+      "english": "No need to worry, it is a purification, if Allah wills.",
+      "urdu": "کوئی حرج نہیں، یہ گناہوں سے پاک کرنے والا ہے، اگر اللہ نے چاہا۔",
+      "hindi": "कोई हर्ज नहीं, ये गुनाहों से पाक करने वाला है, अगर अल्लाह ने चाहा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3616" },
+    "tags": ["sick", "illness", "purification", "health"]
+  },
+  {
+    "id": "he_002",
+    "group_key": "Visiting the Sick",
+    "title": "When visiting the sick (2)",
+    "category": "Health",
+    "subcategory": "When visiting the sick",
+    "arabic": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+    "transliteration": "As’alullāhal-‘Aẓīma Rabbal-‘Arshil-‘Aẓīmi an yashfiyaka",
+    "translations": {
+      "english": "I ask Allah the Almighty, Lord of the Magnificent Throne, to make you well. (Recite 7 times)",
+      "urdu": "میں اللہ عظمت والے سے، جو عرشِ عظیم کا رب ہے، سوال کرتا ہوں کہ وہ تمہیں شفا دے۔",
+      "hindi": "मैं अल्लाह अज़मत वाले से, जो अर्शे-अज़ीम का रब है, सवाल करता हूँ कि वो तुम्हें शिफ़ा दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "2083" },
+    "tags": ["shifa", "healing", "sick", "mercy"]
+  },
+  {
+    "id": "he_003",
+    "group_key": "Visiting the Sick",
+    "title": "Excellence of visiting the sick",
+    "category": "Health",
+    "subcategory": "Excellence of visiting the sick",
+    "arabic": "قَالَ صلى الله عليه وسلم: إِذَا عَادَ الرَّجُلُ أَخَاهُ الْمُسْلِمَ مَشَى فِي خِرَافَةِ الْجَنَّةِ حَتَّى يَجْلِسَ...",
+    "transliteration": "Qāla (s): Idhā ‘ādar-rajulu akhāhul-Muslima mashā fī khirāfatil-jannati ḥattā yajlisa...",
+    "translations": {
+      "english": "The Prophet (s) said: When a man visits his sick Muslim brother, he is walking among the harvested fruits of Paradise until he sits down...",
+      "urdu": "نبی کریم ﷺ نے فرمایا: جب کوئی آدمی اپنے مسلمان بھائی کی تیمارداری کرتا ہے تو وہ جنت کے باغات میں چلتا رہتا ہے یہاں تک کہ وہ بیٹھ جائے...",
+      "hindi": "नबी करीम ﷺ ने फ़रमाया: जब कोई आदमी अपने मुसलमान भाई की तीमारदारी करता है तो वो जन्नत के बा़ग़ात में चलता रहता है यहाँ तक कि वो बैठ जाए..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "967" },
+    "tags": ["reward", "sick", "brotherhood", "paradise"]
+  },
+  {
+    "id": "he_004",
+    "group_key": "Weather",
+    "title": "When a wind blows (1)",
+    "category": "Health",
+    "subcategory": "When a wind blows",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا",
+    "transliteration": "Allāhumma innī as’aluka khayrahā, wa a‘ūdhu bika min sharrihā",
+    "translations": {
+      "english": "O Allah, I ask You for its good and I seek refuge in You from its evil.",
+      "urdu": "اے اللہ! میں تجھ سے اس کی خیر کا سوال کرتا ہوں، اور اس کے شر سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे इसकी खैर का सवाल करता हूँ, और इसके शर से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5097" },
+    "tags": ["wind", "storm", "nature", "protection"]
+  },
+  {
+    "id": "he_005",
+    "group_key": "Weather",
+    "title": "When a wind blows (2)",
+    "category": "Health",
+    "subcategory": "When a wind blows",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيهَا، وَخَيْرَ مَا أُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا...",
+    "transliteration": "Allāhumma innī as’aluka khayrahā, wa khayra mā fīhā, wa khayra mā ursilat bihi...",
+    "translations": {
+      "english": "O Allah, I ask You for its good, the good of what it contains, and the good of what it was sent with...",
+      "urdu": "اے اللہ! میں تجھ سے اس کی خیر، اس کے اندر کی خیر اور اس خیر کا سوال کرتا ہوں جس کے ساتھ یہ بھیجی گئی ہے...",
+      "hindi": "ऐ अल्लाह! मैं तुझसे इसकी खैर, इसके अन्दर की खैर और उस खैर का सवाल करता हूँ जिसके साथ ये भेजी गई है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "899" },
+    "tags": ["wind", "protection", "mercy", "weather"]
+  },
+  {
+    "id": "he_006",
+    "group_key": "Weather",
+    "title": "Upon hearing thunder",
+    "category": "Health",
+    "subcategory": "Upon hearing thunder",
+    "arabic": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ",
+    "transliteration": "Subḥānal-ladhī yusabbiḥur-ra‘du bi-ḥamdihi wal-malā’ikatu min khīfatih",
+    "translations": {
+      "english": "Glory is to Him Whom the thunder glorifies with His praise and the angels glorify for fear of Him.",
+      "urdu": "پاک ہے وہ ذات جس کی تسبیح کڑک اس کی حمد کے ساتھ بیان کرتی ہے اور فرشتے اس کے ڈر سے (اس کی تسبیح کرتے ہیں)۔",
+      "hindi": "पाक है वो ज़ात जिसकी तस्बीह कड़क उसकी हम्द के साथ बयान करती है और फ़रिश्ते उसके डर से (उसकी तस्बीह करते हैं)।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Muwatta", "hadith_no": "2/992" },
+    "tags": ["thunder", "storm", "praise", "fear of Allah"]
+  },
+  {
+    "id": "he_007",
+    "group_key": "Weather",
+    "title": "Asking for rain (Istisqa) (1)",
+    "category": "Health",
+    "subcategory": "Asking for rain",
+    "arabic": "اللَّهُمَّ أَسْقِنَا غَيْثاً مُغِيثاً مَرِيئاً مَرِيعاً، نَافِعاً غَيْرَ ضَارٍّ، عَاجِلاً غَيْرَ آجِلٍ",
+    "transliteration": "Allāhumma asqinā ghaythan mughīthan marī’an marī‘an, nāfi‘an ghayra ḍārrin, ‘ājilan ghayra ājilin",
+    "translations": {
+      "english": "O Allah, shower upon us abundant, wholesome, productive rain, beneficial and not harmful, immediately and not delayed.",
+      "urdu": "اے اللہ! ہمیں ایسی بارش عطا فرما جو فریاد رسی کرنے والی، خوشگوار، سیراب کرنے والی، نفع بخش اور بغیر کسی نقصان کے ہو، جلدی ہو دیر سے نہ ہو۔",
+      "hindi": "ऐ अल्लाह! हमें ऐसी बारिश अता फ़रमा जो फ़रियाद रसी करने वाली, ख़ुशगवार, सैराब करने वाली, नफ़ा बख़्श और बग़ैर किसी नुक़सान के हो, जल्दी हो देर से न हो।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1169" },
+    "tags": ["rain", "drought", "provision", "mercy"]
+  },
+  {
+    "id": "he_008",
+    "group_key": "Weather",
+    "title": "Asking for rain (Istisqa) (2)",
+    "category": "Health",
+    "subcategory": "Asking for rain",
+    "arabic": "اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا",
+    "transliteration": "Allāhumma aghithnā, Allāhumma aghithnā, Allāhumma aghithnā",
+    "translations": {
+      "english": "O Allah, relieve us. O Allah, relieve us. O Allah, relieve us.",
+      "urdu": "اے اللہ! ہمیں سیراب کر دے، اے اللہ! ہمیں سیراب کر دے، اے اللہ! ہمیں سیراب کر دے۔",
+      "hindi": "ऐ अल्लाह! हमें सैराब कर दे, ऐ अल्लाह! हमें सैराब कर दे, ऐ अल्लाह! हमें सैराब कर दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1014" },
+    "tags": ["rain", "relief", "mercy"]
+  },
+  {
+    "id": "he_009",
+    "group_key": "Weather",
+    "title": "Asking for rain (Istisqa) (3)",
+    "category": "Health",
+    "subcategory": "Asking for rain",
+    "arabic": "اللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِ بَلَدَكَ الْمَيِّتَ",
+    "transliteration": "Allāhummas-qi ‘ibādaka, wa bahā’imaka, wanshur raḥmataka, wa aḥyi baladakal-mayyit",
+    "translations": {
+      "english": "O Allah, provide water for Your servants and Your livestock, and spread Your mercy and revive Your dead land.",
+      "urdu": "اے اللہ! اپنے بندوں اور اپنے چوپایوں کو پانی پلا، اور اپنی رحمت پھیلا دے، اور اپنی مردہ بستی کو زندگی بخش دے۔",
+      "hindi": "ऐ अल्लाह! अपने बन्दों और अपने चौपायों को पानी पिला, और अपनी रहमत फैला दे, और अपनी मुर्दा बस्ती को ज़िन्दगी बख़्श दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1176" },
+    "tags": ["rain", "mercy", "nature", "animals"]
+  },
+  {
+    "id": "he_010",
+    "group_key": "Weather",
+    "title": "When it rains",
+    "category": "Health",
+    "subcategory": "When it rains",
+    "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+    "transliteration": "Allāhumma ṣayyiban nāfi‘an",
+    "translations": {
+      "english": "O Allah, let it be a beneficial rain.",
+      "urdu": "اے اللہ! اسے نفع بخش بارش بنا دے۔",
+      "hindi": "ऐ अल्लाह! इसे नफ़ा बख़्श बारिश बना दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1032" },
+    "tags": ["rain", "blessing", "weather"]
+  },
+  {
+    "id": "he_011",
+    "group_key": "Weather",
+    "title": "After it rains",
+    "category": "Health",
+    "subcategory": "After it rains",
+    "arabic": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+    "transliteration": "Muṭirnā bi-faḍlillāhi wa raḥmatihi",
+    "translations": {
+      "english": "It has rained through the bounty of Allah and His mercy.",
+      "urdu": "ہم پر اللہ کے فضل اور اس کی رحمت سے بارش ہوئی ہے۔",
+      "hindi": "हम पर अल्लाह के फ़ज़ल और उसकी रहमत से बारिश हुई है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "846" },
+    "tags": ["rain", "gratitude", "mercy"]
+  },
+  {
+    "id": "he_012",
+    "group_key": "Weather",
+    "title": "Asking for clear skies",
+    "category": "Health",
+    "subcategory": "Asking for clear skies",
+    "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اللَّهُمَّ عَلَى الْآكَامِ وَالظِّرَابِ، وَبُطُونِ الْأَوْدِيَةِ...",
+    "transliteration": "Allāhumma ḥawālaynā wa lā ‘alaynā, Allāhumma ‘alal-ākāmi waẓ-ẓirābi...",
+    "translations": {
+      "english": "O Allah, let it rain around us and not upon us. O Allah, let it rain on the plateaus, the hills, the valley bottoms...",
+      "urdu": "اے اللہ! ہمارے ارد گرد بارش برسا، ہم پر نہ برسا۔ اے اللہ! ٹیلوں، پہاڑیوں، وادیوں کے اندرونی حصوں پر برسا...",
+      "hindi": "ऐ अल्लाह! हमारे इर्द-गिर्द बारिश बरसा, हम पर न बरसा। ऐ अल्लाह! टीलों, पहाड़ियों, वादियों के अन्दरूनी हिस्सों पर बरसा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1014" },
+    "tags": ["rain", "safety", "weather"]
+  },
+  {
+    "id": "he_013",
+    "group_key": "Physical Pain",
+    "title": "When feeling pain in the body",
+    "category": "Health",
+    "subcategory": "When feeling pain in the body",
+    "arabic": "بِسْمِ اللَّهِ (3x). أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (7x)",
+    "transliteration": "Bismillāh (3x). A‘ūdhu billāhi wa qudratihi min sharri mā ajidu wa uḥādhiru (7x)",
+    "translations": {
+      "english": "In the name of Allah. I seek refuge in Allah and His power from the evil of what I feel and what I fear.",
+      "urdu": "اللہ کے نام سے۔ میں اللہ اور اس کی قدرت کی پناہ مانگتا ہوں اس شر سے جو میں محسوس کرتا ہوں اور جس سے میں ڈرتا ہوں۔",
+      "hindi": "अल्लाह के नाम से। मैं अल्लाह और उसकी क़ुदरत की पनाह माँगता हूँ उस शर से जो मैं महसूस करता हूँ और जिससे मैं डरता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2202" },
+    "tags": ["pain", "healing", "shifa", "protection"]
+  },
+  {
+    "id": "he_014",
+    "group_key": "Slaughtering",
+    "title": "When slaughtering an animal",
+    "category": "Health",
+    "subcategory": "When slaughtering an animal",
+    "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ اللَّهُمَّ مِنْكَ وَلَكَ، اللَّهُمَّ تَقَبَّلْ مِنِّي",
+    "transliteration": "Bismillāhi wallāhu Akbar, Allāhumma minka wa laka, Allāhumma taqabbal minnī",
+    "translations": {
+      "english": "In the name of Allah, Allah is the Most Great. O Allah, from You and to You. O Allah, accept it from me.",
+      "urdu": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔ اے اللہ! یہ تیری طرف سے ہے اور تیرے ہی لیے ہے، اے اللہ! اسے میری طرف سے قبول فرما۔",
+      "hindi": "अल्लाह के नाम से, और अल्लाह सबसे बड़ा है। ऐ अल्लाह! ये तेरी तरफ़ से है और तेरे ही लिए है, ऐ अल्लाह! इसे मेरी तरफ़ से क़बूल फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1967" },
+    "tags": ["sacrifice", "halal", "food", "slaughtering"]
+  }
+]

@@ -1,0 +1,2093 @@
+[
+  {
+    "id": "wr_001",
+    "group_key": "Sleep",
+    "title": "Waking Up (1)",
+    "category": "Worship",
+    "subcategory": "Waking Up",
+    "chapter_no": 1,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "transliteration": "Alḥamdu lillāhilladhī aḥyānā ba‘da mā amātanā wa ilayhin-nushūr",
+    "translations": {
+      "english": "Praise is to Allah Who gives us life after He has caused us to die and to Him is the return.",
+      "urdu": "تمام تعریفیں اللہ ہی کے لیے ہیں جس نے ہمیں مارنے (سلانے) کے بعد زندہ کیا اور اسی کی طرف لوٹ کر جانا ہے۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह ही के लिए हैं जिसने हमें मारने (सुलाने) के बाद ज़िन्दा किया और उसी की तरफ़ लौट कर जाना है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6312" },
+    "tags": ["waking up", "praise"]
+  },
+  {
+    "id": "wr_002",
+    "group_key": "Sleep",
+    "title": "Waking Up (2)",
+    "category": "Worship",
+    "subcategory": "Waking Up",
+    "chapter_no": 1,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ",
+    "transliteration": "Alḥamdu lillāhilladhī ‘āfānī fī jasadī, wa radda ‘alayya rūḥī, wa adhina lī bi-dhikrih",
+    "translations": {
+      "english": "Praise is to Allah Who gave strength to my body and returned my soul to me and permitted me to remember Him.",
+      "urdu": "تمام تعریفیں اللہ ہی کے لیے ہیں جس نے میرے جسم کو عافیت دی، میری روح مجھے لوٹائی اور مجھے اپنے ذکر کی اجازت دی۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह ही के लिए हैं जिसने मेरे जिस्म को आफ़ियत दी, मेरी रूह मुझे लौटाई और मुझे अपने ज़िक्र की इजाज़त दी।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3401" },
+    "tags": ["waking up", "gratitude"]
+  },
+  {
+    "id": "wr_003",
+    "group_key": "Sleep",
+    "title": "Waking Up (3)",
+    "category": "Worship",
+    "subcategory": "Waking Up",
+    "chapter_no": 1,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu... Subḥānallāhi, wal-ḥamdu lillāhi... Rabbigh-fir lī",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone... Glory is to Allah, Praise is to Allah... Lord, forgive me.",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے... اللہ پاک ہے، تمام تعریفیں اللہ کے لیے ہیں... اے رب مجھے بخش دے۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं वो अकेला है... अल्लाह पाक है, तमाम तारीफ़ें अल्लाह के लिए हैं... ऐ रब मुझे बख़्श दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1154" },
+    "tags": ["waking up", "dhikr"]
+  },
+  {
+    "id": "wr_004",
+    "group_key": "Sleep",
+    "title": "Waking Up (4) - Last 10 verses of Al-Imran",
+    "category": "Worship",
+    "subcategory": "Waking Up",
+    "chapter_no": 1,
+    "arabic": "إِنَّ فِي خَلْقِ السَّمَوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ...",
+    "transliteration": "Inna fī khalqi-samāwāti wal-arḍi wakhtilāfil-layli wan-nahāri la-āyātin li-ulil-albāb...",
+    "translations": {
+      "english": "Verily! In the creation of the heavens and the earth, and in the alternation of night and day, there are indeed signs for men of understanding...",
+      "urdu": "بے شک آسمانوں اور زمین کی پیدائش اور رات اور دن کے بدل بدل کر آنے میں عقل والوں کے لیے نشانیاں ہیں۔۔۔",
+      "hindi": "बेशक आसमानों और ज़मीन की पैदाइश और रात और दिन के बदल-बदल कर आने में अक़्ल वालों के लिए निशानियाँ हैं..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "4569" },
+    "tags": ["waking up", "quran"]
+  },
+  {
+    "id": "wr_005",
+    "group_key": "Daily Life",
+    "title": "When wearing a garment",
+    "category": "Worship",
+    "subcategory": "Clothing",
+    "chapter_no": 2,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "transliteration": "Alḥamdu lillāhilladhī kasānī hādhā (ath-thawba) wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwatin",
+    "translations": {
+      "english": "Praise is to Allah Who has clothed me with this (garment) and provided it for me without any might or power from myself.",
+      "urdu": "تمام تعریفیں اللہ ہی کے لیے ہیں جس نے مجھے یہ کپڑا پہنایا اور میری کسی طاقت و قوت کے بغیر مجھے یہ عطا فرمایا۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह ही के लिए हैं जिसने मुझे ये कपड़ा पहनाया और मेरी किसी ताक़त व क़ुवत के बग़ैर मुझे ये अता फ़रमाया।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4023" },
+    "tags": ["clothing", "gratitude"]
+  },
+  {
+    "id": "wr_006",
+    "group_key": "Daily Life",
+    "title": "When wearing a new garment",
+    "category": "Worship",
+    "subcategory": "Clothing",
+    "chapter_no": 3,
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ...",
+    "transliteration": "Allāhumma lakal-ḥamdu Anta kasawtanīhi, as’aluka min khayrihi wa khayri mā ṣuni‘a lahu...",
+    "translations": {
+      "english": "O Allah, praise is to You. You have clothed me with it. I ask You for its goodness and the goodness of what it was made for...",
+      "urdu": "اے اللہ! تمام تعریف تیرے ہی لیے ہے، تو نے ہی مجھے یہ پہنایا، میں تجھ سے اس کی خیر اور جس مقصد کے لیے یہ بنایا گیا اس کی خیر مانگتا ہوں۔۔۔",
+      "hindi": "ऐ अल्लाह! तमाम तारीफ़ तेरे ही लिए है, तूने ही मुझे ये पहनाया, मैं तुझसे इसकी ख़ैर और जिस मक़सद के लिए ये बनाया गया इसकी ख़ैर माँगता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4020" },
+    "tags": ["clothing", "new garment"]
+  },
+  {
+    "id": "wr_007",
+    "group_key": "Daily Life",
+    "title": "To someone wearing a new garment (1)",
+    "category": "Worship",
+    "subcategory": "Clothing",
+    "chapter_no": 4,
+    "arabic": "تُبْلِي وَيُخْلِفُ اللَّهُ تَعَالَى",
+    "transliteration": "Tublī wa yukhlifullāhu Ta‘ālā",
+    "translations": {
+      "english": "May you wear it out and may Allah replace it (with another).",
+      "urdu": "تم اسے پرانا کرو اور اللہ تعالیٰ تمہیں اس کا بدل عطا فرمائے۔",
+      "hindi": "तुम इसे पुराना करो और अल्लाह तआला तुम्हें इसका बदल अता फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4020" },
+    "tags": ["clothing", "blessing"]
+  },
+  {
+    "id": "wr_008",
+    "group_key": "Daily Life",
+    "title": "To someone wearing a new garment (2)",
+    "category": "Worship",
+    "subcategory": "Clothing",
+    "chapter_no": 4,
+    "arabic": "الْبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً",
+    "transliteration": "Ilbas jadīdan, wa ‘ish ḥamīdan, wa mut shahīdan",
+    "translations": {
+      "english": "Wear new clothes, live a praiseworthy life and die as a martyr.",
+      "urdu": "نیا لباس پہنو، قابلِ تعریف زندگی گزارو اور شہادت کی موت پاؤ۔",
+      "hindi": "नया लिबास पहनो, क़ाबिले-तारीफ़ ज़िन्दगी गुज़ारो और शहादत की मौत पाओ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Majah", "hadith_no": "3558" },
+    "tags": ["clothing", "blessing"]
+  },
+  {
+    "id": "wr_009",
+    "group_key": "Daily Life",
+    "title": "Before undressing",
+    "category": "Worship",
+    "subcategory": "Clothing",
+    "chapter_no": 5,
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillāh",
+    "translations": {
+      "english": "In the name of Allah.",
+      "urdu": "اللہ کے نام سے۔",
+      "hindi": "अल्लाह के नाम से।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "606" },
+    "tags": ["clothing", "protection"]
+  },
+  {
+    "id": "wr_010",
+    "group_key": "Daily Life",
+    "title": "Before entering the toilet",
+    "category": "Worship",
+    "subcategory": "Toilet",
+    "chapter_no": 6,
+    "arabic": "(بِسْمِ اللَّهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "transliteration": "(Bismillāh) Allāhumma innī a‘ūdhu bika minal-khubuthi wal-khabā’ith",
+    "translations": {
+      "english": "(In the name of Allah). O Allah, I seek refuge in You from the male and female evil spirits.",
+      "urdu": "(اللہ کے نام سے) اے اللہ! میں خبیث جنوں اور جنیوں سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "(अल्लाह के नाम से) ऐ अल्लाह! मैं ख़बीस जिन्नों और जिन्नियों से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "142" },
+    "tags": ["toilet", "protection"]
+  },
+  {
+    "id": "wr_011",
+    "group_key": "Daily Life",
+    "title": "After leaving the toilet",
+    "category": "Worship",
+    "subcategory": "Toilet",
+    "chapter_no": 7,
+    "arabic": "غُفْرَانَكَ",
+    "transliteration": "Ghufrānaka",
+    "translations": {
+      "english": "I ask You (Allah) for forgiveness.",
+      "urdu": "اے اللہ! میں تجھ سے بخشش مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे बख़्शिश माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "30" },
+    "tags": ["toilet", "forgiveness"]
+  },
+  {
+    "id": "wr_012",
+    "group_key": "Prayer",
+    "title": "Before Wudu (Ablution)",
+    "category": "Worship",
+    "subcategory": "Wudu",
+    "chapter_no": 10,
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillāh",
+    "translations": {
+      "english": "In the name of Allah.",
+      "urdu": "اللہ کے نام سے۔",
+      "hindi": "अल्लाह के नाम से।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "101" },
+    "tags": ["wudu", "beginning"]
+  },
+  {
+    "id": "wr_013",
+    "group_key": "Prayer",
+    "title": "After Wudu (1)",
+    "category": "Worship",
+    "subcategory": "Wudu",
+    "chapter_no": 11,
+    "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "transliteration": "Ashhadu an lā ilāha illallāhu waḥdahu lā sharīka lahu wa ashhadu anna Muḥammadan ‘abduhu wa Rasūluhu",
+    "translations": {
+      "english": "I bear witness that none has the right to be worshipped but Allah alone, He has no partner; and I bear witness that Muhammad is His slave and Messenger.",
+      "urdu": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے اس کا کوئی شریک نہیں، اور میں گواہی دیتا ہوں کہ محمد ﷺ اس کے بندے اور رسول ہیں۔",
+      "hindi": "मैं गवाही देता हूँ कि अल्लाह के सिवा कोई माबूद नहीं वो अकेला है उसका कोई शरीक नहीं, और मैं गवाही देता हूँ कि मुहम्मद ﷺ उसके बन्दे और रसूल हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "234" },
+    "tags": ["wudu", "shahadah"]
+  },
+  {
+    "id": "wr_014",
+    "group_key": "Prayer",
+    "title": "After Wudu (2)",
+    "category": "Worship",
+    "subcategory": "Wudu",
+    "chapter_no": 11,
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+    "transliteration": "Allāhummaj-‘alnī minat-tawwābīna waj-‘alnī minal-mutaṭahhirīn",
+    "translations": {
+      "english": "O Allah, make me among those who turn to You in repentance and make me among those who are purified.",
+      "urdu": "اے اللہ! مجھے توبہ کرنے والوں میں بنا دے اور مجھے پاکیزگی اختیار کرنے والوں میں بنا دے۔",
+      "hindi": "ऐ अल्लाह! मुझे तौबा करने वालों में बना दे और मुझे पाकीज़गी इख़्तियार करने वालों में बना दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "55" },
+    "tags": ["wudu", "purification"]
+  },
+  {
+    "id": "wr_015",
+    "group_key": "Prayer",
+    "title": "After Wudu (3)",
+    "category": "Worship",
+    "subcategory": "Wudu",
+    "chapter_no": 11,
+    "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+    "transliteration": "Subḥānaka Allāhumma wa biḥamdika, ashhadu an lā ilāha illā Anta, astaghfiruka wa atūbu ilayk",
+    "translations": {
+      "english": "Glory is to You, O Allah, and praise. I bear witness that there is no god but You. I seek Your forgiveness and turn to You in repentance.",
+      "urdu": "پاک ہے تو اے اللہ! اپنی تعریف کے ساتھ، میں گواہی دیتا ہوں کہ تیرے سوا کوئی معبود نہیں، میں تجھ سے بخشش مانگتا ہوں اور تیری طرف توبہ کرتا ہوں۔",
+      "hindi": "पाक है तू ऐ अल्लाह! अपनी तारीफ़ के साथ, मैं गवाही देता हूँ कि तेरे सिवा कोई माबूद नहीं, मैं तुझसे बख़्शिश माँगता हूँ और तेरी तरफ़ तौबा करता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "An-Nasa'i", "hadith_no": "173" },
+    "tags": ["wudu", "dhikr"]
+  },
+  {
+    "id": "wr_016",
+    "group_key": "Prayer",
+    "title": "When going to the Masjid",
+    "category": "Worship",
+    "subcategory": "Masjid",
+    "chapter_no": 12,
+    "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوراً، وَفِي لِسَانِي نُوراً، وَفِي سَمْعِي نُوراً، وَفِي بَصَرِي نُوراً...",
+    "transliteration": "Allāhummaj-‘al fī qalbī nūran, wa fī lisānī nūran, wa fī sam‘ī nūran, wa fī baṣarī nūran...",
+    "translations": {
+      "english": "O Allah, place light in my heart, and on my tongue light, and in my hearing light and in my sight light...",
+      "urdu": "اے اللہ! میرے دل میں نور پیدا کر دے، اور میری زبان میں نور، میرے کانوں میں نور اور میری آنکھوں میں نور۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे दिल में नूर पैदा कर दे, और मेरी ज़बान में नूर, मेरे कानों में नूर और मेरी आँखों में नूर..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "763" },
+    "tags": ["masjid", "light"]
+  },
+  {
+    "id": "wr_017",
+    "group_key": "Prayer",
+    "title": "Upon entering the Masjid",
+    "category": "Worship",
+    "subcategory": "Masjid",
+    "chapter_no": 13,
+    "arabic": "أَعُوذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ. اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "transliteration": "A‘ūdhu billāhil-‘Aẓīm, wa bi-wajhihil-Karīm... Allāhummaf-taḥ lī abwāba raḥmatik",
+    "translations": {
+      "english": "I seek refuge in Almighty Allah... from Satan the outcast. O Allah, open the gates of Your mercy for me.",
+      "urdu": "میں عظمت والے اللہ کی، اس کے کریم چہرے کی پناہ مانگتا ہوں۔۔۔ مردود شیطان سے۔ اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+      "hindi": "मैं अज़मत वाले अल्लाह की, उसके करीम चेहरे की पनाह माँगता हूँ... मरदूद शैतान से। ऐ अल्लाह! मेरे लिए अपनी रहमत के दरवाज़े खोल दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "466" },
+    "tags": ["masjid", "mercy"]
+  },
+  {
+    "id": "wr_018",
+    "group_key": "Prayer",
+    "title": "Upon leaving the Masjid",
+    "category": "Worship",
+    "subcategory": "Masjid",
+    "chapter_no": 14,
+    "arabic": "بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ...",
+    "transliteration": "Bismillāhi waṣ-ṣalātu was-salāmu ‘alā Rasūlillāh, Allāhumma innī as’aluka min faḍlik...",
+    "translations": {
+      "english": "In the name of Allah, and peace and blessings be upon the Messenger of Allah. O Allah, I ask for Your favor...",
+      "urdu": "اللہ کے نام سے، اور اللہ کے رسول پر درود و سلام ہو، اے اللہ! میں تجھ سے تیرے فضل کا سوال کرتا ہوں۔۔۔",
+      "hindi": "अल्लाह के नाम से, और अल्लाह के रसूल पर दुरूद व सलाम हो, ऐ अल्लाह! मैं तुझसे तेरे फ़ज़ल का सवाल करता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "713" },
+    "tags": ["masjid", "blessing"]
+  },
+  {
+    "id": "wr_019",
+    "group_key": "Prayer",
+    "title": "During the Athan (1)",
+    "category": "Worship",
+    "subcategory": "Call to Prayer",
+    "chapter_no": 15,
+    "arabic": "Repeat what the Mu'adhdhin says.",
+    "transliteration": "Repeat after Mu'adhdhin",
+    "translations": {
+      "english": "Repeat what the caller says, except for Hayya 'alas-Salah and Hayya 'alal-Falah.",
+      "urdu": "وہی کلمات دہراؤ جو مؤذن کہتا ہے سوائے 'حی علی الصلاۃ' اور 'حی علی الفلاح' کے۔",
+      "hindi": "वही कलमात दोहराओ जो मुअज़्ज़िन कहता है सिवाए 'हय्या अलस-सलाह' और 'हय्या अलल-फ़लाह' के।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "613" },
+    "tags": ["athan", "prayer"]
+  },
+  {
+    "id": "wr_020",
+    "group_key": "Prayer",
+    "title": "During the Athan (2)",
+    "category": "Worship",
+    "subcategory": "Call to Prayer",
+    "chapter_no": 15,
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Lā ḥawla wa lā quwwata illā billāh",
+    "translations": {
+      "english": "There is no might nor power except with Allah. (Say this when caller says Hayya 'alas-Salah/Falah)",
+      "urdu": "نیکی کرنے کی طاقت اور برائی سے بچنے کی ہمت اللہ ہی کی طرف سے ہے۔",
+      "hindi": "नेकी करने की ताक़त और बुराई से बचने की हिम्मत अल्लाह ही की तरफ़ से है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "613" },
+    "tags": ["athan", "submission"]
+  },
+  {
+    "id": "wr_021",
+    "group_key": "Prayer",
+    "title": "After the Athan (3) - Shahadah",
+    "category": "Worship",
+    "subcategory": "Call to Prayer",
+    "chapter_no": 15,
+    "arabic": "وَأَنَا أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ...",
+    "transliteration": "Wa ana ashhadu an lā ilāha illallāhu waḥdahu lā sharīka lahu...",
+    "translations": {
+      "english": "And I bear witness that none has the right to be worshipped but Allah alone... I am pleased with Allah as my Lord...",
+      "urdu": "اور میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے... میں اللہ کے رب ہونے پر راضی ہوا۔۔۔",
+      "hindi": "और मैं गवाही देता हूँ कि अल्लाह के सिवा कोई माबूद नहीं वो अकेला है... मैं अल्लाह के रब होने पर राज़ी हुआ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "386" },
+    "tags": ["athan", "shahadah"]
+  },
+  {
+    "id": "wr_022",
+    "group_key": "Prayer",
+    "title": "After the Athan (4) - Salawat",
+    "category": "Worship",
+    "subcategory": "Call to Prayer",
+    "chapter_no": 15,
+    "arabic": "Invoke blessings upon the Prophet ﷺ",
+    "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin...",
+    "translations": {
+      "english": "Invoke blessings upon the Prophet ﷺ after repeating the Athan.",
+      "urdu": "اذان کے کلمات دہرانے کے بعد نبی ﷺ پر درود بھیجیں۔",
+      "hindi": "अज़ान के कलमात दोहराने के बाद नबी ﷺ पर दुरूद भेजें।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "384" },
+    "tags": ["athan", "salawat"]
+  },
+  {
+    "id": "wr_023",
+    "group_key": "Prayer",
+    "title": "After the Athan (5) - Al-Wasilah",
+    "category": "Worship",
+    "subcategory": "Call to Prayer",
+    "chapter_no": 15,
+    "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّداً الْوَسِيلَةَ وَالْفَضِيلَةَ...",
+    "transliteration": "Allāhumma Rabba hādhihid-da‘watit-tāmmati... āti Muḥammadanil-wasīlata wal-faḍīlah...",
+    "translations": {
+      "english": "O Allah, Lord of this perfect call and established prayer, grant Muhammad the Wasilah and superiority...",
+      "urdu": "اے اللہ! اس کامل پکار اور قائم ہونے والی نماز کے رب، محمد ﷺ کو وسیلہ اور فضیلت عطا فرما۔۔۔",
+      "hindi": "ऐ अल्लाह! इस कामिल पुकार और क़ायम होने वाली नमाज़ के रब, मुहम्मद ﷺ को वसीला और फ़ज़ीलत अता फ़रमा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "614" },
+    "tags": ["athan", "wasilah"]
+  },
+  {
+    "id": "wr_024",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (1)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ...",
+    "transliteration": "Allāhumma bā‘id baynī wa bayna khaṭāyāya kamā bā‘adta baynal-mashriqi wal-maghrib...",
+    "translations": {
+      "english": "O Allah, separate me from my sins as You have separated the East from the West...",
+      "urdu": "اے اللہ! میرے اور میرے گناہوں کے درمیان اتنی دوری کر دے جتنی تو نے مشرق اور مغرب کے درمیان کی ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे और मेरे गुनाहों के बीच इतनी दूरी कर दे जितनी तूने मशरिक़ और मग़रिब के बीच की है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "744" },
+    "tags": ["prayer", "istiftah"]
+  },
+  {
+    "id": "wr_025",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (2)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ",
+    "transliteration": "Subḥānaka Allāhumma wa biḥamdika, wa tabārakasmuka, wa ta‘ālā jadduka, wa lā ilāha ghayruka",
+    "translations": {
+      "english": "Glory is to You, O Allah, and praise. Blessed is Your name and exalted is Your majesty. There is no god but You.",
+      "urdu": "پاک ہے تو اے اللہ! اپنی تعریف کے ساتھ، اور برکت والا ہے تیرا نام، اور بلند ہے تیری عظمت، اور تیرے سوا کوئی معبود نہیں۔",
+      "hindi": "पाक है तू ऐ अल्लाह! अपनी तारीफ़ के साथ, और बरकत वाला है तेरा नाम, और बुलन्द है तेरी अज़मत, और तेरे सिवा कोई माबूद नहीं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "775" },
+    "tags": ["prayer", "istiftah"]
+  },
+  {
+    "id": "wr_026",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (3)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالْأَرْضَ حَنِيفاً وَمَا أَنَا مِنَ الْمُشْرِكِينَ...",
+    "transliteration": "Wajjahtu wajhiya lilladhī faṭara-samāwāti wal-arḍa ḥanīfan...",
+    "translations": {
+      "english": "I have turned my face sincerely towards Him who has created the heavens and the earth...",
+      "urdu": "میں نے اپنا رخ یکسو ہو کر اس ذات کی طرف کیا جس نے آسمانوں اور زمین کو پیدا کیا۔۔۔",
+      "hindi": "मैंने अपना रुख़ यकसू होकर उस ज़ात की तरफ़ किया जिसने आसमानों और ज़मीन को पैदा किया..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "771" },
+    "tags": ["prayer", "istiftah"]
+  },
+  {
+    "id": "wr_027",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (4)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "اللَّهُمَّ رَبَّ جِبْرَائِيلَ، وَمِيكَائِيلَ، وَإِسْرَافِيلَ، فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ...",
+    "transliteration": "Allāhumma Rabba Jibrā’īla, wa Mīkā’īla, wa Isrāfīla...",
+    "translations": {
+      "english": "O Allah, Lord of Jibrail, Mikail and Israfil, Creator of the heavens and the earth...",
+      "urdu": "اے اللہ! جبرائیل، میکائیل اور اسرافیل کے رب، آسمانوں اور زمین کو پیدا کرنے والے۔۔۔",
+      "hindi": "ऐ अल्लाह! जिब्राईल, मीक़ाईल और इसराफ़ील के रब, आसमानों और ज़मीन को पैदा करने वाले..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "770" },
+    "tags": ["prayer", "night prayer"]
+  },
+  {
+    "id": "wr_028",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (5)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "اللَّهُ أَكْبَرُ كَبِيراً، اللَّهُ أَكْبَرُ كَبِيراً، اللَّهُ أَكْبَرُ كَبِيراً، وَالْحَمْدُ لِلَّهِ كَثِيراً...",
+    "transliteration": "Allāhu Akbaru kabīran, Allāhu Akbaru kabīran...",
+    "translations": {
+      "english": "Allah is Most Great, Allah is Most Great... Praise be to Allah in abundance...",
+      "urdu": "اللہ سب سے بڑا ہے بہت بڑا، اللہ سب سے بڑا ہے بہت بڑا۔۔۔ اور تمام تعریفیں اللہ ہی کے لیے ہیں بہت زیادہ۔۔۔",
+      "hindi": "अल्लाह सबसे बड़ा है बहुत बड़ा, अल्लाह सबसे बड़ा है बहुत बड़ा... और तमाम तारीफ़ें अल्लाह ही के लिए हैं बहुत ज़्यादा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "764" },
+    "tags": ["prayer", "praise"]
+  },
+  {
+    "id": "wr_029",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (6)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "الْحَمْدُ لِلَّهِ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ",
+    "transliteration": "Alḥamdu lillāhi ḥamdan kethīran ṭayyiban mubārakan fīh",
+    "translations": {
+      "english": "Praise be to Allah, much praise, good and blessed.",
+      "urdu": "تمام تعریفیں اللہ ہی کے لیے ہیں، بہت زیادہ تعریف، پاکیزہ اور برکت والی۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह ही के लिए हैं, बहुत ज़्यादा तारीफ़, पाकीज़ा और बरकत वाली।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "600" },
+    "tags": ["prayer", "gratitude"]
+  },
+  {
+    "id": "wr_030",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (7)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ...",
+    "transliteration": "Allāhumma lakal-ḥamdu Anta nūrus-samāwāti wal-arḍi...",
+    "translations": {
+      "english": "O Allah, to You belongs all praise. You are the Light of the heavens and the earth...",
+      "urdu": "اے اللہ! تیرے ہی لیے تمام تعریفیں ہیں، تو آسمانوں اور زمین اور جو کچھ ان میں ہے ان کا نور ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! तेरे ही लिए तमाम तारीफ़ें हैं, तू आसमानों और ज़मीन और जो कुछ उनमें है उनका नूर है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1120" },
+    "tags": ["prayer", "night prayer"]
+  },
+  {
+    "id": "wr_031",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (8)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "اللهُ أَكْبَرُ (10 times), الْحَمْدُ لِلَّهِ (10 times)...",
+    "transliteration": "Allāhu Akbar (10x), Alḥamdu lillāh (10x)...",
+    "translations": {
+      "english": "Allah is Most Great (10x), Praise be to Allah (10x)...",
+      "urdu": "اللہ سب سے بڑا ہے (10 بار)، تمام تعریفیں اللہ کے لیے ہیں (10 بار)۔۔۔",
+      "hindi": "अल्लाह सबसे बड़ा है (10 बार), तमाम तारीफ़ें अल्लाह के लिए हैं (10 बार)..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "766" },
+    "tags": ["prayer", "dhikr"]
+  },
+  {
+    "id": "wr_032",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (9)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "سُبْحَانَ ذِي الْمَلَكُوتِ، وَالْجَبَرُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ",
+    "transliteration": "Subḥāna dhil-malakūti, wal-jabarūti, wal-kibriyā’i, wal-‘aẓamah",
+    "translations": {
+      "english": "Glory is to the Owner of the Kingdom, the Might, the Pride and the Greatness.",
+      "urdu": "پاک ہے وہ جو بادشاہت، جبروت، بڑائی اور عظمت والا ہے۔",
+      "hindi": "पाक है वो जो बादशाही, जबरूत, बड़ाई और अज़मत वाला है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "873" },
+    "tags": ["prayer", "night prayer"]
+  },
+  {
+    "id": "wr_033",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (10)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ...",
+    "transliteration": "Allāhummagh-fir lī mā qaddamtu wa mā akhkhartu...",
+    "translations": {
+      "english": "O Allah, forgive me for what I have sent before and what I have left behind...",
+      "urdu": "اے اللہ! میرے وہ گناہ معاف کر دے جو میں نے پہلے کیے اور جو بعد میں کیے۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे वो गुनाह माफ़ कर दे जो मैंने पहले किए और जो बाद में किए..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "771" },
+    "tags": ["prayer", "forgiveness"]
+  },
+  {
+    "id": "wr_034",
+    "group_key": "Prayer",
+    "title": "Opening Supplication (Istiftah) (11)",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 16,
+    "arabic": "اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ...",
+    "transliteration": "Allāhumma bārik ‘alā Muḥammadin...",
+    "translations": {
+      "english": "O Allah, bless Muhammad and the family of Muhammad...",
+      "urdu": "اے اللہ! محمد ﷺ اور آلِ محمد ﷺ پر برکتیں نازل فرما۔۔۔",
+      "hindi": "ऐ अल्लाह! मुहम्मद ﷺ और आले-मुहम्मद ﷺ पर बरकतें नाज़िल फ़रमा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3370" },
+    "tags": ["prayer", "salawat"]
+  },
+  {
+    "id": "wr_035",
+    "group_key": "Prayer",
+    "title": "While Bowing (Ruku) (1)",
+    "category": "Worship",
+    "subcategory": "Bowing",
+    "chapter_no": 17,
+    "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+    "transliteration": "Subḥāna Rabbiyal-‘Aẓīm",
+    "translations": {
+      "english": "Glory is to my Lord, the Magnificent. (3 times)",
+      "urdu": "پاک ہے میرا رب جو عظمت والا ہے۔ (3 بار)",
+      "hindi": "पाक है मेरा रब जो अज़मत वाला है। (3 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "871" },
+    "tags": ["ruku", "glorification"]
+  },
+  {
+    "id": "wr_036",
+    "group_key": "Prayer",
+    "title": "While Bowing (Ruku) (2)",
+    "category": "Worship",
+    "subcategory": "Bowing",
+    "chapter_no": 17,
+    "arabic": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي",
+    "transliteration": "Subḥānaka Allāhumma Rabbanā wa biḥamdika Allāhummagh-fir lī",
+    "translations": {
+      "english": "Glory is to You, O Allah, our Lord, and praise is Yours. O Allah, forgive me.",
+      "urdu": "پاک ہے تو اے اللہ، اے ہمارے رب اپنی تعریف کے ساتھ، اے اللہ! مجھے بخش دے۔",
+      "hindi": "पाक है तू ऐ अल्लाह, ऐ हमारे रब अपनी तारीफ़ के साथ, ऐ अल्लाह! मुझे बख़्श दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "794" },
+    "tags": ["ruku", "forgiveness"]
+  },
+  {
+    "id": "wr_037",
+    "group_key": "Prayer",
+    "title": "While Bowing (Ruku) (3)",
+    "category": "Worship",
+    "subcategory": "Bowing",
+    "chapter_no": 17,
+    "arabic": "سُبُّوحٌ، قُدُّوسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوحِ",
+    "transliteration": "Subbūḥun, Quddūsun, Rabbul-malā’ikati war-Rūḥ",
+    "translations": {
+      "english": "Perfect, Holy, Lord of the angels and the Spirit (Gabriel).",
+      "urdu": "بہت زیادہ پاک، بہت زیادہ مقدس، فرشتوں اور روح (جبرائیل) کا رب۔",
+      "hindi": "बहुत ज़्यादा पाक, बहुत ज़्यादा मुक़द्दस, फ़रिश्तों और रूह (जिब्राईल) का रब।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "487" },
+    "tags": ["ruku", "sujud", "praise"]
+  },
+  {
+    "id": "wr_038",
+    "group_key": "Prayer",
+    "title": "While Bowing (Ruku) (4)",
+    "category": "Worship",
+    "subcategory": "Bowing",
+    "chapter_no": 17,
+    "arabic": "اللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ...",
+    "transliteration": "Allāhumma laka raka‘tu, wa bika āmantu, wa laka aslamtu...",
+    "translations": {
+      "english": "O Allah, to You I bow, in You I believe, and to You I submit...",
+      "urdu": "اے اللہ! تیرے ہی لیے میں جھکا، اور تجھ پر ہی میں ایمان لایا، اور تیرے ہی لیے میں فرمانبردار ہوا۔۔۔",
+      "hindi": "ऐ अल्लाह! तेरे ही लिए मैं झुका, और तुझ पर ही मैं ईमान लाया, और तेरे ही लिए मैं फ़रमांबरदार हुआ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "771" },
+    "tags": ["ruku", "submission"]
+  },
+  {
+    "id": "wr_039",
+    "group_key": "Prayer",
+    "title": "While Bowing (Ruku) (5)",
+    "category": "Worship",
+    "subcategory": "Bowing",
+    "chapter_no": 17,
+    "arabic": "سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ",
+    "transliteration": "Subḥāna dhil-jabarūti wal-malakūti...",
+    "translations": {
+      "english": "Glory is to the Owner of the Might, the Kingdom, the Pride and the Greatness.",
+      "urdu": "پاک ہے وہ جو جبروت، بادشاہت، بڑائی اور عظمت والا ہے۔",
+      "hindi": "पाक है वो जो जबरूत, बादशाही, बड़ाई और अज़मत वाला है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "873" },
+    "tags": ["ruku", "night prayer"]
+  },
+  {
+    "id": "wr_040",
+    "group_key": "Prayer",
+    "title": "Upon Rising from Bowing (1)",
+    "category": "Worship",
+    "subcategory": "Rising",
+    "chapter_no": 18,
+    "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
+    "transliteration": "Sami‘allāhu liman ḥamidah",
+    "translations": {
+      "english": "Allah listens to him who praises Him.",
+      "urdu": "اللہ نے اس کی بات سن لی جس نے اس کی تعریف کی۔",
+      "hindi": "अल्लाह ने उसकी बात सुन ली जिसने उसकी तारीफ़ की।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "795" },
+    "tags": ["rising", "praise"]
+  },
+  {
+    "id": "wr_041",
+    "group_key": "Prayer",
+    "title": "Upon Rising from Bowing (2)",
+    "category": "Worship",
+    "subcategory": "Rising",
+    "chapter_no": 18,
+    "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ",
+    "transliteration": "Rabbanā wa lakal-ḥamdu",
+    "translations": {
+      "english": "Our Lord, and to You belongs all praise.",
+      "urdu": "اے ہمارے رب! اور تیرے ہی لیے تمام تعریفیں ہیں۔",
+      "hindi": "ऐ हमारे रब! और तेरे ही लिए तमाम तारीफ़ें हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "795" },
+    "tags": ["rising", "praise"]
+  },
+  {
+    "id": "wr_042",
+    "group_key": "Prayer",
+    "title": "Upon Rising from Bowing (3)",
+    "category": "Worship",
+    "subcategory": "Rising",
+    "chapter_no": 18,
+    "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ",
+    "transliteration": "Rabbanā wa lakal-ḥamdu, ḥamdan kethīran ṭayyiban mubārakan fīh",
+    "translations": {
+      "english": "Our Lord, to You belongs all praise, much praise, good and blessed.",
+      "urdu": "اے ہمارے رب! تیرے ہی لیے تمام تعریفیں ہیں، بہت زیادہ تعریف، پاکیزہ اور برکت والی۔",
+      "hindi": "ऐ हमारे रब! तेरे ही लिए तमाम तारीफ़ें हैं, बहुत ज़्यादा तारीफ़, पाकीज़ा और बरकत वाली।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "799" },
+    "tags": ["rising", "praise"]
+  },
+  {
+    "id": "wr_043",
+    "group_key": "Prayer",
+    "title": "Upon Rising from Bowing (4)",
+    "category": "Worship",
+    "subcategory": "Rising",
+    "chapter_no": 18,
+    "arabic": "مِلْءَ السَّمَوَاتِ وَمِلْءَ الْأَرْضِ، وَمَا بَيْنَهُمَا...",
+    "transliteration": "Mil’as-samāwāti wa mil’al-arḍi, wa mā baynahumā...",
+    "translations": {
+      "english": "(Praise that) fills the heavens and the earth and what is between them...",
+      "urdu": "(ایسی تعریف جو) آسمانوں اور زمین کو بھر دے اور ان کے درمیان کی ہر چیز کو بھر دے۔۔۔",
+      "hindi": "(ऐसी तारीफ़ जो) आसमानों और ज़मीन को भर दे और उनके बीच की हर चीज़ को भर दे..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "476" },
+    "tags": ["rising", "praise"]
+  },
+  {
+    "id": "wr_044",
+    "group_key": "Prayer",
+    "title": "During Prostration (Sujud) (1)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 19,
+    "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+    "transliteration": "Subḥāna Rabbiyal-A‘lā",
+    "translations": {
+      "english": "Glory is to my Lord, the Most High. (3 times)",
+      "urdu": "پاک ہے میرا رب جو سب سے بلند ہے۔ (3 بار)",
+      "hindi": "पाक है मेरा रब जो सबसे बुलन्द है। (3 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "871" },
+    "tags": ["sujud", "glorification"]
+  },
+  {
+    "id": "wr_045",
+    "group_key": "Prayer",
+    "title": "During Prostration (Sujud) (2)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 19,
+    "arabic": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي",
+    "transliteration": "Subḥānaka Allāhumma Rabbanā wa biḥamdika Allāhummagh-fir lī",
+    "translations": {
+      "english": "Glory is to You, O Allah, our Lord, and praise is Yours. O Allah, forgive me.",
+      "urdu": "پاک ہے تو اے اللہ، اے ہمارے رب اپنی تعریف کے ساتھ، اے اللہ! مجھے بخش دے۔",
+      "hindi": "पाक है तू ऐ अल्लाह, ऐ हमारे रब अपनी तारीफ़ के साथ, ऐ अल्लाह! मुझे बख़्श दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "794" },
+    "tags": ["sujud", "forgiveness"]
+  },
+  {
+    "id": "wr_046",
+    "group_key": "Prayer",
+    "title": "During Prostration (Sujud) (3)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 19,
+    "arabic": "سُبُّوحٌ، قُدُّوسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوحِ",
+    "transliteration": "Subbūḥun, Quddūsun, Rabbul-malā’ikati war-Rūḥ",
+    "translations": {
+      "english": "Perfect, Holy, Lord of the angels and the Spirit (Gabriel).",
+      "urdu": "بہت زیادہ پاک، بہت زیادہ مقدس، فرشتوں اور روح (جبرائیل) کا رب۔",
+      "hindi": "बहुत ज़्यादा पाक, बहुत ज़्यादा मुक़द्दस, फ़रिश्तों और रूह (जिब्राईल) का रब।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "487" },
+    "tags": ["sujud", "praise"]
+  },
+  {
+    "id": "wr_047",
+    "group_key": "Prayer",
+    "title": "During Prostration (Sujud) (4)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 19,
+    "arabic": "اللَّهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ...",
+    "transliteration": "Allāhumma laka sajadtu, wa bika āmantu, wa laka aslamtu...",
+    "translations": {
+      "english": "O Allah, to You I prostrate, in You I believe and to You I submit...",
+      "urdu": "اے اللہ! تیرے ہی لیے میں نے سجدہ کیا، اور تجھ پر ہی میں ایمان لایا اور تیرے ہی لیے میں فرمانبردار ہوا۔۔۔",
+      "hindi": "ऐ अल्लाह! तेरे ही लिए मैंने सज्दा किया, और तुझ पर ही मैं ईमान लाया और तेरे ही लिए मैं फ़रमांबरदार हुआ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "771" },
+    "tags": ["sujud", "submission"]
+  },
+  {
+    "id": "wr_048",
+    "group_key": "Prayer",
+    "title": "During Prostration (Sujud) (5)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 19,
+    "arabic": "سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ",
+    "transliteration": "Subḥāna dhil-jabarūti wal-malakūti...",
+    "translations": {
+      "english": "Glory is to the Owner of the Might, the Kingdom, the Pride and the Greatness.",
+      "urdu": "پاک ہے وہ جو جبروت، بادشاہت، بڑائی اور عظمت والا ہے۔",
+      "hindi": "पाक है वो जो जबरूत, बादशाही, बड़ाई और अज़मत वाला है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "873" },
+    "tags": ["sujud", "night prayer"]
+  },
+  {
+    "id": "wr_049",
+    "group_key": "Prayer",
+    "title": "During Prostration (Sujud) (6)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 19,
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ: دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ...",
+    "transliteration": "Allāhummagh-fir lī dhanbī kullahu: diqqahu wa jillahu...",
+    "translations": {
+      "english": "O Allah, forgive me all my sins: the small and the great, the first and the last...",
+      "urdu": "اے اللہ! میرے تمام گناہ معاف کر دے: چھوٹے بھی اور بڑے بھی، پہلے بھی اور آخری بھی۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे तमाम गुनाह माफ़ कर दे: छोटे भी और बड़े भी, पहले भी और आख़िरी भी..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "483" },
+    "tags": ["sujud", "forgiveness"]
+  },
+  {
+    "id": "wr_050",
+    "group_key": "Prayer",
+    "title": "During Prostration (Sujud) (7)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 19,
+    "arabic": "اللَّهُمَّ أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ...",
+    "transliteration": "Allāhumma a‘ūdhu bi-riḍāka min sakhaṭika...",
+    "translations": {
+      "english": "O Allah, I seek refuge in Your pleasure from Your anger, and in Your forgiveness from Your punishment...",
+      "urdu": "اے اللہ! میں تیری رضا کے ذریعے تیری ناراضگی سے پناہ مانگتا ہوں، اور تیری معافی کے ذریعے تیری سزا سے۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं तेरी रज़ा के ज़रिए तेरी नाराज़गी से पनाह माँगता हूँ, और तेरी माफ़ी के ज़रिए तेरी सज़ा से..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "486" },
+    "tags": ["sujud", "protection"]
+  },
+  {
+    "id": "wr_051",
+    "group_key": "Prayer",
+    "title": "Between the two Prostrations (1)",
+    "category": "Worship",
+    "subcategory": "Sitting",
+    "chapter_no": 20,
+    "arabic": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي",
+    "transliteration": "Rabbigh-fir lī, Rabbigh-fir lī",
+    "translations": {
+      "english": "Lord, forgive me. Lord, forgive me.",
+      "urdu": "اے میرے رب! مجھے بخش دے، اے میرے رب! مجھے بخش دے۔",
+      "hindi": "ऐ मेरे रब! मुझे बख़्श दे, ऐ मेरे रब! मुझे बख़्श दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "874" },
+    "tags": ["sitting", "forgiveness"]
+  },
+  {
+    "id": "wr_052",
+    "group_key": "Prayer",
+    "title": "Between the two Prostrations (2)",
+    "category": "Worship",
+    "subcategory": "Sitting",
+    "chapter_no": 20,
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي، وَارْزُقْنِي، وَارْفَعْنِي",
+    "transliteration": "Allāhummagh-fir lī, war-ḥamnī, wah-dinī, waj-burnī, wa ‘āfinī, war-zuqnī, war-fa‘nī",
+    "translations": {
+      "english": "O Allah, forgive me, have mercy on me, guide me, support me, protect me, provide for me and elevate me.",
+      "urdu": "اے اللہ! مجھے بخش دے، مجھ پر رحم فرما، مجھے ہدایت دے، میرے نقصان کی تلافی فرما، مجھے عافیت دے، مجھے رزق دے اور میرا درجہ بلند فرما۔",
+      "hindi": "ऐ अल्लाह! मुझे बख़्श दे, मुझ पर रहम फ़रमा, मुझे हिदायत दे, मेरे नुक़सान की तलाफ़ी फ़रमा, मुझे आफ़ियत दे, मुझे रिज़्क़ दे और मेरा दर्जा बुलन्द फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "850" },
+    "tags": ["sitting", "mercy", "rizq"]
+  },
+  {
+    "id": "wr_053",
+    "group_key": "Prayer",
+    "title": "Prostration of Recitation (1)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 21,
+    "arabic": "سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ...",
+    "transliteration": "Sajada wajhī lilladhī khalaqahu, wa shaqqa sam‘ahu wa baṣarahu...",
+    "translations": {
+      "english": "I have prostrated my face to the One Who created it and gave it hearing and sight by His might and power...",
+      "urdu": "میرے چہرے نے اس ذات کو سجدہ کیا جس نے اسے پیدا کیا اور اپنی طاقت و قوت سے اس کے کان اور آنکھیں بنائیں۔۔۔",
+      "hindi": "मेरे चेहरे ने उस ज़ात को सज्दा किया जिसने इसे पैदा किया और अपनी ताक़त व क़ुवत से इसके कान और आँखें बनाईं..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "580" },
+    "tags": ["sujud", "tilawat"]
+  },
+  {
+    "id": "wr_054",
+    "group_key": "Prayer",
+    "title": "Prostration of Recitation (2)",
+    "category": "Worship",
+    "subcategory": "Prostration",
+    "chapter_no": 21,
+    "arabic": "اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً...",
+    "transliteration": "Allāhummak-tub lī bihā ‘indaka ajran, wa ḍa‘ ‘annī bihā wizran...",
+    "translations": {
+      "english": "O Allah, record for me a reward for this (prostration) and remove from me a sin...",
+      "urdu": "اے اللہ! میرے لیے اس سجدے کے بدلے اپنے پاس اجر لکھ لے اور اس کی وجہ سے مجھ سے میرا بوجھ (گناہ) اتار دے۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे लिए इस सज्दे के बदले अपने पास अज्र लिख ले और इसकी वजह से मुझसे मेरा बोझ (गुनाह) उतार दे..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3424" },
+    "tags": ["sujud", "tilawat", "reward"]
+  },
+  {
+    "id": "wr_055",
+    "group_key": "Prayer",
+    "title": "The Tashahhud",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 22,
+    "arabic": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ...",
+    "transliteration": "At-taḥiyyātu lillāhi waṣ-ṣalawātu waṭ-ṭayyibātu, as-salāmu ‘alayka ayyuhan-Nabiyyu...",
+    "translations": {
+      "english": "All greetings of humility are for Allah, and all prayers and goodness. Peace be upon you, O Prophet...",
+      "urdu": "تمام قولی، بدنی اور مالی عبادتیں اللہ ہی کے لیے ہیں۔ اے نبی! آپ پر سلامتی ہو۔۔۔",
+      "hindi": "तमाम क़ौली, बदनी और माली इबादतें अल्लाह ही के लिए हैं। ऐ नबी! आप पर सलामती हो..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "831" },
+    "tags": ["tashahhud", "shahadah"]
+  },
+  {
+    "id": "wr_056",
+    "group_key": "Prayer",
+    "title": "Salawat after Tashahhud (1)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 23,
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ...",
+    "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ‘alā āli Muḥammad...",
+    "translations": {
+      "english": "O Allah, bestow Your favor upon Muhammad and upon the family of Muhammad as You bestowed favor upon Ibrahim...",
+      "urdu": "اے اللہ! محمد ﷺ اور ان کی آل پر رحمتیں نازل فرما جیسے تو نے ابراہیمؑ اور ان کی آل پر رحمتیں نازل فرمائیں۔۔۔",
+      "hindi": "ऐ अल्लाह! मुहम्मद ﷺ और उनकी आल पर रहमतें नाज़िल फ़रमा जैसे तूने इब्राहीम अलै. और उनकी आल पर रहमतें नाज़िल फ़रमाईं..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3370" },
+    "tags": ["salawat", "prophet"]
+  },
+  {
+    "id": "wr_057",
+    "group_key": "Prayer",
+    "title": "Salawat after Tashahhud (2)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 23,
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ...",
+    "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ‘alā azwājihī wa dhurriyyatihī...",
+    "translations": {
+      "english": "O Allah, bestow Your favor upon Muhammad and upon his wives and offspring...",
+      "urdu": "اے اللہ! محمد ﷺ، ان کی ازواج اور ان کی اولاد پر رحمتیں نازل فرما۔۔۔",
+      "hindi": "ऐ अल्लाह! मुहम्मद ﷺ, उनकी अज़वाज और उनकी औलाद पर रहमतें नाज़िल फ़रमा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3369" },
+    "tags": ["salawat", "family"]
+  },
+  {
+    "id": "wr_058",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (1)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ...",
+    "transliteration": "Allāhumma innī a‘ūdhu bika min ‘adhābil-qabri, wa min ‘adhābi jahannam...",
+    "translations": {
+      "english": "O Allah, I seek refuge in You from the punishment of the grave, and from the punishment of Hell-fire...",
+      "urdu": "اے اللہ! میں عذابِ قبر، جہنم کے عذاب، زندگی اور موت کے فتنے اور مسیح دجال کے فتنے سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं अज़ाबे-क़ब्र, जहन्नम के अज़ाब, ज़िन्दगी और मौत के फ़ित्ने और मसीह दज्जाल के फ़ित्ने से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1377" },
+    "tags": ["protection", "grave", "dajjal"]
+  },
+  {
+    "id": "wr_059",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (2)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْماً كَثِيراً، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ...",
+    "transliteration": "Allāhumma innī ẓalamtu nafsī ẓulman kethīran...",
+    "translations": {
+      "english": "O Allah, I have greatly wronged myself and no one forgives sins except You...",
+      "urdu": "اے اللہ! میں نے اپنی جان پر بہت ظلم کیا اور تیرے سوا کوئی گناہوں کو معاف نہیں کر سکتا۔۔۔",
+      "hindi": "ऐ अल्लाह! मैंने अपनी जान पर बहुत ज़ुल्म किया और तेरे सिवा कोई गुनाहों को माफ़ नहीं कर सकता..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "834" },
+    "tags": ["forgiveness", "mercy"]
+  },
+  {
+    "id": "wr_060",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (3)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ...",
+    "transliteration": "Allāhummagh-fir lī mā qaddamtu, wa mā akhkhartu...",
+    "translations": {
+      "english": "O Allah, forgive me what I have sent before and what I have left behind...",
+      "urdu": "اے اللہ! میرے وہ گناہ معاف کر دے جو میں نے پہلے کیے اور جو بعد میں کیے۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे वो गुनाह माफ़ कर दे जो मैंने पहले किए और जो बाद में किए..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "771" },
+    "tags": ["forgiveness"]
+  },
+  {
+    "id": "wr_061",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (4)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+    "transliteration": "Allāhumma a‘innī ‘alā dhikrika, wa shukrika, wa ḥusni ‘ibādatika",
+    "translations": {
+      "english": "O Allah, help me to remember You, to thank You, and to worship You in the best way.",
+      "urdu": "اے اللہ! اپنے ذکر، اپنے شکر اور اپنی بہترین عبادت پر میری مدد فرما۔",
+      "hindi": "ऐ अल्लाह! अपने ज़िक्र, अपने शुक्र और अपनी बेहतरीन इबादत पर मेरी मदद फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1522" },
+    "tags": ["help", "worship"]
+  },
+  {
+    "id": "wr_062",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (5)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبُخْلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ...",
+    "transliteration": "Allāhumma innī a‘ūdhu bika minal-bukhli, wa a‘ūdhu bika minal-jubni...",
+    "translations": {
+      "english": "O Allah, I seek refuge in You from miserliness and I seek refuge in You from cowardice...",
+      "urdu": "اے اللہ! میں بخل سے تیری پناہ مانگتا ہوں، اور بزدلی سے تیری پناہ مانگتا ہوں۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं बुख़्ल (कंजूसी) से तेरी पनाह माँगता हूँ, और बुज़दिली से तेरी पनाह माँगता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "2822" },
+    "tags": ["protection", "character"]
+  },
+  {
+    "id": "wr_063",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (6)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "transliteration": "Allāhumma innī as’alukal-Jannata wa a‘ūdhu bika minan-nār",
+    "translations": {
+      "english": "O Allah, I ask You for Paradise and I seek refuge in You from the Fire.",
+      "urdu": "اے اللہ! میں تجھ سے جنت کا سوال کرتا ہوں اور آگ (جہنم) سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे जन्नत का सवाल करता हूँ और आग (जहन्नम) से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "792" },
+    "tags": ["jannah", "hellfire"]
+  },
+  {
+    "id": "wr_064",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (7)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي...",
+    "transliteration": "Allāhumma bi-‘ilmikal-ghayba wa qudratika ‘alal-khalqi...",
+    "translations": {
+      "english": "O Allah, by Your knowledge of the unseen and Your power over creation, keep me alive as long as life is good for me...",
+      "urdu": "اے اللہ! اپنے غیب کے علم اور مخلوق پر اپنی قدرت کے ذریعے مجھے اس وقت تک زندہ رکھ جب تک تو جانتا ہے کہ زندگی میرے لیے بہتر ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! अपने ग़ैब के इल्म और मख़्लूक़ पर अपनी क़ुदरत के ज़रिए मुझे उस वक़्त तक ज़िन्दा रख जब तक तू जानता है कि ज़िन्दगी मेरे लिए बेहतर है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "An-Nasa'i", "hadith_no": "1305" },
+    "tags": ["life", "guidance"]
+  },
+  {
+    "id": "wr_065",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (8)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الْأَحَدُ الصَّمَدُ...",
+    "transliteration": "Allāhumma innī as’aluka yā Allāhu bi-annakal-Wāḥidul-Aḥadus-Ṣamadu...",
+    "translations": {
+      "english": "O Allah, I ask You by Your being the One, the Only, the Self-Sufficient Master...",
+      "urdu": "اے اللہ! میں تجھ سے سوال کرتا ہوں، اے اللہ! کیونکہ تو اکیلا، تنہا اور بے نیاز ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे सवाल करता हूँ, ऐ अल्लाह! क्योंकि तू अकेला, तन्हा और बेनियाज़ है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "An-Nasa'i", "hadith_no": "1301" },
+    "tags": ["tauheed", "forgiveness"]
+  },
+  {
+    "id": "wr_066",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (9)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لَا إِلَهَ إِلَّا أَنْتَ وَحْدَهُ لَا شَرِيكَ لَهُ، الْمَنَّانُ...",
+    "transliteration": "Allāhumma innī as’aluka bi-anna lakal-ḥamda lā ilāha illā Anta...",
+    "translations": {
+      "english": "O Allah, I ask You as all praise is due to You. There is no god but You, the Giver of all good...",
+      "urdu": "اے اللہ! میں تجھ سے سوال کرتا ہوں کیونکہ تمام تعریفیں تیرے ہی لیے ہیں، تیرے سوا کوئی معبود نہیں، تو اکیلا ہے، احسان کرنے والا ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे सवाल करता हूँ क्योंकि तमाम तारीफ़ें तेरे ही लिए हैं, तेरे सिवा कोई माबूद नहीं, तू अकेला है, एहसान करने वाला है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1495" },
+    "tags": ["ism al-azam"]
+  },
+  {
+    "id": "wr_067",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (10)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ الْأَحَدُ الصَّمَدُ...",
+    "transliteration": "Allāhumma innī as’aluka bi-annī ashhadu annaka Antallāhu...",
+    "translations": {
+      "english": "O Allah, I ask You by my bearing witness that You are Allah, there is no god but You, the One, the Self-Sufficient...",
+      "urdu": "اے اللہ! میں تجھ سے سوال کرتا ہوں اس گواہی کے وسیلے سے کہ تو ہی اللہ ہے، تیرے سوا کوئی معبود نہیں، تو اکیلا بے نیاز ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे सवाल करता हूँ इस गवाही के वसीले से कि तू ही अल्लाह है, तेरे सिवा कोई माबूद नहीं, तू अकेला बेनियाज़ है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1493" },
+    "tags": ["ism al-azam"]
+  },
+  {
+    "id": "wr_068",
+    "group_key": "Prayer",
+    "title": "Supplication before the Salam (11)",
+    "category": "Worship",
+    "subcategory": "Tashahhud",
+    "chapter_no": 24,
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَخَطَايَايَ كُلَّهَا...",
+    "transliteration": "Allāhummagh-fir lī dhunūbī wa khaṭāyāya kullahā...",
+    "translations": {
+      "english": "O Allah, forgive me all my sins and errors...",
+      "urdu": "اے اللہ! میرے تمام گناہ اور میری تمام خطائیں معاف کر دے۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे तमाम गुनाह और मेरी तमाम ख़ताएँ माफ़ कर दे..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "At-Tabarani", "hadith_no": "2/255" },
+    "tags": ["forgiveness"]
+  },
+  {
+    "id": "wr_069",
+    "group_key": "Prayer",
+    "title": "Remembrance after Salam (1)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 25,
+    "arabic": "أَسْتَغْفِرُ اللَّهَ (ثَلَاثاً) اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Astaghfirullāh (3x). Allāhumma Antas-Salāmu wa minkas-salāmu, tabārakta yā Dhal-Jalāli wal-Ikrām",
+    "translations": {
+      "english": "I ask Allah for forgiveness (3x). O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor.",
+      "urdu": "میں اللہ سے بخشش مانگتا ہوں (3 بار)۔ اے اللہ! تو ہی سلامتی والا ہے اور تجھی سے سلامتی ہے، تو برکت والا ہے، اے بزرگی اور عزت والے۔",
+      "hindi": "मैं अल्लाह से बख़्शिश माँगता हूँ (3 बार)। ऐ अल्लाह! तू ही सलामती वाला है और तुझी से सलामती है, तू बरकत वाला है, ऐ बुज़ुर्गी और इज़्ज़त वाले।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "591" },
+    "tags": ["after prayer", "forgiveness"]
+  },
+  {
+    "id": "wr_070",
+    "group_key": "Prayer",
+    "title": "Remembrance after Salam (2)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 25,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ...",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu...",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone, Who has no partner... O Allah, none can prevent what You have granted...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے، اس کا کوئی شریک نہیں۔۔۔ اے اللہ! جو تو عطا کرے اسے کوئی روکنے والا نہیں۔۔۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं वो अकेला है, उसका कोई शरीक नहीं... ऐ अल्लाह! जो तू अता करे उसे कोई रोकने वाला नहीं..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "844" },
+    "tags": ["after prayer", "tauheed"]
+  },
+  {
+    "id": "wr_071",
+    "group_key": "Prayer",
+    "title": "Remembrance after Salam (3)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 25,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ...",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu... Lā ḥawla wa lā quwwata illā billāh...",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone... There is no might nor power except with Allah...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے، اس کا کوئی شریک نہیں۔۔۔ نیکی کرنے کی طاقت اور برائی سے بچنے کی ہمت اللہ ہی کی طرف سے ہے۔۔۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं वो अकेला है, उसका कोई शरीक नहीं... नेकी करने की ताक़त और बुराई से बचने की हिम्मत अल्लाह ही की तरफ़ से है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "594" },
+    "tags": ["after prayer", "tauheed"]
+  },
+  {
+    "id": "wr_072",
+    "group_key": "Prayer",
+    "title": "Remembrance after Salam (4)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 25,
+    "arabic": "سُبْحَانَ اللَّهِ (33)، الْحَمْدُ لِلَّهِ (33)، اللَّهُ أَكْبَرُ (33)...",
+    "transliteration": "Subḥānallāh (33x), Alḥamdu lillāh (33x), Allāhu Akbar (33x)...",
+    "translations": {
+      "english": "Glory is to Allah, Praise is to Allah, Allah is Most Great (each 33 times), then complete 100 with La ilaha illallahu...",
+      "urdu": "اللہ پاک ہے (33 بار)، تمام تعریفیں اللہ کے لیے ہیں (33 بار)، اللہ سب سے بڑا ہے (33 بار)۔۔۔ پھر سوواں کلمہ 'لا الہ الا اللہ' سے مکمل کریں۔",
+      "hindi": "अल्लाह पाक है (33 बार), तमाम तारीफ़ें अल्लाह के लिए हैं (33 बार), अल्लाह सबसे बड़ा है (33 बार)... फिर सौवां कलमा 'ला इलाहा इल्लल्लाह' से मुकम्मल करें।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "597" },
+    "tags": ["after prayer", "tasbih"]
+  },
+  {
+    "id": "wr_073",
+    "group_key": "Prayer",
+    "title": "Remembrance after Salam (5)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 25,
+    "arabic": "(Recite Surah Al-Ikhlas, Al-Falaq, and An-Nas after every prayer)",
+    "transliteration": "Recite the 3 Quls",
+    "translations": {
+      "english": "Recite the three protecting Surahs once after Dhuhr, Asr and Isha, and three times after Fajr and Maghrib.",
+      "urdu": "ہر فرض نماز کے بعد ایک بار قل (اخلاص، فلق، ناس) پڑھیں، فجر اور مغرب کے بعد تین بار پڑھیں۔",
+      "hindi": "हर फ़र्ज़ नमाज़ के बाद एक बार क़ुल (इख़लास, फ़लक़, नास) पढ़ें, फ़ज्र और मग़रिब के बाद तीन बार पढ़ें।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1523" },
+    "tags": ["after prayer", "quran"]
+  },
+  {
+    "id": "wr_074",
+    "group_key": "Prayer",
+    "title": "Supplication for Istikhara",
+    "category": "Worship",
+    "subcategory": "Istikhara",
+    "chapter_no": 26,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ...",
+    "transliteration": "Allāhumma innī astakhīruka bi-‘ilmika, wa astaqdiruka bi-qudratika...",
+    "translations": {
+      "english": "O Allah, I consult You through Your knowledge and seek power through Your power...",
+      "urdu": "اے اللہ! میں تیرے علم کے ذریعے تجھ سے خیر طلب کرتا ہوں اور تیری قدرت کے ذریعے تجھ سے قدرت مانگتا ہوں۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं तेरे इल्म के ज़रिए तुझसे ख़ैर तलब करता हूँ और तेरी क़ुदरत के ज़रिए तुझसे क़ुदरत माँगता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1162" },
+    "tags": ["guidance", "istikhara"]
+  },
+  {
+    "id": "wr_075",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (1)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "الْحَمْدُ لِلَّهِ وَحْدَهُ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى مَنْ لَا نَبِيَّ بَعْدَهُ",
+    "transliteration": "Alḥamdu lillāhi waḥdahu, waṣ-ṣalātu was-salāmu ‘alā man lā nabiyya ba‘dahu",
+    "translations": {
+      "english": "Praise is to Allah alone, and peace and blessings be upon him after whom there is no other Prophet.",
+      "urdu": "تعریف اللہ ہی کے لیے ہے جو اکیلا ہے، اور درود و سلام ہو اس پر جس کے بعد کوئی نبی نہیں۔",
+      "hindi": "तारीफ़ अल्लाह ही के लिए है जो अकेला है, और दुरूद व सलाम हो उस पर जिसके बाद कोई नबी नहीं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "At-Tabarani", "hadith_no": "8/273" },
+    "tags": ["morning", "evening"]
+  },
+  {
+    "id": "wr_076",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (2) - Ayat al-Kursi",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ...",
+    "transliteration": "Allāhu lā ilāha illā Huwal-Ḥayyul-Qayyūm...",
+    "translations": {
+      "english": "Allah! There is no god but He, the Living, the Self-Sufficient. Neither slumber nor sleep overtakes Him...",
+      "urdu": "اللہ، اس کے سوا کوئی معبود نہیں، وہ زندہ ہے سب کو تھامنے والا ہے، اسے نہ اونگھ آتی ہے نہ نیند۔۔۔",
+      "hindi": "अल्लाह, उसके सिवा कोई माबूद नहीं, वो ज़िन्दा है सबको थामने वाला है, उसे न ऊँघ आती है न नींद..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Hakim", "hadith_no": "1/562" },
+    "tags": ["protection", "morning", "evening"]
+  },
+  {
+    "id": "wr_077",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (3) - The 3 Quls",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "Recite Surah Al-Ikhlas, Al-Falaq, and An-Nas (3 times each)",
+    "transliteration": "Qul Huwallāhu Aḥad... Qul A‘ūdhu bi-Rabbil-Falaq... Qul A‘ūdhu bi-Rabbil-Nās",
+    "translations": {
+      "english": "Recite these three times in the morning and evening; they will suffice you against everything.",
+      "urdu": "صبح اور شام تین تین بار پڑھیں، یہ آپ کو ہر چیز سے بچانے کے لیے کافی ہوں گی۔",
+      "hindi": "सुबह और शाम तीन-तीन बार पढ़ें, ये आपको हर चीज़ से बचाने के लिए काफ़ी होंगी।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5082" },
+    "tags": ["protection", "morning", "evening"]
+  },
+  {
+    "id": "wr_078",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (4)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ...",
+    "transliteration": "Aṣbaḥnā wa aṣbaḥal-mulku lillāh, wal-ḥamdu lillāh...",
+    "translations": {
+      "english": "We have reached the morning and at this very time unto Allah belongs all sovereignty...",
+      "urdu": "ہم نے صبح کی اور اللہ کی سلطنت نے صبح کی، اور تمام تعریفیں اللہ ہی کے لیے ہیں۔۔۔",
+      "hindi": "हमने सुबह की और अल्लाह की सल्तनत ने सुबह की, और तमाम तारीफ़ें अल्लाह ही के लिए हैं..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2723" },
+    "tags": ["morning", "sovereignty"]
+  },
+  {
+    "id": "wr_079",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (5) - Sayyidul Istighfar",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ...",
+    "transliteration": "Allāhumma Anta Rabbī lā ilāha illā Anta, khalaqtanī wa ana ‘abduka...",
+    "translations": {
+      "english": "O Allah, You are my Lord, there is no god but You. You created me and I am Your slave...",
+      "urdu": "اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں۔۔۔",
+      "hindi": "ऐ अल्लाह! तू मेरा रब है, तेरे सिवा कोई माबूद नहीं, तूने मुझे पैदा किया और मैं तेरा बन्दा हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6306" },
+    "tags": ["forgiveness", "chief prayer"]
+  },
+  {
+    "id": "wr_080",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (6)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ إِنِّي أَصْبَحْتُ أُشْهِدُكَ، وَأُشْهِدُ حَمَلَةَ عَرْشِكَ...",
+    "transliteration": "Allāhumma innī aṣbaḥtu ushhiduka, wa ushhidu ḥamalata ‘arshika...",
+    "translations": {
+      "english": "O Allah, I have reached the morning and I call upon You to witness, and Your throne-bearers...",
+      "urdu": "اے اللہ! میں نے صبح کی، میں تجھے گواہ بناتا ہوں اور تیرے عرش کو اٹھانے والوں کو گواہ بناتا ہوں۔۔۔",
+      "hindi": "ऐ अल्लाह! मैंने सुबह की, मैं तुझे गवाह बनाता हूँ और तेरे अर्श को उठाने वालों को गवाह बनाता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5069" },
+    "tags": ["morning", "witness"]
+  },
+  {
+    "id": "wr_081",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (7)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَهُ...",
+    "transliteration": "Allāhumma mā aṣbaḥa bī min ni‘matin aw bi-aḥadin min khalqika...",
+    "translations": {
+      "english": "O Allah, whatever blessing has come to me or any of Your creatures this morning is from You alone...",
+      "urdu": "اے اللہ! اس صبح مجھے یا تیری مخلوق میں سے کسی کو جو بھی نعمت ملی وہ صرف تیری ہی طرف سے ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! इस सुबह मुझे या तेरी मख़्लूक़ में से किसी को जो भी नेमत मिली वो सिर्फ़ तेरी ही तरफ़ से है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5073" },
+    "tags": ["gratitude", "blessings"]
+  },
+  {
+    "id": "wr_082",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (8)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي...",
+    "transliteration": "Allāhumma ‘āfinī fī badanī, Allāhumma ‘āfinī fī sam‘ī...",
+    "translations": {
+      "english": "O Allah, make me healthy in my body. O Allah, make me healthy in my hearing...",
+      "urdu": "اے اللہ! میرے بدن میں مجھے عافیت دے، اے اللہ! میرے کانوں میں مجھے عافیت دے۔۔۔",
+      "hindi": "ऐ अल्लाह! मेरे बदन में मुझे आफ़ियत दे, ऐ अल्लाह! मेरे कानों में मुझे आफ़ियत दे..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5090" },
+    "tags": ["health", "protection"]
+  },
+  {
+    "id": "wr_083",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (9)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "transliteration": "Ḥasbiyallāhu lā ilāha illā Huwa ‘alayhi tawakkaltu wa Huwa Rabbul-‘arshil-‘Aẓīm",
+    "translations": {
+      "english": "Allah is sufficient for me. There is no god but He. I have placed my trust in Him. (7 times)",
+      "urdu": "اللہ میرے لیے کافی ہے، اس کے سوا کوئی معبود نہیں، اسی پر میں نے بھروسہ کیا اور وہی عرشِ عظیم کا رب ہے۔ (7 بار)",
+      "hindi": "अल्लाह मेरे लिए काफ़ी है, उसके सिवा कोई माबूद नहीं, उसी पर मैंने भरोसा किया और वही अर्शे-अज़ीम का रब है। (7 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5081" },
+    "tags": ["trust", "sufficiency"]
+  },
+  {
+    "id": "wr_084",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (10)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ...",
+    "transliteration": "Allāhumma innī as’alukal-‘afwa wal-‘āfiyata fid-dunyā wal-ākhirah...",
+    "translations": {
+      "english": "O Allah, I ask You for forgiveness and well-being in this world and the Hereafter...",
+      "urdu": "اے اللہ! میں تجھ سے دنیا اور آخرت میں معافی اور عافیت کا سوال کرتا ہوں۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे दुनिया और आख़िरत में माफ़ी और आफ़ियत का सवाल करता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5074" },
+    "tags": ["protection", "well-being"]
+  },
+  {
+    "id": "wr_085",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (11)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ...",
+    "transliteration": "Allāhumma ‘Ālimal-ghaybi wash-shahādati Fāṭiras-samāwāti wal-arḍi...",
+    "translations": {
+      "english": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the earth...",
+      "urdu": "اے اللہ! غیب اور ظاہر کو جاننے والے، آسمانوں اور زمین کو پیدا کرنے والے۔۔۔",
+      "hindi": "ऐ अल्लाह! ग़ैब और ज़ाहिर को जानने वाले, आसमानों और ज़मीन को पैदा करने वाले..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3392" },
+    "tags": ["protection", "knowledge"]
+  },
+  {
+    "id": "wr_086",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (12)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Bismillāhilladhī lā yaḍurru ma‘as-mihi shay’un fil-arḍi wa lā fis-samā’i...",
+    "translations": {
+      "english": "In the name of Allah, with Whose name nothing can cause harm in the earth or in the heavens. (3 times)",
+      "urdu": "اللہ کے نام سے جس کے نام کی برکت سے زمین اور آسمان میں کوئی چیز نقصان نہیں پہنچا سکتی۔ (3 بار)",
+      "hindi": "अल्लाह के नाम से जिसके नाम की बरकत से ज़मीन और आसमान में कोई चीज़ नुक़सान नहीं पहुँचा सकती। (3 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5088" },
+    "tags": ["protection", "safety"]
+  },
+  {
+    "id": "wr_087",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (13)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "رَضِيتُ بِاللَّهِ رَبّاً، وَبِالْإِسْلَامِ دِيناً، وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَبِيّاً",
+    "transliteration": "Raḍītu billāhi Rabban, wa bil-Islāmi dīnan, wa bi-Muḥammadin ﷺ nabiyyan",
+    "translations": {
+      "english": "I am pleased with Allah as my Lord, Islam as my religion, and Muhammad as my Prophet. (3 times)",
+      "urdu": "میں اللہ کے رب ہونے، اسلام کے دین ہونے اور محمد ﷺ کے نبی ہونے پر راضی ہوا۔ (3 بار)",
+      "hindi": "मैं अल्लाह के रब होने, इस्लाम के दीन होने और मुहम्मद ﷺ के नबी होने पर राज़ी हुआ। (3 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5072" },
+    "tags": ["contentment", "faith"]
+  },
+  {
+    "id": "wr_088",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (14)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِي كُلَّهُ...",
+    "transliteration": "Yā Ḥayyu yā Qayyūmu bi-raḥmatika astaghīthu aṣliḥ lī sha’nī kullahu...",
+    "translations": {
+      "english": "O Ever Living, O Self-Sufficient, by Your mercy I seek help, rectify all my affairs...",
+      "urdu": "اے زندہ! اے سب کو تھامنے والے! تیری رحمت کے ذریعے میں تجھ سے فریاد کرتا ہوں، میرے تمام کام سنوار دے۔۔۔",
+      "hindi": "ऐ ज़िन्दा! ऐ सबको थामने वाले! तेरी रहमत के ज़रिए मैं तुझसे फ़रियाद करता हूँ, मेरे तमाम काम सँवार दे..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Hakim", "hadith_no": "1/545" },
+    "tags": ["mercy", "help"]
+  },
+  {
+    "id": "wr_089",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (15)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "أَصْبَحْنَا عَلَى فِطْرَةِ الْإِسْلَامِ، وَعَلَى كَلِمَةِ الْإِخْلَاصِ...",
+    "transliteration": "Aṣbaḥnā ‘alā fiṭratil-Islām, wa ‘alā kalimatil-ikhlāṣ...",
+    "translations": {
+      "english": "We have reached the morning upon the fitrah of Islam, and the word of sincerity...",
+      "urdu": "ہم نے فطرتِ اسلام، کلمہ اخلاص اور اپنے نبی محمد ﷺ کے دین پر صبح کی۔۔۔",
+      "hindi": "हमने फ़ितरते-इस्लाम, कलमा-ए-इख़लास और अपने नबी मुहम्मद ﷺ के दीन पर सुबह की..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "15367" },
+    "tags": ["morning", "faith"]
+  },
+  {
+    "id": "wr_090",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (16)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "transliteration": "Subḥānallāhi wa biḥamdih",
+    "translations": {
+      "english": "Glory is to Allah and praise is to Him. (100 times)",
+      "urdu": "اللہ پاک ہے اور اسی کی تعریف ہے۔ (100 بار)",
+      "hindi": "अल्लाह पाक है और उसी की तारीफ़ है। (100 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2692" },
+    "tags": ["glorification", "forgiveness"]
+  },
+  {
+    "id": "wr_091",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (17)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu...",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone... (10 times or 1 time)",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے، اس کا کوئی شریک نہیں۔۔۔ (10 بار یا 1 بار)",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं वो अकेला है, उसका कोई शरीक नहीं... (10 बार या 1 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2693" },
+    "tags": ["tauheed", "sovereignty"]
+  },
+  {
+    "id": "wr_092",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (18)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu...",
+    "translations": {
+      "english": "Recite 100 times in the morning for protection against Satan until evening.",
+      "urdu": "صبح کے وقت 100 بار پڑھیں، شام تک شیطان سے حفاظت رہے گی۔",
+      "hindi": "सुबह के वक़्त 100 बार पढ़ें, शाम तक शैतान से हिफ़ाज़त रहेगी।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3293" },
+    "tags": ["tauheed", "protection"]
+  },
+  {
+    "id": "wr_093",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (19)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ: عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
+    "transliteration": "Subḥānallāhi wa biḥamdih: ‘adada khalqih...",
+    "translations": {
+      "english": "Glory is to Allah and praise is to Him, by the number of His creation... (3 times in morning)",
+      "urdu": "اللہ پاک ہے اور اسی کی تعریف ہے: اس کی مخلوق کی تعداد کے برابر، اس کی اپنی رضا کے برابر۔۔۔ (صبح 3 بار)",
+      "hindi": "अल्लाह पाक है और उसी की तारीफ़ है: उसकी मख़्लूक़ की तादाद के बराबर, उसकी अपनी रज़ा के बराबर... (सुबह 3 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2726" },
+    "tags": ["morning", "immense reward"]
+  },
+  {
+    "id": "wr_094",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (20)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً",
+    "transliteration": "Allāhumma innī as’aluka ‘ilman nāfi‘an, wa rizqan ṭayyiban...",
+    "translations": {
+      "english": "O Allah, I ask You for useful knowledge, wholesome provision and accepted deeds. (In morning)",
+      "urdu": "اے اللہ! میں تجھ سے نفع بخش علم، پاکیزہ رزق اور قبول ہونے والے عمل کا سوال کرتا ہوں۔ (صبح کے وقت)",
+      "hindi": "ऐ अल्लाह! मैं तुझसे नफ़ा बख़्श इल्म, पाकीज़ा रिज़्क़ और क़बूल होने वाले अमल का सवाल करता हूँ। (सुबह के वक़्त)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Majah", "hadith_no": "925" },
+    "tags": ["morning", "rizq", "knowledge"]
+  },
+  {
+    "id": "wr_095",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (21)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "transliteration": "Astaghfirullāha wa atūbu ilayh",
+    "translations": {
+      "english": "I seek Allah’s forgiveness and turn to Him in repentance. (100 times daily)",
+      "urdu": "میں اللہ سے بخشش مانگتا ہوں اور اسی کی طرف توبہ کرتا ہوں۔ (روزانہ 100 بار)",
+      "hindi": "मैं अल्लाह से बख़्शिश माँगता हूँ और उसी की तरफ़ तौबा करता हूँ। (रोज़ाना 100 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6307" },
+    "tags": ["forgiveness", "repentance"]
+  },
+  {
+    "id": "wr_096",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (22)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "transliteration": "A‘ūdhu bi-kalimātillāhit-tāmmāti min sharri mā khalaq",
+    "translations": {
+      "english": "I seek refuge in the perfect words of Allah from the evil of what He has created. (3 times in evening)",
+      "urdu": "میں اللہ کے کامل کلمات کے ذریعے اس کی مخلوق کے شر سے پناہ مانگتا ہوں۔ (شام کو 3 بار)",
+      "hindi": "मैं अल्लाह के कामिल कलमात के ज़रिए उसकी मख़्लूक़ के शर से पनाह माँगता हूँ। (शाम को 3 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2709" },
+    "tags": ["evening", "protection"]
+  },
+  {
+    "id": "wr_097",
+    "group_key": "Adhkar",
+    "title": "Morning and Evening (23)",
+    "category": "Worship",
+    "subcategory": "Morning and Evening",
+    "chapter_no": 27,
+    "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ",
+    "transliteration": "Allāhumma ṣalli wa sallim ‘alā Nabiyyinā Muḥammad",
+    "translations": {
+      "english": "O Allah, send prayers and peace upon our Prophet Muhammad. (10 times)",
+      "urdu": "اے اللہ! ہمارے نبی محمد ﷺ پر درود و سلام نازل فرما۔ (10 بار)",
+      "hindi": "ऐ अल्लाह! हमारे नबी मुहम्मद ﷺ पर दुरूद व सलाम नाज़िल फ़रमा। (10 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "At-Tabarani", "hadith_no": "10/273" },
+    "tags": ["salawat", "blessing"]
+  },
+  {
+    "id": "wr_098",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (1)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "Recite Al-Ikhlas, Al-Falaq and An-Nas, then rub hands over body.",
+    "transliteration": "Recite 3 Quls and rub body",
+    "translations": {
+      "english": "Cup hands, blow in them, recite the 3 Quls, then rub as much of the body as possible (3 times).",
+      "urdu": "ہتھیلیاں ملا کر ان میں پھونکیں، تینوں قل پڑھیں اور پھر پورے جسم پر ملیں (3 بار)۔",
+      "hindi": "हथेलियाँ मिलाकर उनमें फूँकें, तीनों क़ुल पढ़ें और फिर पूरे जिस्म पर मलें (3 बार)।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "5017" },
+    "tags": ["sleep", "protection"]
+  },
+  {
+    "id": "wr_099",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (2) - Ayat al-Kursi",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+    "transliteration": "Allāhu lā ilāha illā Huwal-Ḥayyul-Qayyūm...",
+    "translations": {
+      "english": "Recite Ayat al-Kursi. You will have a protector from Allah, and no devil will come near you until morning.",
+      "urdu": "آیت الکرسی پڑھیں۔ صبح تک اللہ کی طرف سے ایک محافظ رہے گا اور شیطان قریب نہیں آئے گا۔",
+      "hindi": "आयतुल कुर्सी पढ़ें। सुबह तक अल्लाह की तरफ़ से एक मुहाफ़िज़ रहेगा और शैतान क़रीब नहीं आएगा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "2311" },
+    "tags": ["sleep", "protection"]
+  },
+  {
+    "id": "wr_100",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (3) - Amanar-Rasulu",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ...",
+    "transliteration": "Āmanar-Rasūlu bimā unzila ilayhi mir-Rabbihī...",
+    "translations": {
+      "english": "Recite the last two verses of Surah Al-Baqarah. Whoever recites them at night, they will be sufficient for him.",
+      "urdu": "سورہ بقرہ کی آخری دو آیات پڑھیں۔ جو شخص رات کو انہیں پڑھے گا، وہ اسے (ہر آفت سے) بچانے کے لیے کافی ہوں گی۔",
+      "hindi": "सूरह बक़रह की आख़िरी दो आयात पढ़ें। जो शख़्स रात को इन्हें पढ़ेगा, वो उसे (हर आफ़त से) बचाने के लिए काफ़ी होंगी।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "5009" },
+    "tags": ["sleep", "sufficiency"]
+  },
+  {
+    "id": "wr_101",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (4)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ...",
+    "transliteration": "Bismika Rabbī waḍa‘tu janbī, wa bika arfa‘uhu...",
+    "translations": {
+      "english": "In Your name, my Lord, I lay on my side and by You I rise...",
+      "urdu": "اے میرے رب! تیرے ہی نام سے میں نے اپنی کروٹ رکھی اور تیرے ہی حکم سے اسے اٹھاؤں گا۔۔۔",
+      "hindi": "ऐ मेरे रब! तेरे ही नाम से मैंने अपनी करवट रखी और तेरे ही हुक्म से इसे उठाऊँगा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6320" },
+    "tags": ["sleep", "protection"]
+  },
+  {
+    "id": "wr_102",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (5)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسِي وَأَنْتَ تَوَفَّاهَا...",
+    "transliteration": "Allāhumma innaka khalaqta nafsī wa Anta tawaffāhā...",
+    "translations": {
+      "english": "O Allah, You have created my soul and You take its life...",
+      "urdu": "اے اللہ! تو نے ہی میری جان کو پیدا کیا اور تو ہی اسے موت دے گا۔۔۔",
+      "hindi": "ऐ अल्लाह! तूने ही मेरी जान को पैदा किया और तू ही इसे मौत देगा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2712" },
+    "tags": ["sleep", "soul"]
+  },
+  {
+    "id": "wr_103",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (6)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+    "transliteration": "Allāhumma qinī ‘adhābaka yawma tab‘athu ‘ibādaka",
+    "translations": {
+      "english": "O Allah, protect me from Your punishment on the Day You resurrect Your slaves. (3 times)",
+      "urdu": "اے اللہ! مجھے اپنے عذاب سے بچا جس دن تو اپنے بندوں کو دوبارہ اٹھائے گا۔ (3 بار)",
+      "hindi": "ऐ अल्लाह! मुझे अपने अज़ाब से बचा जिस दिन तू अपने बन्दों को दोबारा उठाएगा। (3 बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5045" },
+    "tags": ["sleep", "protection"]
+  },
+  {
+    "id": "wr_104",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (7)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "transliteration": "Bismika Allāhumma amūtu wa aḥyā",
+    "translations": {
+      "english": "In Your name, O Allah, I die and I live.",
+      "urdu": "اے اللہ! تیرے ہی نام کے ساتھ میں مرتا ہوں (سوتا ہوں) اور جیتا ہوں (جاگتا ہوں)۔",
+      "hindi": "ऐ अल्लाह! तेरे ही नाम के साथ मैं मरता हूँ (सोता हूँ) और जीता हूँ (जागता हूँ)।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6312" },
+    "tags": ["sleep"]
+  },
+  {
+    "id": "wr_105",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (8) - Tasbih Fatimah",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "سُبْحَانَ اللَّهِ (33)، الْحَمْدُ لِلَّهِ (33)، اللَّهُ أَكْبَرُ (34)",
+    "transliteration": "Subḥānallāh (33x), Alḥamdu lillāh (33x), Allāhu Akbar (34x)",
+    "translations": {
+      "english": "Glory is to Allah (33x), Praise is to Allah (33x), Allah is Most Great (34x).",
+      "urdu": "اللہ پاک ہے (33 بار)، تمام تعریفیں اللہ کے لیے ہیں (33 بار)، اللہ سب سے بڑا ہے (34 بار)۔",
+      "hindi": "अल्लाह पाक है (33 बार), तमाम तारीफ़ें अल्लाह के लिए हैं (33 बार), अल्लाह सबसे बड़ा है (34 बार)।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3705" },
+    "tags": ["sleep", "fatigue"]
+  },
+  {
+    "id": "wr_106",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (9)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيمِ...",
+    "transliteration": "Allāhumma Rabba-samāwātis-sab‘i wa Rabbal-‘arshil-‘aẓīm...",
+    "translations": {
+      "english": "O Allah, Lord of the seven heavens and Lord of the Magnificent Throne...",
+      "urdu": "اے اللہ! ساتوں آسمانوں کے رب اور عرش عظیم کے رب۔۔۔",
+      "hindi": "ऐ अल्लाह! सातों आसमानों के रब और अर्शे-अज़ीम के रब..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2713" },
+    "tags": ["sleep", "provision"]
+  },
+  {
+    "id": "wr_107",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (10)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا...",
+    "transliteration": "Alḥamdu lillāhilladhī aṭ‘amanā wa saqānā...",
+    "translations": {
+      "english": "Praise is to Allah who fed us, gave us drink, sufficed us and gave us shelter...",
+      "urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں کھلایا، پلایا، ہماری ضرورت پوری کی اور ہمیں ٹھکانہ دیا۔۔۔",
+      "hindi": "तमाम तारीफ़ें उस अल्लाह के लिए हैं जिसने हमें खिलाया, पिलाया, हमारी ज़रूरत पूरी की और हमें ठिकाना दिया..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2715" },
+    "tags": ["sleep", "gratitude"]
+  },
+  {
+    "id": "wr_108",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (11)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ...",
+    "transliteration": "Allāhumma ‘Ālimal-ghaybi wash-shahādati...",
+    "translations": {
+      "english": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the earth...",
+      "urdu": "اے اللہ! غیب اور ظاہر کے جاننے والے، آسمانوں اور زمین کے پیدا کرنے والے۔۔۔",
+      "hindi": "ऐ अल्लाह! ग़ैब और ज़ाहिर के जानने वाले, आसमानों और ज़मीन के पैदा करने वाले..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5067" },
+    "tags": ["sleep", "protection"]
+  },
+  {
+    "id": "wr_109",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (12)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "Recite Surah As-Sajdah (32) and Surah Al-Mulk (67).",
+    "transliteration": "Recite Al-Sajdah and Al-Mulk",
+    "translations": {
+      "english": "The Prophet ﷺ would not sleep until he had recited these two Surahs.",
+      "urdu": "نبی ﷺ اس وقت تک نہیں سوتے تھے جب تک یہ دو سورتیں نہ پڑھ لیتے۔",
+      "hindi": "नबी ﷺ उस वक़्त तक नहीं सोते थे जब तक ये दो सूरतें न पढ़ लेते।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "2892" },
+    "tags": ["sleep", "quran"]
+  },
+  {
+    "id": "wr_110",
+    "group_key": "Adhkar",
+    "title": "Before Sleeping (13)",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ...",
+    "transliteration": "Allāhumma aslamtu nafsī ilayka, wa fawwaḍtu amrī ilayka...",
+    "translations": {
+      "english": "O Allah, I submit myself to You, and I entrust my affair to You...",
+      "urdu": "اے اللہ! میں نے اپنی جان تیرے سپرد کر دی اور اپنا معاملہ تیرے حوالے کر دیا۔۔۔",
+      "hindi": "ऐ अल्लाह! मैंने अपनी जान तेरे सुपुर्द कर दी और अपना मामला तेरे हवाले कर दिया..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6313" },
+    "tags": ["sleep", "trust"]
+  },
+  {
+    "id": "wr_111",
+    "group_key": "Adhkar",
+    "title": "Turning over at Night",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 29,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَوَاتِ وَالْأَرْضِ...",
+    "transliteration": "Lā ilāha illallāhul-Wāḥidul-Qahhār, Rabbus-samāwāti wal-arḍi...",
+    "translations": {
+      "english": "There is no god but Allah, the One, the Subduer, Lord of the heavens and the earth...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں وہ اکیلا زبردست ہے، وہ آسمانوں اور زمین کا رب ہے۔۔۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं वो अकेला ज़बरदस्त है, वो आसमानों और ज़मीन का रब है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Hakim", "hadith_no": "1/540" },
+    "tags": ["night", "waking up"]
+  },
+  {
+    "id": "wr_112",
+    "group_key": "Adhkar",
+    "title": "Upon Fear during Sleep",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 30,
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ...",
+    "transliteration": "A‘ūdhu bi-kalimātillāhit-tāmmāti min ghaḍabihī...",
+    "translations": {
+      "english": "I seek refuge in the perfect words of Allah from His anger and His punishment...",
+      "urdu": "میں اللہ کے کامل کلمات کے ذریعے اس کے غضب، اس کی سزا اور اس کے بندوں کے شر سے پناہ مانگتا ہوں۔۔۔",
+      "hindi": "मैं अल्लाह के कामिल कलमात के ज़रिए उसके ग़ज़ब, उसकी सज़ा और उसके बन्दों के शर से पनाह माँगता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3893" },
+    "tags": ["nightmares", "fear"]
+  },
+  {
+    "id": "wr_113",
+    "group_key": "Adhkar",
+    "title": "When having a Dream",
+    "category": "Worship",
+    "subcategory": "Sleep",
+    "chapter_no": 31,
+    "arabic": "Spit to the left (3x) and seek refuge from Satan (3x).",
+    "transliteration": "A‘ūdhu billāhi minash-shayṭānir-rajīm",
+    "translations": {
+      "english": "If you see a bad dream, spit to your left three times and seek refuge in Allah from Satan.",
+      "urdu": "اگر برا خواب دیکھیں تو بائیں طرف تین بار تھتکار دیں اور شیطان سے اللہ کی پناہ مانگیں۔",
+      "hindi": "अगर बुरा ख़्वाब देखें तो बाईं तरफ़ तीन बार थुथकार दें और शैतान से अल्लाह की पनाह माँगें।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2261" },
+    "tags": ["dreams", "protection"]
+  },
+  {
+    "id": "wr_114",
+    "group_key": "Prayer",
+    "title": "Qunut in Witr",
+    "category": "Worship",
+    "subcategory": "Opening Prayer",
+    "chapter_no": 32,
+    "arabic": "اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ...",
+    "transliteration": "Allāhummah-dinī fīman hadayt, wa ‘āfinī fīman ‘āfayt...",
+    "translations": {
+      "english": "O Allah, guide me among those You have guided, and grant me well-being among those You have granted...",
+      "urdu": "اے اللہ! مجھے ان لوگوں میں ہدایت دے جنہیں تو نے ہدایت دی، اور مجھے ان میں عافیت دے جنہیں تو نے عافیت دی۔۔۔",
+      "hindi": "ऐ अल्लाह! मुझे उन लोगों में हिदायत दे जिन्हें तूने हिदायत दी, और मुझे उनमें आफ़ियत दे जिन्हें तूने आफ़ियत दी..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1425" },
+    "tags": ["witr", "qunut"]
+  },
+  {
+    "id": "wr_115",
+    "group_key": "Prayer",
+    "title": "After Witr Salam",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 33,
+    "arabic": "سُبْحَانَ الْمَلِكِ الْقُدُّوسِ (ثَلَاثاً)",
+    "transliteration": "Subḥānal-Malikil-Quddūs (3x)",
+    "translations": {
+      "english": "Glory is to the Sovereign, the Holy. (Recite 3 times, raising voice on the third).",
+      "urdu": "پاک ہے وہ بادشاہ جو نہایت مقدس ہے۔ (3 بار پڑھیں، تیسری بار آواز بلند کریں)۔",
+      "hindi": "पाक है वो बादशाह जो निहायत मुक़द्दस है। (3 बार पढ़ें, तीसरी बार आवाज़ बुलन्द करें)।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1430" },
+    "tags": ["witr", "praise"]
+  },
+  {
+    "id": "wr_116",
+    "group_key": "Mental Well-being",
+    "title": "Anxiety and Sorrow (1)",
+    "category": "Worship",
+    "subcategory": "Anxiety",
+    "chapter_no": 34,
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ...",
+    "transliteration": "Allāhumma innī a‘ūdhu bika minal-hammi wal-ḥazan...",
+    "translations": {
+      "english": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness...",
+      "urdu": "اے اللہ! میں فکر اور غم، عاجزی اور سستی، بخل اور بزدلی سے تیری پناہ مانگتا ہوں۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं फ़िक्र और ग़म, आजिज़ी और सुस्ती, बुख़्ल और बुज़दिली से तेरी पनाह माँगता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "2893" },
+    "tags": ["anxiety", "depression"]
+  },
+  {
+    "id": "wr_117",
+    "group_key": "Mental Well-being",
+    "title": "Anxiety and Sorrow (2)",
+    "category": "Worship",
+    "subcategory": "Anxiety",
+    "chapter_no": 34,
+    "arabic": "اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ...",
+    "transliteration": "Allāhumma innī ‘abduka, ibnu ‘abdika, ibnu amatika...",
+    "translations": {
+      "english": "O Allah, I am Your slave, the son of Your slave... my forelock is in Your hand...",
+      "urdu": "اے اللہ! میں تیرا بندہ ہوں، تیرے بندے کا بیٹا اور تیری لونڈی کا بیٹا ہوں، میری پیشانی تیرے ہاتھ میں ہے۔۔۔",
+      "hindi": "ऐ अल्लाह! मैं तेरा बन्दा हूँ, तेरे बन्दे का बेटा और तेरी लौंडी का बेटा हूँ, मेरी पेशानी तेरे हाथ में है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "3712" },
+    "tags": ["anxiety", "relief"]
+  },
+  {
+    "id": "wr_118",
+    "group_key": "Mental Well-being",
+    "title": "For one in Distress",
+    "category": "Worship",
+    "subcategory": "Anxiety",
+    "chapter_no": 35,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْعَظِيمُ الْحَلِيمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ...",
+    "transliteration": "Lā ilāha illallāhul-‘Aẓīmul-Ḥalīm...",
+    "translations": {
+      "english": "There is no god but Allah, the Magnificent, the Forbearing...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں جو عظمت والا اور بردبار ہے، اللہ کے سوا کوئی معبود نہیں جو عرش عظیم کا رب ہے۔۔۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं जो अज़मत वाला और बुर्दबार है, अल्लाह के सिवा कोई माबूद नहीं जो अर्शे-अज़ीम का रब है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6346" },
+    "tags": ["distress", "calm"]
+  },
+  {
+    "id": "wr_119",
+    "group_key": "Protection",
+    "title": "Meeting an Enemy",
+    "category": "Worship",
+    "subcategory": "Protection",
+    "chapter_no": 36,
+    "arabic": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+    "transliteration": "Allāhumma innā naj‘aluka fī nuḥūrihim wa na‘ūdhu bika min shurūrihim",
+    "translations": {
+      "english": "O Allah, we ask You to restrain them by their necks and we seek refuge in You from their evil.",
+      "urdu": "اے اللہ! ہم تجھے ان کے سینوں (مقابلے) میں کرتے ہیں اور ان کے شر سے تیری پناہ مانگتے ہیں۔",
+      "hindi": "ऐ अल्लाह! हम तुझे उनके सीनों (मुक़ाबले) में करते हैं और उनके शर से तेरी पनाह माँगता हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1537" },
+    "tags": ["enemy", "safety"]
+  },
+  {
+    "id": "wr_120",
+    "group_key": "Adhkar",
+    "title": "Excellence of Dhikr (1)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 127,
+    "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ",
+    "transliteration": "Subḥānallāh, wal-ḥamdu lillāh, wa lā ilāha illallāh, wallāhu akbar",
+    "translations": {
+      "english": "Glory is to Allah, praise is to Allah, there is no god but Allah, and Allah is Most Great.",
+      "urdu": "اللہ پاک ہے، تمام تعریفیں اللہ کے لیے ہیں، اللہ کے سوا کوئی معبود نہیں، اور اللہ سب سے بڑا ہے۔",
+      "hindi": "अल्लाह पाक है, तमाम तारीफ़ें अल्लाह के लिए हैं, अल्लाह के सिवा कोई माबूद नहीं, और अल्लाह सबसे बड़ा है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2695" },
+    "tags": ["dhikr", "virtue"]
+  },
+  {
+    "id": "wr_121",
+    "group_key": "Adhkar",
+    "title": "Excellence of Dhikr (2)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 127,
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "transliteration": "Subḥānallāhi wa biḥamdihī, Subḥānallāhil-‘Aẓīm",
+    "translations": {
+      "english": "Glory is to Allah and praise is to Him, Glory is to Allah the Magnificent.",
+      "urdu": "اللہ پاک ہے اپنی تعریف کے ساتھ، اللہ پاک ہے جو عظمت والا ہے۔",
+      "hindi": "अल्लाह पाक है अपनी तारीफ़ के साथ, अल्लाह पाक है जो अज़मत वाला है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6682" },
+    "tags": ["dhikr", "virtue"]
+  },
+  {
+    "id": "wr_122",
+    "group_key": "Adhkar",
+    "title": "Excellence of Dhikr (3)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 127,
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Lā ḥawla wa lā quwwata illā billāh",
+    "translations": {
+      "english": "There is no might nor power except with Allah.",
+      "urdu": "نیکی کرنے کی طاقت اور برائی سے بچنے کی ہمت اللہ ہی کی طرف سے ہے۔",
+      "hindi": "नेकी करने की ताक़त और बुराई से बचने की हिम्मत अल्लाह ही की तरफ़ से है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "4202" },
+    "tags": ["dhikr", "treasure"]
+  },
+  {
+    "id": "wr_123",
+    "group_key": "Adhkar",
+    "title": "Excellence of Dhikr (4)",
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "chapter_no": 127,
+    "arabic": "أَحَبُّ الْكَلَامِ إِلَى اللَّهِ أَرْبَعٌ...",
+    "transliteration": "Aḥabbul-kalāmi ilallāhi arba‘un...",
+    "translations": {
+      "english": "The most beloved words to Allah are four: Subhanallah, Alhamdulillah, La ilaha illallah, Allahu Akbar.",
+      "urdu": "اللہ کے نزدیک سب سے پسندیدہ کلمات چار ہیں: سبحان اللہ، الحمدللہ، لا الہ الا اللہ، اللہ اکبر۔",
+      "hindi": "अल्लाह के नज़दीक सबसे पसंदीदा कलमात चार हैं: सुब्हानअल्लाह, अल्हम्दुलिल्लाह, ला इलाहा इल्लल्लाह, अल्लाहू अकबर।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2137" },
+    "tags": ["dhikr", "beloved"]
+  }
+]

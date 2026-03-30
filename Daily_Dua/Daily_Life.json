@@ -1,0 +1,495 @@
+[
+  {
+    "id": "dl_001",
+    "group_key": "Waking Up",
+    "title": "When waking up (1)",
+    "category": "Daily Life",
+    "subcategory": "Waking up",
+    "chapter_no": 1,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "transliteration": "Alḥamdu lillāhilladhī aḥyānā ba‘da mā amātanā wa ilayhin-nushūr",
+    "translations": {
+      "english": "Praise is to Allah Who gives us life after He has caused us to die and to Him is the return.",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں مارنے (سلانے) کے بعد زندہ کیا اور اسی کی طرف لوٹ کر جانا ہے۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने हमें मारने (सुलाने) के बाद ज़िन्दा किया और उसी की तरफ़ लौट कर जाना है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6312" },
+    "tags": ["waking up", "morning", "gratitude"]
+  },
+  {
+    "id": "dl_002",
+    "group_key": "Waking Up",
+    "title": "When waking up (2)",
+    "category": "Daily Life",
+    "subcategory": "Waking up",
+    "chapter_no": 1,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu, wa Huwa ‘alā kulli shay’in Qadīr, Subḥānallāhi, walḥamdu lillāhi, wa lā ilāha illallāhu, wallāhu akbaru, wa lā ḥawla wa lā quwwata illā billāhil-‘Aliyyil-‘Aẓīm, Rabbigh-fir lī",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone... Glory is to Allah, praise is to Allah... My Lord, forgive me.",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے... اللہ پاک ہے اور تمام تعریفیں اللہ ہی کے لیے ہیں... اے میرے رب مجھے بخش دے۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं वो अकेला है... अल्लाह पाक है और तमाम तारीफ़ें अल्लाह ही के लिए हैं... ऐ मेरे रब मुझे बख़्श दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1154" },
+    "tags": ["waking up", "dhikr", "forgiveness"]
+  },
+  {
+    "id": "dl_003",
+    "group_key": "Waking Up",
+    "title": "When waking up (3)",
+    "category": "Daily Life",
+    "subcategory": "Waking up",
+    "chapter_no": 1,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ",
+    "transliteration": "Alḥamdu lillāhilladhī ‘āfānī fī jasadī, wa radda ‘alayya rūḥī, wa adhina lī bidhikrihi",
+    "translations": {
+      "english": "Praise is to Allah Who afforded me safety in my body, and returned my soul to me and permitted me to remember Him.",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے میرے جسم کو عافیت دی، اور میری روح مجھے واپس لوٹا دی، اور مجھے اپنے ذکر کی اجازت دی۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने मेरे जिस्म को आफ़ियत दी, और मेरी रूह मुझे वापस लौटा दी, और मुझे अपने ज़िक्र की इजाज़त दी।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3401" },
+    "tags": ["waking up", "health", "soul"]
+  },
+  {
+    "id": "dl_004",
+    "group_key": "Clothing",
+    "title": "When wearing a garment",
+    "category": "Daily Life",
+    "subcategory": "Clothing",
+    "chapter_no": 2,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "transliteration": "Alḥamdu lillāhilladhī kasānī hādhā (ath-thawba) wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwah",
+    "translations": {
+      "english": "Praise is to Allah Who has clothed me with this garment and provided it for me, with no power nor might from myself.",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ لباس پہنایا اور میری کسی طاقت اور قوت کے بغیر مجھے یہ عطا فرمایا۔",
+      "hindi": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने मुझे ये लिबास पहनाया और मेरी किसी ताक़त और कुवत के बग़ैर मुझे ये अता फ़रमाया।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4023" },
+    "tags": ["clothes", "gratitude"]
+  },
+  {
+    "id": "dl_005",
+    "group_key": "Clothing",
+    "title": "When wearing a new garment",
+    "category": "Daily Life",
+    "subcategory": "Clothing",
+    "chapter_no": 3,
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
+    "transliteration": "Allāhumma lakal-ḥamdu Anta kasawtanīhi, as’aluka min khayrihi wa khayri mā ṣuni‘a lahu, wa a‘ūdhu bika min sharrihi wa sharri mā ṣuni‘a lahu",
+    "translations": {
+      "english": "O Allah, for You is the praise. You have clothed me with it. I ask You for the good of it... and I seek refuge in You from the evil of it...",
+      "urdu": "اے اللہ! تیرے ہی لیے تعریف ہے، تو نے ہی مجھے یہ پہنایا، میں تجھ سے اس کی خیر کا سوال کرتا ہوں... اور اس کے شر سے تیری پناہ مانگتا ہوں...",
+      "hindi": "ऐ अल्लाह! तेरे ही लिए तारीफ़ है, तूने ही मुझे ये पहनाया, मैं तुझसे इसकी खैर का सवाल करता हूँ... और इसके शर से तेरी पनाह माँगता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4020" },
+    "tags": ["new clothes", "praise"]
+  },
+  {
+    "id": "dl_006",
+    "group_key": "Clothing",
+    "title": "To someone wearing a new garment (1)",
+    "category": "Daily Life",
+    "subcategory": "Clothing",
+    "chapter_no": 4,
+    "arabic": "تُبْلِي وَيُخْلِفُ اللَّهُ تَعَالَى",
+    "transliteration": "Tublī wa yukhlifullāhu Ta‘ālā",
+    "translations": {
+      "english": "May you wear it out and may Allah replace it (with another).",
+      "urdu": "تم اسے پرانا کرو اور اللہ تعالیٰ تمہیں اس کا بدل عطا فرمائے۔",
+      "hindi": "तुम इसे पुराना करो और अल्लाह तआला तुम्हें इसका बदल अता फ़रमाए।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4020" },
+    "tags": ["manners", "clothing"]
+  },
+  {
+    "id": "dl_007",
+    "group_key": "Clothing",
+    "title": "To someone wearing a new garment (2)",
+    "category": "Daily Life",
+    "subcategory": "Clothing",
+    "chapter_no": 4,
+    "arabic": "الْبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً",
+    "transliteration": "Ilbas jadīdan, wa ‘ish ḥamīdan, wa mut shahīdan",
+    "translations": {
+      "english": "Wear new clothes, live a praiseworthy life and die as a martyr.",
+      "urdu": "نیا لباس پہنو، قابل تعریف زندگی گزارو اور شہادت کی موت پاؤ۔",
+      "hindi": "नया लिबास पहनो, क़ाबिले तारीफ़ ज़िन्दगी गुज़ारो और शहादत की मौत पाओ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Majah", "hadith_no": "3558" },
+    "tags": ["manners", "clothing", "dua"]
+  },
+  {
+    "id": "dl_008",
+    "group_key": "Clothing",
+    "title": "Before undressing",
+    "category": "Daily Life",
+    "subcategory": "Clothing",
+    "chapter_no": 5,
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillāh",
+    "translations": {
+      "english": "In the name of Allah.",
+      "urdu": "اللہ کے نام سے۔",
+      "hindi": "अल्लाह के नाम से।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "606" },
+    "tags": ["undressing", "protection", "bismillah"]
+  },
+  {
+    "id": "dl_009",
+    "group_key": "Toilet",
+    "title": "Before entering the toilet",
+    "category": "Daily Life",
+    "subcategory": "Toilet",
+    "chapter_no": 6,
+    "arabic": "[بِسْمِ اللَّهِ] اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "transliteration": "[Bismillāhi] Allāhumma innī a‘ūdhu bika minal-khubuthi wal-khabā’ith",
+    "translations": {
+      "english": "[In the name of Allah]. O Allah, I seek refuge in You from the male and female devils.",
+      "urdu": "اللہ کے نام سے، اے اللہ! میں خبیث جنوں اور جنیوں سے تیری پناہ مانگتا ہوں۔",
+      "hindi": "अल्लाह के नाम से, ऐ अल्लाह! मैं ख़बीस जिन्नों और जिन्नियों से तेरी पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "142" },
+    "tags": ["toilet", "protection", "shaitan"]
+  },
+  {
+    "id": "dl_010",
+    "group_key": "Toilet",
+    "title": "After leaving the toilet",
+    "category": "Daily Life",
+    "subcategory": "Toilet",
+    "chapter_no": 7,
+    "arabic": "غُفْرَانَكَ",
+    "transliteration": "Ghufrānaka",
+    "translations": {
+      "english": "I ask You for forgiveness.",
+      "urdu": "اے اللہ! میں تجھ سے بخشش مانگتا ہوں۔",
+      "hindi": "ऐ अल्लाह! मैं तुझसे बख़्शिश माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "7" },
+    "tags": ["toilet", "forgiveness"]
+  },
+  {
+    "id": "dl_011",
+    "group_key": "Home",
+    "title": "When leaving the home (1)",
+    "category": "Daily Life",
+    "subcategory": "Home",
+    "chapter_no": 10,
+    "arabic": "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Bismillāhi, tawakkaltu ‘alallāhi, wa lā ḥawla wa lā quwwata illā billāh",
+    "translations": {
+      "english": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.",
+      "urdu": "اللہ کے نام کے ساتھ، میں نے اللہ پر توکل کیا، اور نیکی کرنے کی طاقت اور برائی سے بچنے کی ہمت اللہ ہی کی طرف سے ہے۔",
+      "hindi": "अल्लाह के नाम के साथ, मैंने अल्लाह पर तवक्कुल किया, और नेकी करने की ताक़त और बुराई से बचने की हिम्मत अल्लाह ही की तरफ़ से है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5095" },
+    "tags": ["leaving home", "trust", "protection"]
+  },
+  {
+    "id": "dl_012",
+    "group_key": "Home",
+    "title": "When leaving the home (2)",
+    "category": "Daily Life",
+    "subcategory": "Home",
+    "chapter_no": 10,
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضَلَّ، أَوْ أَزِلَّ، أَوْ أُزَلَّ...",
+    "transliteration": "Allāhumma innī a‘ūdhu bika an aḍilla, aw uḍalla, aw azilla, aw uzalla...",
+    "translations": {
+      "english": "O Allah, I seek refuge in You lest I should stray or be led astray, or slip or be tripped...",
+      "urdu": "اے اللہ! میں تیری پناہ مانگتا ہوں اس سے کہ میں گمراہ ہو جاؤں یا گمراہ کر دیا جاؤں، یا میں پھسل جاؤں یا مجھے پھسلا دیا جائے...",
+      "hindi": "ऐ अल्लाह! मैं तेरी पनाह माँगता हूँ इससे कि मैं गुमराह हो जाऊँ या गुमराह कर दिया जाऊँ, या मैं फिसल जाऊँ या मुझे फिसला दिया जाए..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5094" },
+    "tags": ["leaving home", "protection", "guidance"]
+  },
+  {
+    "id": "dl_013",
+    "group_key": "Home",
+    "title": "When entering the home",
+    "category": "Daily Life",
+    "subcategory": "Home",
+    "chapter_no": 11,
+    "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى رَبِّنَا تَوَكَّلْنَا",
+    "transliteration": "Bismillāhi walajnā, wa bismillāhi kharajnā, wa ‘alā Rabbinā tawakkalnā",
+    "translations": {
+      "english": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we rely.",
+      "urdu": "اللہ کے نام کے ساتھ ہم داخل ہوئے اور اللہ ہی کے نام کے ساتھ ہم نکلے اور ہم نے اپنے رب ہی پر بھروسہ کیا۔",
+      "hindi": "अल्लाह के नाम के साथ हम दाख़िल हुए और अल्लाह ही के नाम के साथ हम निकले और हमने अपने रब ही पर भरोसा किया।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5096" },
+    "tags": ["entering home", "trust", "bismillah"]
+  },
+  {
+    "id": "dl_014",
+    "group_key": "Sleep",
+    "title": "Before sleeping (The Cupped Hands Method)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "(Recitation of Surah Al-Ikhlas, Al-Falaq, and An-Nas into cupped hands, then wiping the body)",
+    "transliteration": "Qul Huwallāhu Aḥad... Qul A‘ūdhu bi Rabbil-Falaq... Qul A‘ūdhu bi Rabbin-Nās",
+    "translations": {
+      "english": "Recite the three Surahs, blow into hands and wipe over the body (three times).",
+      "urdu": "سورہ اخلاص، سورہ فلق اور سورہ ناس پڑھ کر ہاتھوں پر پھونکیں اور جسم پر ملیں۔ (تین بار)",
+      "hindi": "सूरह इख़लास, सूरह फ़लक़ और सूरह नास पढ़ कर हाथों पर फूँकें और जिस्म पर मलें। (तीन बार)"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "5017" },
+    "tags": ["sleep", "protection", "quran"]
+  },
+  {
+    "id": "dl_015",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Ayatul Kursi)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+    "transliteration": "Allāhu lā ilāha illā Huwal-Ḥayyul-Qayyūm...",
+    "translations": {
+      "english": "Allah! There is no god but He, the Ever Living, the One Who sustains and protects all that exists...",
+      "urdu": "اللہ، اس کے سوا کوئی معبود نہیں، وہ زندہ ہے اور سب کو قائم رکھنے والا ہے...",
+      "hindi": "अल्लाह, उसके सिवा कोई माबूद नहीं, वो ज़िन्दा है और सबको क़ायम रखने वाला है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "2311" },
+    "tags": ["sleep", "protection", "ayatul kursi"]
+  },
+  {
+    "id": "dl_016",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Last two verses of Al-Baqarah)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ...",
+    "transliteration": "Āmanar-rasūlu bimā unzila ilayhi mir-Rabbihi wal-mu’minūn...",
+    "translations": {
+      "english": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers...",
+      "urdu": "رسول اس پر ایمان لایا جو اس کے رب کی طرف سے اس پر اتارا گیا اور مومن بھی...",
+      "hindi": "रसूल उस पर ईमान लाया जो उसके रब की तरफ़ से उस पर उतारा गया और मोमिन भी..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "5009" },
+    "tags": ["sleep", "protection", "quran"]
+  },
+  {
+    "id": "dl_017",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Core bedtime prayer)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا...",
+    "transliteration": "Bismika Rabbī waḍa‘tu janbī, wa bika arfa‘uhu, fa’in amsakta nafsī farḥamhā...",
+    "translations": {
+      "english": "In Your name my Lord, I lie down and in Your name I rise. If You take my soul, have mercy on it...",
+      "urdu": "اے میرے رب! تیرے نام کے ساتھ میں نے اپنا پہلو (بستر پر) رکھا اور تیرے ہی نام کے ساتھ اسے اٹھاؤں گا، اگر تو میری جان روک لے تو اس پر رحم فرما...",
+      "hindi": "ऐ मेरे रब! तेरे नाम के साथ मैंने अपना पहलू (बिस्तर पर) रखा और तेरे ही नाम के साथ इसे उठाऊँगा, अगर तू मेरी जान रोक ले तो उस पर रहम फ़रमा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6320" },
+    "tags": ["sleep", "mercy", "soul"]
+  },
+  {
+    "id": "dl_018",
+    "group_key": "Sleep",
+    "title": "Before sleeping (The Tasbih)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "سُبْحَانَ اللَّهِ (33)، وَالْحَمْدُ لِلَّهِ (33)، وَاللَّهُ أَكْبَرُ (34)",
+    "transliteration": "Subḥānallāh (33x), Alḥamdulillāh (33x), Allāhu Akbar (34x)",
+    "translations": {
+      "english": "Glory is to Allah, Praise is to Allah, Allah is the Most Great.",
+      "urdu": "اللہ پاک ہے، تمام تعریفیں اللہ کے لیے ہیں، اللہ سب سے بڑا ہے۔",
+      "hindi": "अल्लाह पाक है, तमाम तारीफ़ें अल्लाह के लिए हैं, अल्लाह सबसे बड़ा है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3705" },
+    "tags": ["sleep", "dhikr", "strength"]
+  },
+  {
+    "id": "dl_019",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Dua for sustenance)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ...",
+    "transliteration": "Allāhumma Rabba-samāwātis-sab‘i wa Rabbal-‘Arshil-‘Aẓīm, Rabbanā wa Rabba kulli shay’in...",
+    "translations": {
+      "english": "O Allah, Lord of the seven heavens and Lord of the Magnificent Throne, our Lord and Lord of everything...",
+      "urdu": "اے اللہ! ساتوں آسمانوں کے رب اور عرش عظیم کے رب، ہمارے رب اور ہر چیز کے رب...",
+      "hindi": "ऐ अल्लाह! सातों आसमानों के रब और अर्श-ए-अज़ीम के रब, हमारे रब और हर चीज़ के रब..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2713" },
+    "tags": ["sleep", "provision", "lordship"]
+  },
+  {
+    "id": "dl_020",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Gratitude for blessings)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا...",
+    "transliteration": "Alḥamdu lillāhilladhī aṭ‘amanā wa saqānā wa kafānā wa āwānā...",
+    "translations": {
+      "english": "Praise is to Allah Who fed us, gave us drink, sufficed us and gave us shelter...",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں کھلایا، پلایا، ہمیں کافی ہوا اور ہمیں ٹھکانا دیا...",
+      "hindi": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने हमें खिलाया, पिलाया, हमें काफ़ी हुआ और हमें ठिकाना दिया..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2715" },
+    "tags": ["sleep", "gratitude", "shelter"]
+  },
+  {
+    "id": "dl_021",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Knowledge of the unseen)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ...",
+    "transliteration": "Allāhumma ‘Ālimal-ghaybi wash-shahādah, Fāṭira-samāwāti wal-arḍ...",
+    "translations": {
+      "english": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the earth...",
+      "urdu": "اے اللہ! غیب اور ظاہر کے جاننے والے، آسمانوں اور زمین کے پیدا کرنے والے...",
+      "hindi": "ऐ अल्लाह! ग़ैब और ज़ाहिर के जानने वाले, आसमानों और ज़मीन के पैदा करने वाले..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5067" },
+    "tags": ["sleep", "shaitan", "protection"]
+  },
+  {
+    "id": "dl_022",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Surah As-Sajdah and Al-Mulk)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "(Recitation of Surah As-Sajdah and Surah Al-Mulk)",
+    "transliteration": "Alif-Lām-Mīm Tanzīl... and Tabārakalladhī biyadihil-mulk",
+    "translations": {
+      "english": "The Prophet (s) would not sleep until he recited Surah As-Sajdah and Surah Al-Mulk.",
+      "urdu": "نبی کریم ﷺ جب تک سورہ السجدہ اور سورہ الملک نہ پڑھ لیتے نہیں سوتے تھے۔",
+      "hindi": "नबी करीम ﷺ जब तक सूरह अस-सजदा और सूरह अल-मुल्क न पढ़ लेते नहीं सोते थे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "2892" },
+    "tags": ["sleep", "quran", "protection"]
+  },
+  {
+    "id": "dl_023",
+    "group_key": "Sleep",
+    "title": "Before sleeping (The Final Submission)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ...",
+    "transliteration": "Allāhumma aslamtu nafsī ilayka, wa fawwaḍtu amrī ilayka, wa wajjahtu wajhī ilayka...",
+    "translations": {
+      "english": "O Allah, I submit my soul to You, entrust my affairs to You, and turn my face to You...",
+      "urdu": "اے اللہ! میں نے اپنی جان تیرے حوالے کر دی، اپنا معاملہ تیرے سپرد کر دیا اور اپنا چہرہ تیری طرف پھیر لیا...",
+      "hindi": "ऐ अल्लाह! मैंने अपनी जान तेरे हवाले कर दी, अपना मामला तेरे सुपुर्द कर दिया और अपना चेहरा तेरी तरफ़ फेर लिया..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6313" },
+    "tags": ["sleep", "submission", "trust"]
+  },
+  {
+    "id": "dl_024",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Brief Protection)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "transliteration": "Bismika Allāhumma amūtu wa aḥyā",
+    "translations": {
+      "english": "In Your name, O Allah, I die and I live.",
+      "urdu": "اے اللہ! تیرے ہی نام کے ساتھ میں مرتا ہوں اور جیتا ہوں۔",
+      "hindi": "ऐ अल्लाह! तेरे ही नाम के साथ मैं मरता हूँ और जीता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "6324" },
+    "tags": ["sleep", "bismillah", "life"]
+  },
+  {
+    "id": "dl_025",
+    "group_key": "Sleep",
+    "title": "Before sleeping (Atonement)",
+    "category": "Daily Life",
+    "subcategory": "Before sleeping",
+    "chapter_no": 28,
+    "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+    "transliteration": "Allāhumma qinī ‘adhābaka yawma tab‘athu ‘ibādaka",
+    "translations": {
+      "english": "O Allah, protect me from Your punishment on the Day You resurrect Your slaves. (Recite 3 times)",
+      "urdu": "اے اللہ! مجھے اپنے عذاب سے بچا جس دن تو اپنے بندوں کو اٹھائے گا۔",
+      "hindi": "ऐ अल्लाह! मुझे अपने अज़ाब से बचा जिस दिन तू अपने बन्दों को उठाएगा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "5045" },
+    "tags": ["sleep", "protection", "resurrection"]
+  },
+  {
+    "id": "dl_026",
+    "group_key": "Night",
+    "title": "Turning over during the night",
+    "category": "Daily Life",
+    "subcategory": "Night disturbances",
+    "chapter_no": 29,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ",
+    "transliteration": "Lā ilāha illallāhul-Wāḥidul-Qahhār, Rabbu-samāwāti wal-arḍi wa mā baynahumal-‘Azīzul-Ghaffār",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah, the One, the Victorious, Lord of the heavens and the earth...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، سب پر غالب ہے، آسمانوں اور زمین کا رب ہے...",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं, वो अकेला है, सब पर ग़ालिब है, आसमानों और ज़मीन का रब है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Hakim", "hadith_no": "1/540" },
+    "tags": ["night", "turning", "dhikr"]
+  },
+  {
+    "id": "dl_027",
+    "group_key": "Night",
+    "title": "Experiencing unrest or fear in sleep",
+    "category": "Daily Life",
+    "subcategory": "Night disturbances",
+    "chapter_no": 30,
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ...",
+    "transliteration": "A‘ūdhu bi-kalimātillāhit-tāmmāti min ghaḍabihi wa ‘iqābihi, wa sharri ‘ibādihi...",
+    "translations": {
+      "english": "I seek refuge in the Perfect Words of Allah from His anger and His punishment, and from the evil of His slaves...",
+      "urdu": "میں اللہ کے مکمل کلمات کی پناہ مانگتا ہوں اس کے غضب اور اس کی سزا سے، اور اس کے بندوں کے شر سے...",
+      "hindi": "मैं अल्लाह के मुकम्मल कलमात की पनाह माँगता हूँ उसके ग़ज़ब और उसकी सज़ा से, और उसके बन्दों के शर से..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3893" },
+    "tags": ["fear", "sleep", "protection"]
+  },
+  {
+    "id": "dl_028",
+    "group_key": "Night",
+    "title": "Upon seeing a bad dream",
+    "category": "Daily Life",
+    "subcategory": "Dreams",
+    "chapter_no": 31,
+    "arabic": "(Spit dryly to the left three times and seek refuge in Allah from Shaitan)",
+    "transliteration": "A‘ūdhu billāhi minash-shayṭānir-rajīm wa min sharri hādhihir-ru’yā",
+    "translations": {
+      "english": "Spit to your left three times and seek refuge in Allah from the Shaitan and the evil of what you saw.",
+      "urdu": "بائیں طرف تین بار تھتکاریں اور شیطان اور اس خواب کے شر سے اللہ کی پناہ مانگیں۔",
+      "hindi": "बाईं तरफ़ तीन बार थुथकारें और शैतान और इस ख़्वाब के शर से अल्लाह की पनाह माँगें।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2261" },
+    "tags": ["dreams", "protection", "shaitan"]
+  },
+  {
+    "id": "dl_029",
+    "group_key": "General",
+    "title": "When startled",
+    "category": "Daily Life",
+    "subcategory": "Startled",
+    "chapter_no": 123,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
+    "transliteration": "Lā ilāha illallāh",
+    "translations": {
+      "english": "There is no god but Allah.",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3346" },
+    "tags": ["startled", "fear", "dhikr"]
+  }
+]

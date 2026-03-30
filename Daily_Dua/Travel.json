@@ -1,0 +1,194 @@
+[
+  {
+    "id": "tr_001",
+    "group_key": "Mounting transport",
+    "title": "When mounting an animal or transport",
+    "category": "Travel",
+    "subcategory": "Mounting transport",
+    "arabic": "بِسْمِ اللَّهِ، الْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+    "transliteration": "Bismillāhi, Alḥamdu lillāhi, Subḥānal-ladhī sakh-khara lanā hadhā wa mā kunnā lahu muqrinīn, wa innā ilā Rabbinā lamunqalibūn",
+    "translations": {
+      "english": "In the name of Allah. Praise is to Allah. Glory is to Him Who has provided this for us, though we could never have subdued it by ourselves, and surely, to our Lord we are returning.",
+      "urdu": "اللہ کے نام سے، تمام تعریفیں اللہ کے لیے ہیں۔ پاک ہے وہ ذات جس نے اسے ہمارے قابو میں کر دیا حالانکہ ہم اسے قابو میں کرنے والے نہ تھے، اور یقیناً ہمیں اپنے رب کی طرف لوٹ کر جانا ہے۔",
+      "hindi": "अल्लाह के नाम से, तमाम तारीफ़ें अल्लाह के लिए हैं। पाक है वो ज़ात जिसने इसे हमारे क़ाबू में कर दिया हालाँकि हम इसे क़ाबू में करने वाले न थे, और यक़ीनन हमें अपने रब की तरफ़ लौट कर जाना है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "2599" },
+    "tags": ["travel", "transport", "mounting", "safety"]
+  },
+  {
+    "id": "tr_002",
+    "group_key": "Journey",
+    "title": "Supplication for travel",
+    "category": "Travel",
+    "subcategory": "For travel",
+    "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى...",
+    "transliteration": "Allāhumma innā nas’aluka fī safarinā hadhal-birra wat-taqwā, wa minal-‘amali mā tarḍā...",
+    "translations": {
+      "english": "O Allah, we ask You on this journey of ours for goodness and piety, and for works that are pleasing to You...",
+      "urdu": "اے اللہ! ہم اپنے اس سفر میں تجھ سے نیکی اور تقویٰ کا سوال کرتے ہیں، اور ایسے عمل کا جو تجھے پسند ہو...",
+      "hindi": "ऐ अल्लाह! हम अपने इस सफ़र में तुझसे नेकी और तक़वा का सवाल करते हैं, और ऐसे अमल का जो तुझे पसंद हो..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1342" },
+    "tags": ["travel", "journey", "piety", "protection"]
+  },
+  {
+    "id": "tr_003",
+    "group_key": "Arrival",
+    "title": "Upon entering a town or village",
+    "category": "Travel",
+    "subcategory": "Entering town/village",
+    "arabic": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الْأَرَضِينَ السَّبْعِ وَمَا أَقْلَلْنَ...",
+    "transliteration": "Allāhumma Rabbas-samāwātis-sab‘i wa mā aẓlalna, wa Rabbal-araḍīnas-sab‘i wa mā aqlalna...",
+    "translations": {
+      "english": "O Allah, Lord of the seven heavens and all they overshadow, Lord of the seven earths and all they carry...",
+      "urdu": "اے اللہ! ساتوں آسمانوں کے رب اور ان کے سائے میں آنے والی چیزوں کے رب، اور ساتوں زمینوں کے رب اور ان کے اوپر بوجھ اٹھانے والی چیزوں کے رب...",
+      "hindi": "ऐ अल्लाह! सातों आसमानों के रब और उनके साये में आने वाली चीज़ों के रब, और सातों ज़मीनों के रब और उनके ऊपर बोझ उठाने वाली चीज़ों के रब..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "An-Nasa'i", "hadith_no": "8849" },
+    "tags": ["travel", "arrival", "town", "protection"]
+  },
+  {
+    "id": "tr_004",
+    "group_key": "Marketplace",
+    "title": "Upon entering a marketplace",
+    "category": "Travel",
+    "subcategory": "Entering marketplace",
+    "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لاَ يَمُوتُ...",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu, yuḥyī wa yumītu, wa Huwa ḥayyun lā yamūtu...",
+    "translations": {
+      "english": "There is no god but Allah, alone, without partner. His is the sovereignty and His is the praise. He gives life and causes death, and He is Ever-Living and does not die...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے، وہی زندہ کرتا ہے اور وہی مارتا ہے، اور وہ ہمیشہ زندہ رہنے والا ہے...",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं, वो अकेला है, उसका कोई शरीक नहीं, उसी की बादशाही है और उसी के लिए तमाम तारीफ़ है, वही ज़िन्दा करता है और वही मारता है, और वो हमेशा ज़िन्दा रहने वाला है..."
+    },
+    "source": { "authenticity": "Hasan", "collection": "Tirmidhi", "hadith_no": "3428" },
+    "tags": ["market", "shopping", "protection", "reward"]
+  },
+  {
+    "id": "tr_005",
+    "group_key": "Accident",
+    "title": "When the mount stumbles",
+    "category": "Travel",
+    "subcategory": "Mount stumbles",
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillāh",
+    "translations": {
+      "english": "In the name of Allah.",
+      "urdu": "اللہ کے نام سے۔",
+      "hindi": "अल्लाह के नाम से।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "4982" },
+    "tags": ["stumble", "accident", "protection"]
+  },
+  {
+    "id": "tr_006",
+    "group_key": "Departure",
+    "title": "The traveler's supplication for the resident",
+    "category": "Travel",
+    "subcategory": "Traveler to resident",
+    "arabic": "أَسْتَوْدِعُكُمُ اللَّهَ الَّذِي لاَ تَضِيعُ وَدَائِعُهُ",
+    "transliteration": "Astawdi‘ukumullāhalladhī lā taḍī‘u wadā’i‘uhu",
+    "translations": {
+      "english": "I leave you in the care of Allah, as His trusts are never lost.",
+      "urdu": "میں تمہیں اللہ کے سپرد کرتا ہوں جس کے پاس رکھی ہوئی امانتیں ضائع نہیں ہوتیں۔",
+      "hindi": "मैं तुम्हें अल्लाह के सुपुर्द करता हूँ जिसके पास रखी हुई अमानतें ज़ाया नहीं होतीं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ibn Majah", "hadith_no": "2825" },
+    "tags": ["departure", "trust", "resident"]
+  },
+  {
+    "id": "tr_007",
+    "group_key": "Departure",
+    "title": "The resident's supplication for the traveler (1)",
+    "category": "Travel",
+    "subcategory": "Resident to traveler",
+    "arabic": "أَسْتَوْدِعُ اللَّهَ دِينَكَ، وَأَمَانَتَكَ، وَخَوَاتِيمَ عَمَلِكَ",
+    "transliteration": "Astawdi‘ullāha dīnaka, wa amānataka, wa khawātīma ‘amalika",
+    "translations": {
+      "english": "I leave your religion, your faithfulness and your final actions in the care of Allah.",
+      "urdu": "میں تمہارے دین، تمہاری امانت اور تمہارے آخری اعمال کو اللہ کے سپرد کرتا ہوں۔",
+      "hindi": "मैं तुम्हारे दीन, तुम्हारी अमानत और तुम्हारे आख़िरी आमाल को अल्लाह के सुपुर्द करता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "2600" },
+    "tags": ["departure", "traveler", "protection", "faith"]
+  },
+  {
+    "id": "tr_008",
+    "group_key": "Departure",
+    "title": "The resident's supplication for the traveler (2)",
+    "category": "Travel",
+    "subcategory": "Resident to traveler",
+    "arabic": "زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَ ذَنْبَكَ، وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+    "transliteration": "Zawwadakallāhut-taqwā, wa ghafara dhanbaka, wa yassara lakal-khayra haythumā kunta",
+    "translations": {
+      "english": "May Allah provide you with piety, forgive your sins and facilitate for you the good wherever you be.",
+      "urdu": "اللہ تمہیں تقویٰ کا زادِ راہ دے، تمہارے گناہ معاف فرمائے اور جہاں کہیں بھی تم ہو تمہارے لیے خیر کو آسان کر دے۔",
+      "hindi": "अल्लाह तुम्हें तक़वा का ज़ादे-राह दे, तुम्हारे गुनाह माफ़ फ़रमाए और जहाँ कहीं भी तुम हो तुम्हारे लिए खैर को आसान कर दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3444" },
+    "tags": ["departure", "traveler", "blessing", "piety"]
+  },
+  {
+    "id": "tr_009",
+    "group_key": "Journey",
+    "title": "Takbir and Tasbih during travel",
+    "category": "Travel",
+    "subcategory": "Takbir/Tasbih on travel",
+    "arabic": "إِذَا صَعِدْنَا كَبَّرْنَا، وَإِذَا نَزَلْنَا سَبَّحْنَا",
+    "transliteration": "Idhā ṣa‘idnā kabbarnā, wa idhā nazalnā sabbaḥnā",
+    "translations": {
+      "english": "When we go up a hill we say 'Allah is the Most Great', and when we go down we say 'Glory is to Allah'.",
+      "urdu": "جب ہم بلندی پر چڑھتے تو 'اللہ اکبر' کہتے اور جب نیچے اترتے تو 'سبحان اللہ' کہتے۔",
+      "hindi": "जब हम बुलंदी पर चढ़ते तो 'अल्लाहू अकबर' कहते और जब नीचे उतरते तो 'सुब्हान अल्लाह' कहते।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "2993" },
+    "tags": ["journey", "elevation", "dhikr", "sunnah"]
+  },
+  {
+    "id": "tr_010",
+    "group_key": "Journey",
+    "title": "Traveler's prayer at dawn",
+    "category": "Travel",
+    "subcategory": "Dawn during travel",
+    "arabic": "سَمِعَ سَامِعٌ بِحَمْدِ اللَّهِ وَحُسْنِ بَلائِهِ عَلَيْنَا، رَبَّنَا صَاحِبْنَا وَأَفْضِلْ عَلَيْنَا...",
+    "transliteration": "Sami‘a sāmi‘un bi-ḥamdillāhi wa ḥusni balā’ihi ‘alaynā, Rabbanā ṣāḥibnā wa afḍil ‘alaynā...",
+    "translations": {
+      "english": "May a witness bear witness to our praise of Allah for His favors and bounties upon us. Our Lord, protect us and favor us...",
+      "urdu": "سننے والے نے اللہ کی حمد اور اس کے ہمارے اوپر اچھے انعام کو سن لیا۔ اے ہمارے رب! ہمارا ساتھی بن جا اور ہم پر اپنا فضل فرما...",
+      "hindi": "सुनने वाले ने अल्लाह की हम्द और उसके हमारे ऊपर अच्छे इनाम को सुन लिया। ऐ हमारे रब! हमारा साथी बन जा और हम पर अपना फ़ज़ल फ़रमा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2718" },
+    "tags": ["dawn", "morning", "travel", "praise"]
+  },
+  {
+    "id": "tr_011",
+    "group_key": "Arrival",
+    "title": "When stopping at a place during travel",
+    "category": "Travel",
+    "subcategory": "Stopping during travel",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "transliteration": "A‘ūdhu bi-kalimātillāhit-tāmmāti min sharri mā khalaq",
+    "translations": {
+      "english": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+      "urdu": "میں اللہ کے مکمل کلمات کے ساتھ اس کی تمام مخلوقات کے شر سے پناہ مانگتا ہوں۔",
+      "hindi": "मैं अल्लाह के मुकम्मल कलमात के साथ उसकी तमाम मख़्लूक़ात के शर से पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2708" },
+    "tags": ["stopping", "protection", "safety", "shelter"]
+  },
+  {
+    "id": "tr_012",
+    "group_key": "Return",
+    "title": "Upon returning from travel",
+    "category": "Travel",
+    "subcategory": "Returning from travel",
+    "arabic": "آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ",
+    "transliteration": "Āyibūna, tā’ibūna, ‘ābidūna, li-Rabbinā ḥāmidūn",
+    "translations": {
+      "english": "We return, we repent, we worship and to our Lord we give praise.",
+      "urdu": "ہم لوٹنے والے ہیں، توبہ کرنے والے ہیں، عبادت کرنے والے ہیں اور اپنے رب کی حمد بیان کرنے والے ہیں۔",
+      "hindi": "हम लौटने वाले हैं, तौबा करने वाले हैं, इबादत करने वाले हैं और अपने रब की हम्द बयान करने वाले हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1342" },
+    "tags": ["return", "repentance", "home", "gratitude"]
+  }
+]

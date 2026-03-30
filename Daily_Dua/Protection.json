@@ -1,0 +1,325 @@
+[
+  {
+    "id": "pr_001",
+    "group_key": "After Prayer",
+    "title": "Immediately after Salam of Witr",
+    "category": "Protection",
+    "subcategory": "After Witr prayer",
+    "chapter_no": 33,
+    "arabic": "سُبْحَانَ الْمَلِكِ الْقُدُّوسِ",
+    "transliteration": "Subḥānal-Malikil-Quddūs",
+    "translations": {
+      "english": "Glory is to the King, the Holy. (Recited three times, elongating the third)",
+      "urdu": "پاک ہے وہ بادشاہ جو نہایت مقدس ہے۔",
+      "hindi": "पाक है वो बादशाह जो निहायत मुक़द्दस है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1430" },
+    "tags": ["witr", "protection", "praise"]
+  },
+  {
+    "id": "pr_002",
+    "group_key": "Enemies",
+    "title": "Upon encountering an enemy or ruler (1)",
+    "category": "Protection",
+    "subcategory": "Enemies and Rulers",
+    "chapter_no": 36,
+    "arabic": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+    "transliteration": "Allāhumma innā naj‘aluka fī nuḥūrihim wa na‘ūdhu bika min shurūrihim",
+    "translations": {
+      "english": "O Allah, we ask You to restrain them by their necks and we seek refuge in You from their evil.",
+      "urdu": "اے اللہ! ہم تجھے ان کے سامنے کرتے ہیں اور ان کی برائیوں سے تیری پناہ مانگتے ہیں۔",
+      "hindi": "ऐ अल्लाह! हम तुझे इनके सामने करते हैं और इनकी बुराइयों से तेरी पनाह माँगते हैं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1537" },
+    "tags": ["enemy", "ruler", "fear", "protection"]
+  },
+  {
+    "id": "pr_003",
+    "group_key": "Enemies",
+    "title": "Upon encountering an enemy or ruler (2)",
+    "category": "Protection",
+    "subcategory": "Enemies and Rulers",
+    "chapter_no": 36,
+    "arabic": "اللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيرِي، بِكَ أَحُولُ وَبِكَ أَصُولُ، وَبِكَ أُقَاتِلُ",
+    "transliteration": "Allāhumma Anta ‘aḍudī, wa Anta naṣīrī, bika aḥūlu wa bika aṣūlu, wa bika uqātilu",
+    "translations": {
+      "english": "O Allah, You are my strength and You are my support. For Your sake I go forth and for Your sake I advance and for Your sake I fight.",
+      "urdu": "اے اللہ! تو ہی میرا بازو اور تو ہی میرا مددگار ہے، تیری ہی مدد سے میں کوئی تدبیر کرتا ہوں اور تیری ہی مدد سے حملہ کرتا ہوں اور تیری ہی مدد سے لڑتا ہوں۔",
+      "hindi": "ऐ अल्लाह! तू ही मेरा बाज़ू और तू ही मेरा मददगार है, तेरी ही मदद से मैं कोई तदबीर करता हूँ और तेरी ही मदद से हमला करता हूँ और तेरी ही मदद से लड़ता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "2632" },
+    "tags": ["strength", "victory", "enemy"]
+  },
+  {
+    "id": "pr_004",
+    "group_key": "Injustice",
+    "title": "Fear of a Sultan's injustice (1)",
+    "category": "Protection",
+    "subcategory": "Oppressive Rulers",
+    "chapter_no": 37,
+    "arabic": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، كُنْ لِي جَاراً مِنْ فُلَانِ بْنِ فُلَانٍ...",
+    "transliteration": "Allāhumma Rabba-samāwātis-sab‘i, wa Rabbal-‘Arshil-‘Aẓīm, kun lī jāran min fulāni-bn-fulānin...",
+    "translations": {
+      "english": "O Allah, Lord of the seven heavens and Lord of the Great Throne, be a Protector for me against [name of person]...",
+      "urdu": "اے اللہ! ساتوں آسمانوں کے رب اور عرش عظیم کے رب! تو فلاں بن فلاں کے مقابلے میں میرا محافظ بن جا...",
+      "hindi": "ऐ अल्लाह! सातों आसमानों के रब और अर्श-ए-अज़ीम के रब! तू फ़लां इब्ने फ़लां के मुक़ाबले में मेरा मुहाफ़िज़ बन जा..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Adab Al-Mufrad", "hadith_no": "707" },
+    "tags": ["injustice", "protection", "ruler"]
+  },
+  {
+    "id": "pr_005",
+    "group_key": "Injustice",
+    "title": "Fear of a Sultan's injustice (2)",
+    "category": "Protection",
+    "subcategory": "Oppressive Rulers",
+    "chapter_no": 37,
+    "arabic": "اللَّهُ أَكْبَرُ، اللَّهُ أَعَزُّ مِنْ خَلْقِهِ جَمِيعاً، اللَّهُ أَعَزُّ مِمَّا أَخَافُ وَأَحْذَرُ...",
+    "transliteration": "Allāhu Akbar, Allāhu a‘azzu min khalqihi jamī‘an, Allāhu a‘azzu mimmā akhāfu wa aḥdharu...",
+    "translations": {
+      "english": "Allah is the Most Great, Allah is mightier than all His creation, Allah is mightier than what I fear and dread...",
+      "urdu": "اللہ سب سے بڑا ہے، اللہ اپنی تمام مخلوق سے زیادہ غالب ہے، اللہ اس سے بھی زیادہ غالب ہے جس سے میں ڈرتا اور خوف کھاتا ہوں...",
+      "hindi": "अल्लाह सबसे बड़ा है, अल्लाह अपनी तमाम मख़्लूक़ से ज़्यादा ग़ालिब है, अल्लाह उससे भी ज़्यादा ग़ालिब है जिससे मैं डरता और ख़ौफ़ खाता हूँ..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Al-Adab Al-Mufrad", "hadith_no": "708" },
+    "tags": ["fear", "greatness", "protection"]
+  },
+  {
+    "id": "pr_006",
+    "group_key": "Enemies",
+    "title": "Against an enemy",
+    "category": "Protection",
+    "subcategory": "Defeating enemies",
+    "chapter_no": 38,
+    "arabic": "اللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيعَ الْحِسَابِ، اهْزِمِ الْأَحْزَابَ، اللَّهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُمْ",
+    "transliteration": "Allāhumma Munzilal-Kitābi, Sarī‘al-ḥisābi, ihzimil-aḥzāba, Allāhummah-zimhum wa zalzilhum",
+    "translations": {
+      "english": "O Allah, Revealer of the Book, Swift at reckoning, defeat the confederates. O Allah, defeat them and shake them.",
+      "urdu": "اے اللہ! کتاب اتارنے والے، جلد حساب لینے والے، ان گروہوں کو شکست دے۔ اے اللہ! انہیں شکست دے اور انہیں ہلا کر رکھ دے۔",
+      "hindi": "ऐ अल्लाह! किताब उतारने वाले, जल्द हिसाब लेने वाले, इन गिरोहों को शिकस्त दे। ऐ अल्लाह! इन्हें शिकस्त दे और इन्हें हिला कर रख दे।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1742" },
+    "tags": ["victory", "enemy", "protection"]
+  },
+  {
+    "id": "pr_007",
+    "group_key": "Fear",
+    "title": "Fear of a group of people",
+    "category": "Protection",
+    "subcategory": "Fear of people",
+    "chapter_no": 39,
+    "arabic": "اللَّهُمَّ اكْفِنِيهِمْ بِمَا شِئْتَ",
+    "transliteration": "Allāhummak-finīhim bimā shi’ta",
+    "translations": {
+      "english": "O Allah, suffice me against them however You wish.",
+      "urdu": "اے اللہ! تو جس طرح چاہے میری طرف سے ان کے لیے کافی ہو جا۔",
+      "hindi": "ऐ अल्लाह! तू जिस तरह चाहे मेरी तरफ़ से इनके लिए काफ़ी हो जा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "3005" },
+    "tags": ["sufficiency", "protection", "fear"]
+  },
+  {
+    "id": "pr_008",
+    "group_key": "Shaitan",
+    "title": "Expelling the Devil and his whispers",
+    "category": "Protection",
+    "subcategory": "Against Shaitan",
+    "chapter_no": 45,
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "A‘ūdhu billāhi minash-shayṭānir-rajīm",
+    "translations": {
+      "english": "I seek refuge in Allah from Satan the outcast.",
+      "urdu": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+      "hindi": "मैं शैतान मरदूद से अल्लाह की पनाह माँगता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2203" },
+    "tags": ["shaitan", "whispers", "protection"]
+  },
+  {
+    "id": "pr_009",
+    "group_key": "Family",
+    "title": "Placing children under Allah's protection",
+    "category": "Protection",
+    "subcategory": "Children",
+    "chapter_no": 48,
+    "arabic": "أُعِيذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+    "transliteration": "U‘īdhukumā bikalimātillāhit-tāmmati, min kulli shayṭānin wa hāmmatin, wa min kulli ‘aynin lāmmah",
+    "translations": {
+      "english": "I seek protection for you in the Perfect Words of Allah from every devil and every poisonous beast, and from every envious eye.",
+      "urdu": "میں تم دونوں کو اللہ کے مکمل کلمات کی پناہ میں دیتا ہوں، ہر شیطان اور زہریلے جانور سے اور ہر نقصان پہنچانے والی (بد) نظر سے۔",
+      "hindi": "मैं तुम दोनों को अल्लाह के मुकम्मल कलमात की पनाह में देता हूँ, हर शैतान और ज़हरीले जानवर से और हर नुक़सान पहुँचाने वाली (बद) नज़र से।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "3371" },
+    "tags": ["children", "evil eye", "protection"]
+  },
+  {
+    "id": "pr_010",
+    "group_key": "Omens",
+    "title": "Regarding ill omens",
+    "category": "Protection",
+    "subcategory": "Superstition",
+    "chapter_no": 91,
+    "arabic": "اللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ، وَلَا خَيْرَ إِلَّا خَيْرُكَ، وَلَا إِلَهَ غَيْرُكَ",
+    "transliteration": "Allāhumma lā ṭayra illā ṭayruka, wa lā khayra illā khayruka, wa lā ilāha ghayruka",
+    "translations": {
+      "english": "O Allah, there is no omen except Your omen, and there is no goodness except Your goodness, and there is no god besides You.",
+      "urdu": "اے اللہ! کوئی بدشگونی نہیں مگر تیری طرف سے (یعنی تیرے فیصلے سے)، اور کوئی بھلائی نہیں مگر تیری دی ہوئی، اور تیرے سوا کوئی معبود نہیں۔",
+      "hindi": "ऐ अल्लाह! कोई बदशगुनी नहीं मगर तेरी तरफ़ से (यानी तेरे फ़ैसले से), और कोई भलाई नहीं मगर तेरी दी हुई, और तेरे सिवा कोई माबूद नहीं।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "2/220" },
+    "tags": ["omens", "tawhid", "protection"]
+  },
+  {
+    "id": "pr_011",
+    "group_key": "Hajj",
+    "title": "The Takbir at the Black Stone",
+    "category": "Protection",
+    "subcategory": "Tawaf",
+    "chapter_no": 113,
+    "arabic": "اللَّهُ أَكْبَرُ",
+    "transliteration": "Allāhu Akbar",
+    "translations": {
+      "english": "Allah is the Most Great.",
+      "urdu": "اللہ سب سے بڑا ہے۔",
+      "hindi": "अल्लाह सबसे बड़ा है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1613" },
+    "tags": ["hajj", "umrah", "takbir", "black stone"]
+  },
+  {
+    "id": "pr_012",
+    "group_key": "Hajj",
+    "title": "Between the Yemeni Corner and the Black Stone",
+    "category": "Protection",
+    "subcategory": "Tawaf",
+    "chapter_no": 114,
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ‘adhāban-nār",
+    "translations": {
+      "english": "Our Lord, grant us good in this world and good in the Hereafter and save us from the punishment of the Fire.",
+      "urdu": "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔",
+      "hindi": "ऐ हमारे रब! हमें दुनिया में भी भलाई अता फ़रमा और आख़िरत में भी भलाई अता फ़रमा और हमें आग के अज़ाब से बचा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "1892" },
+    "tags": ["hajj", "umrah", "tawaf", "protection"]
+  },
+  {
+    "id": "pr_013",
+    "group_key": "Hajj",
+    "title": "While standing at Safa and Marwah",
+    "category": "Protection",
+    "subcategory": "Sa'i",
+    "chapter_no": 115,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ...",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu wa Huwa ‘alā kulli shay’in Qadīr...",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone, Who has no partner, His is the dominion and His is the praise...",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کے لیے بادشاہی ہے اور اسی کے لیے تعریف ہے...",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं, वो अकेला है, उसका कोई शरीक नहीं, उसी के लिए बादशाही है और उसी के लिए तारीफ़ है..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1218" },
+    "tags": ["hajj", "umrah", "safa", "marwah"]
+  },
+  {
+    "id": "pr_014",
+    "group_key": "Hajj",
+    "title": "At the Sacred Site (Muzdalifah)",
+    "category": "Protection",
+    "subcategory": "Muzdalifah",
+    "chapter_no": 117,
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu, wa Huwa ‘alā kulli shay’in Qadīr",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone, Who has no partner, His is the dominion and His is the praise, and He is Able to do all things.",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کے لیے بادشاہی ہے اور اسی کے لیے تمام تعریف ہے، اور وہ ہر چیز پر قادر ہے۔",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं, वो अकेला है, उसका कोई शरीक नहीं, उसी के लिए बादशाही है और उसी के लिए तमाम तारीफ़ है, और वो हर चीज़ पर क़ादिर है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1218" },
+    "tags": ["hajj", "muzdalifah", "tawhid"]
+  },
+  {
+    "id": "pr_015",
+    "group_key": "Hajj",
+    "title": "When throwing pebbles at the Jamarat",
+    "category": "Protection",
+    "subcategory": "Jamarat",
+    "chapter_no": 118,
+    "arabic": "اللَّهُ أَكْبَرُ",
+    "transliteration": "Allāhu Akbar",
+    "translations": {
+      "english": "Allah is the Most Great. (To be said with each pebble thrown).",
+      "urdu": "اللہ سب سے بڑا ہے۔",
+      "hindi": "अल्लाह सबसे बड़ा है।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "1750" },
+    "tags": ["hajj", "jamarat", "takbir"]
+  },
+  {
+    "id": "pr_016",
+    "group_key": "Evil Eye",
+    "title": "When fearing you may afflict someone (Evil Eye)",
+    "category": "Protection",
+    "subcategory": "Protection from Envy",
+    "chapter_no": 122,
+    "arabic": "اللَّهُمَّ بَارِكْ عَلَيْهِ",
+    "transliteration": "Allāhumma bārik ‘alayh",
+    "translations": {
+      "english": "O Allah, bless him.",
+      "urdu": "اے اللہ! اس پر برکت نازل فرما۔",
+      "hindi": "ऐ अल्लाह! इस पर बरकत नाज़िल फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "4/447" },
+    "tags": ["evil eye", "blessing", "protection"]
+  },
+  {
+    "id": "pr_017",
+    "group_key": "Shaitan",
+    "title": "To ward off the deception of the Devils",
+    "category": "Protection",
+    "subcategory": "Against Shaitan",
+    "chapter_no": 125,
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ...",
+    "transliteration": "A‘ūdhu bi-kalimātillāhit-tāmmātillatī lā yujāwizuhunna barrun wa lā fājirun min sharri mā khalaqa...",
+    "translations": {
+      "english": "I seek refuge in the Perfect Words of Allah—which neither the righteous nor the wicked can pass—from the evil of what He has created...",
+      "urdu": "میں اللہ کے ان مکمل کلمات کی پناہ مانگتا ہوں جن سے کوئی نیک اور نہ ہی کوئی بدکار آگے بڑھ سکتا ہے، ہر اس چیز کے شر سے جو اس نے پیدا کی...",
+      "hindi": "मैं अल्लाह के इन मुकम्मल कलमात की पनाह माँगता हूँ जिनसे कोई नेक और न ही कोई बदकार आगे बढ़ सकता है, हर उस चीज़ के शर से जो उसने पैदा की..."
+    },
+    "source": { "authenticity": "Sahih", "collection": "Ahmad", "hadith_no": "3/419" },
+    "tags": ["protection", "shaitan", "deception"]
+  },
+  {
+    "id": "pr_018",
+    "group_key": "Enemies",
+    "title": "For help against the enemy (1)",
+    "category": "Protection",
+    "subcategory": "Victory",
+    "chapter_no": 130,
+    "arabic": "اللَّهُمَّ اكْفِنِيهِمْ بِمَا شِئْتَ",
+    "transliteration": "Allāhummak-finīhim bimā shi’ta",
+    "translations": {
+      "english": "O Allah, suffice me against them however You wish.",
+      "urdu": "اے اللہ! تو جس طرح چاہے میری طرف سے ان کے لیے کافی ہو جا۔",
+      "hindi": "ऐ अल्लाह! तू जिस तरह चाहे मेरी तरफ़ से इनके लिए काफ़ी हो जा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "3005" },
+    "tags": ["victory", "enemy", "protection"]
+  },
+  {
+    "id": "pr_019",
+    "group_key": "Enemies",
+    "title": "For help against the enemy (2)",
+    "category": "Protection",
+    "subcategory": "Victory",
+    "chapter_no": 130,
+    "arabic": "اللَّهُمَّ أَنْتَ عَضُدِي وَأَنْتَ نَصِيرِي، بِكَ أَحُولُ وَبِكَ أَصُولُ، وَبِكَ أُقَاتِلُ",
+    "transliteration": "Allāhumma Anta ‘aḍudī wa Anta naṣīrī, bika aḥūlu wa bika aṣūlu, wa bika uqātilu",
+    "translations": {
+      "english": "O Allah, You are my strength and You are my support. For Your sake I go forth and for Your sake I advance and for Your sake I fight.",
+      "urdu": "اے اللہ! تو ہی میرا بازو اور تو ہی میرا مددگار ہے، تیری ہی مدد سے میں کوئی تدبیر کرتا ہوں اور تیری ہی مدد سے حملہ کرتا ہوں اور تیری ہی مدد سے لڑتا ہوں۔",
+      "hindi": "ऐ अल्लाह! तू ही मेरा बाज़ू और तू ही मेरा मददगार है, तेरी ही मदद से मैं कोई तदबीर करता हूँ और तेरी ही मदद से हमला करता हूँ और तेरी ही मदद से लड़ता हूँ।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "2632" },
+    "tags": ["strength", "victory", "enemy"]
+  }
+]

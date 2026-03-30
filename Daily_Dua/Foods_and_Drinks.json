@@ -1,0 +1,194 @@
+[
+  {
+    "id": "fd_001",
+    "group_key": "Before eating",
+    "title": "Before eating",
+    "category": "Foods & Drinks",
+    "subcategory": "Before eating",
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillāh",
+    "translations": {
+      "english": "In the name of Allah.",
+      "urdu": "اللہ کے نام سے۔",
+      "hindi": "अल्लाह के नाम से।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3767" },
+    "tags": ["eating", "sunnah", "blessing"]
+  },
+  {
+    "id": "fd_002",
+    "group_key": "Before eating",
+    "title": "Before eating",
+    "category": "Foods & Drinks",
+    "subcategory": "Before eating",
+    "arabic": "بِسْمِ اللَّهِ وَعَلَى بَرَكَةِ اللَّهِ",
+    "transliteration": "Bismillāhi wa ‘alā barakatillāh",
+    "translations": {
+      "english": "In the name of Allah and upon the blessings of Allah.",
+      "urdu": "اللہ کے نام سے اور اللہ کی برکت پر۔",
+      "hindi": "अल्लाह के नाम से और अल्लाह की बरकत पर।"
+    },
+    "source": { "authenticity": "Hasan", "collection": "Al-Hakim", "hadith_no": "7084" },
+    "tags": ["eating", "variation", "blessing"]
+  },
+  {
+    "id": "fd_003",
+    "group_key": "Before eating",
+    "title": "If one forgets to say Bismillah",
+    "category": "Foods & Drinks",
+    "subcategory": "Before eating",
+    "arabic": "بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ",
+    "transliteration": "Bismillāhi fī awwalihi wa ākhirihi",
+    "translations": {
+      "english": "In the name of Allah, in its beginning and its end.",
+      "urdu": "اللہ کے نام سے، اس کے شروع میں اور اس کے آخر میں۔",
+      "hindi": "अल्लाह के नाम से, इसके शुरू में और इसके आख़िर में।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3767" },
+    "tags": ["forgetting", "eating", "sunnah"]
+  },
+  {
+    "id": "fd_004",
+    "group_key": "After eating",
+    "title": "Upon finishing a meal (1)",
+    "category": "Foods & Drinks",
+    "subcategory": "Upon finishing a meal",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا، وَرَزَقَنِيهِ، مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "transliteration": "Alḥamdu lillāhilladhī aṭ‘amanī hadhā, wa razaqanīhi, min ghayri ḥawlin minnī wa lā quwwah",
+    "translations": {
+      "english": "Praise is to Allah who has fed me this and provided it for me without any might or power from myself.",
+      "urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے مجھے یہ کھلایا اور میری کسی طاقت اور قوت کے بغیر مجھے یہ عطا فرمایا۔",
+      "hindi": "तमाम तारीफ़ें उस अल्लाह के लिए हैं जिसने मुझे ये खिलाया और मेरी किसी ताक़त और क़ुव्वत के बग़ैर मुझे ये अता फ़रमाया।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Tirmidhi", "hadith_no": "3458" },
+    "tags": ["gratitude", "after eating", "provision"]
+  },
+  {
+    "id": "fd_005",
+    "group_key": "After eating",
+    "title": "Upon finishing a meal (2)",
+    "category": "Foods & Drinks",
+    "subcategory": "Upon finishing a meal",
+    "arabic": "الْحَمْدُ لِلَّهِ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ، غَيْرَ مَكْفِيٍّ وَلَا مُوَدَّعٍ، وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَا",
+    "transliteration": "Alḥamdu lillāhi ḥamdan kathīran ṭayyiban mubārakan fīhi, ghayra makfiyyin wa lā muwadda‘in, wa lā mustaghnan ‘anhu Rabbanā",
+    "translations": {
+      "english": "Praise is to Allah, an abundant, good, blessed praise. He is not in need of anyone of His creation, nor is He forsaken or dispensed with, Our Lord.",
+      "urdu": "اللہ ہی کے لیے بہت زیادہ، پاکیزہ اور بابرکت تعریف ہے، جس (کی نعمتوں) کا حق ادا نہیں کیا جا سکتا اور نہ اسے چھوڑا جا سکتا ہے اور نہ اس سے بے نیازی برتی جا سکتی ہے، اے ہمارے رب!",
+      "hindi": "अल्लाह ही के लिए बहुत ज़्यादा, पाकीज़ा और बा-बरकत तारीफ़ है, जिसकी नेमतों का हक़ अदा नहीं किया जा सकता और न उसे छोड़ा जा सकता है और न उससे बे-नियाज़ी बरती जा सकती है, ऐ हमारे रब!"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Bukhari", "hadith_no": "5458" },
+    "tags": ["gratitude", "praise", "blessing"]
+  },
+  {
+    "id": "fd_006",
+    "group_key": "After eating",
+    "title": "Upon finishing a meal (3)",
+    "category": "Foods & Drinks",
+    "subcategory": "Upon finishing a meal",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَأَطْعِمْنَا خَيْراً مِنْهُ",
+    "transliteration": "Allāhumma bārik lanā fīhi wa aṭ‘imnā khayran minhu",
+    "translations": {
+      "english": "O Allah, bless it for us and feed us with something better than it.",
+      "urdu": "اے اللہ! ہمارے لیے اس میں برکت عطا فرما اور ہمیں اس سے بہتر کھلانا۔",
+      "hindi": "ऐ अल्लाह! हमारे लिए इसमें बरकत अता फ़रमा और हमें इससे बेहतर खिलाना।"
+    },
+    "source": { "authenticity": "Hasan", "collection": "Tirmidhi", "hadith_no": "3455" },
+    "tags": ["blessing", "milk", "food"]
+  },
+  {
+    "id": "fd_007",
+    "group_key": "Hospitality",
+    "title": "Guest's supplication for the host",
+    "category": "Foods & Drinks",
+    "subcategory": "Guest's supplication for the host",
+    "arabic": "اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+    "transliteration": "Allāhumma bārik lahum fīmā razaqtahum, waghfir lahum warḥamhum",
+    "translations": {
+      "english": "O Allah, bless them in what You have provided for them, and forgive them and have mercy on them.",
+      "urdu": "اے اللہ! جو رزق تو نے انہیں دیا ہے اس میں ان کے لیے برکت فرما، انہیں معاف فرما اور ان پر رحم فرما۔",
+      "hindi": "ऐ अल्लाह! जो रिज़्क़ तूने इन्हें दिया है उसमें इनके लिए बरकत फ़रमा, इन्हें माफ़ फ़रमा और इन पर रहम फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2042" },
+    "tags": ["guest", "host", "blessing", "mercy"]
+  },
+  {
+    "id": "fd_008",
+    "group_key": "Hospitality",
+    "title": "For one who gives you a drink",
+    "category": "Foods & Drinks",
+    "subcategory": "For one who gives you a drink",
+    "arabic": "اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي، وَاسْقِ مَنْ سَقَانِي",
+    "transliteration": "Allāhumma aṭ‘im man aṭ‘amanī, wasqi man saqānī",
+    "translations": {
+      "english": "O Allah, feed him who has fed me, and give drink to him who has given me drink.",
+      "urdu": "اے اللہ! اس کو کھلا جس نے مجھے کھلایا اور اس کو پلا جس نے مجھے پلایا۔",
+      "hindi": "ऐ अल्लाह! उसको खिला जिसने मुझे खिलाया और उसको पिला जिसने मुझे पिलाया।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "2055" },
+    "tags": ["drinking", "gratitude", "du'a for others"]
+  },
+  {
+    "id": "fd_009",
+    "group_key": "Hospitality",
+    "title": "For one who provides Iftar for you",
+    "category": "Foods & Drinks",
+    "subcategory": "For one who provides Iftar for you",
+    "arabic": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلائِكَةُ",
+    "transliteration": "Afṭara ‘indakumus-ṣā’imūna, wa akala ṭa‘āmakumul-abrāru, wa ṣallat ‘alaykumul-malā’ikatu",
+    "translations": {
+      "english": "May fasting people break their fast with you, may the pious eat your food, and may the angels pray for you.",
+      "urdu": "روزہ دار تمہارے پاس افطار کریں، نیک لوگ تمہارا کھانا کھائیں اور فرشتے تمہارے لیے دعائے رحمت کریں۔",
+      "hindi": "रोज़ादार तुम्हारे पास इफ़्तार करें, नेक लोग तुम्हारा खाना खाएं और फ़रिश्ते तुम्हारे लिए दुआ-ए-रहमत करें।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Abu Dawud", "hadith_no": "3854" },
+    "tags": ["iftar", "fasting", "hospitality", "blessing"]
+  },
+  {
+    "id": "fd_010",
+    "group_key": "Hospitality",
+    "title": "When offered food but fasting",
+    "category": "Foods & Drinks",
+    "subcategory": "Offered food while fasting",
+    "arabic": "إِذَا دُعِيَ أَحَدُكُمْ فَلْيُجِبْ، فَإِنْ كَانَ صَائِمًا فَلْيُصَلِّ، وَإِنْ كَانَ مُفْطِرًا فَلْيَطْعَمْ",
+    "transliteration": "Idhā du‘iya aḥadukum falyujib, fa’in kāna ṣā’iman falyuṣalli, wa’in kāna mufṭiran falyaṭ‘am",
+    "translations": {
+      "english": "If any of you is invited, let him respond. If he is fasting, let him pray (for the host), and if he is not fasting, let him eat.",
+      "urdu": "جب تم میں سے کسی کو دعوت دی جائے تو اسے قبول کرنی چاہیے، اگر وہ روزے سے ہے تو دعا کرے اور اگر روزے سے نہیں ہے تو کھا لے۔",
+      "hindi": "जब तुम में से किसी को दावत दी जाए तो उसे क़बूल करनी चाहिए, अगर वो रोज़े से है तो दुआ करे और अगर रोज़े से नहीं है तो खा ले।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1431" },
+    "tags": ["fasting", "invitation", "etiquette"]
+  },
+  {
+    "id": "fd_011",
+    "group_key": "Nature",
+    "title": "When seeing the first premature fruit (1)",
+    "category": "Foods & Drinks",
+    "subcategory": "When seeing the first fruit",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِينَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا",
+    "transliteration": "Allāhumma bārik lanā fī thamarinā, wa bārik lanā fī madīnatinā, wa bārik lanā fī ṣā‘inā, wa bārik lanā fī muddinā",
+    "translations": {
+      "english": "O Allah, bless us in our fruit, and bless us in our city, and bless us in our Sa' (measure), and bless us in our Mudd (measure).",
+      "urdu": "اے اللہ! ہمارے لیے ہمارے پھلوں میں برکت عطا فرما، ہمارے لیے ہمارے شہر میں برکت فرما اور ہمارے لیے ہمارے صاع اور مد (پیمانوں) میں برکت فرما۔",
+      "hindi": "ऐ अल्लाह! हमारे लिए हमारे फलों में बरकत अता फ़रमा, हमारे लिए हमारे शहर में बरकत फ़रमा और हमारे लिए हमारे साअ और मुद्द (पैमानों) में बरकत फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1373" },
+    "tags": ["fruit", "provision", "city", "blessing"]
+  },
+  {
+    "id": "fd_012",
+    "group_key": "Nature",
+    "title": "When seeing the first premature fruit (2)",
+    "category": "Foods & Drinks",
+    "subcategory": "When seeing the first fruit",
+    "arabic": "اللَّهُمَّ اجْعَلْ مَعَ الْبَرَكَةِ بَرَكَتَيْنِ",
+    "transliteration": "Allāhumma-j‘al ma‘al-barakati barakatayn",
+    "translations": {
+      "english": "O Allah, grant us double the blessing with every blessing.",
+      "urdu": "اے اللہ! ایک برکت کے ساتھ دوہری برکتیں عطا فرما۔",
+      "hindi": "ऐ अल्लाह! एक बरकत के साथ दोहरी बरकतें अता फ़रमा।"
+    },
+    "source": { "authenticity": "Sahih", "collection": "Muslim", "hadith_no": "1373" },
+    "tags": ["blessing", "provision", "fruit"]
+  }
+]
