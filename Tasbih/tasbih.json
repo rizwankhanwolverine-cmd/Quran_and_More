@@ -1,0 +1,98 @@
+[
+  {
+    "id": "tasbih_001",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu, wa huwa ‘alā kulli shay’in qadīr",
+    "translations": {
+      "english": "None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things.",
+      "hindi": "अल्लाह के सिवा कोई माबूद नहीं, वह अकेला है, उसका कोई शरीक नहीं, उसी की बादशाही है और उसी के लिए तमाम तारीफ़ें हैं, और वह हर चीज़ पर क़ादिर है।",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریفیں ہیں، اور وہ ہر چیز پر قادر ہے۔"
+    },
+    "count": 100,
+    "source": "Sahih Bukhari, Hadith - 3293"
+  },
+  {
+    "id": "tasbih_002",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "transliteration": "Subḥānallāhi wa biḥamdihi, Subḥānallāhil-Aẓīm",
+    "translations": {
+      "english": "Glory be to Allah and His is the praise, Glory be to Allah the Supreme.",
+      "hindi": "अल्लाह पाक है अपनी तारीफ़ के साथ, अल्लाह पाक है जो बहुत अज़मत वाला है।",
+      "urdu": "اللہ پاک ہے اپنی تعریف کے साथ، اللہ پاک ہے جو بہت عظمت والا ہے۔"
+    },
+    "count": 100,
+    "source": "Sahih Bukhari, Hadith - 6682"
+  },
+  {
+    "id": "tasbih_003",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "transliteration": "Astaghfirullāh",
+    "translations": {
+      "english": "I seek forgiveness from Allah.",
+      "hindi": "मैं अल्लाह से माफ़ी मांगता हूँ।",
+      "urdu": "میں اللہ سے مغفرت طلب کرتا ہوں۔"
+    },
+    "count": 100,
+    "source": "Sahih Muslim, Hadith - 591"
+  },
+  {
+    "id": "tasbih_004",
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Lā ḥawla wa lā quwwata illā billāh",
+    "translations": {
+      "english": "There is no power nor might except with Allah.",
+      "hindi": "गुनाहों से बचने की ताक़त और नेकी करने की कुव्वत अल्लाह ही की तरफ़ से है।",
+      "urdu": "گناہوں سے بچنے کی طاقت اور نیکی کرنے کی قوت اللہ ہی کی طرف سے ہے۔"
+    },
+    "count": 100,
+    "source": "Sahih Bukhari, Hadith - 6409"
+  },
+  {
+    "id": "tasbih_005",
+    "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+    "transliteration": "Lā ilāha illā Anta subḥānaka innī kuntu minaẓ-ẓālimīn",
+    "translations": {
+      "english": "None has the right to be worshipped but You; Glory be to You, Indeed I have been of the wrongdoers.",
+      "hindi": "तेरे सिवा कोई माबूद नहीं, तू पाक है, बेशक मैं ही ज़ालिमों (क़सूरवारों) में से था।",
+      "urdu": "تیرے سوا کوئی معبود نہیں، تو پاک ہے، بے شک میں ہی ظالموں میں سے تھا۔"
+    },
+    "count": 100,
+    "source": "Surah Al-Anbiya, Verse - 87"
+  },
+  {
+    "id": "tasbih_006",
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "transliteration": "Ḥasbunallāhu wa ni‘mal-wakīl",
+    "translations": {
+      "english": "Sufficient for us is Allah, and [He is] the best Disposer of affairs.",
+      "hindi": "अल्लाह हमारे लिए काफ़ी है और वह बेहतरीन कार्यसाधक है।",
+      "urdu": "اللہ ہمیں کافی ہے اور وہ بہترین کارساز ہے۔"
+    },
+    "count": 100,
+    "source": "Surah Ali 'Imran, Verse - 173"
+  },
+  {
+    "id": "tasbih_007",
+    "arabic": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "transliteration": "Ḥasbiyallāhu lā ilāha illā Huwa ‘alayhi tawakkaltu wa Huwa Rabbul-‘Arshil-‘Aẓīm",
+    "translations": {
+      "english": "Sufficient for me is Allah; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.",
+      "hindi": "मेरे लिए अल्लाह काफ़ी है, उसके सिवा कोई माबूद नहीं। उसी पर मैंने भरोसा किया और वही बड़े अर्श का मालिक है।",
+      "urdu": "میرے لیے اللہ کافی ہے، اس کے سوا کوئی معبود نہیں۔ اسی پر میں نے بھروسہ کیا اور وہی عرشِ عظیم کا رب ہے۔"
+    },
+    "count": 7,
+    "source": "Surah At-Tawbah, Verse - 129"
+  },
+  {
+    "id": "tasbih_008",
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ‘adhāban-nār",
+    "translations": {
+      "english": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.",
+      "hindi": "ऐ हमारे रब! हमें दुनिया में भी भलाई अता कर और आख़िरत में भी भलाई अता कर और हमें आग (दोज़ख़) के अज़ाब से बचा।",
+      "urdu": "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی عطا کر اور آخرت میں بھی بھلائی عطا کر اور ہمیں آگ کے عذاب سے بچا۔"
+    },
+    "count": 100,
+    "source": "Surah Al-Baqarah, Verse - 201"
+  }
+]
